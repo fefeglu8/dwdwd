@@ -6,11 +6,15 @@
   "attachments": [
     {
       "name": "دليل القبول",
-      "url": "https://example.com/guide.pdf"
+      "url": "https://apply.kfupm.edu.sa/documents/2/admission_booklet.pdf"
+    },
+   {
+      "name": "خطاب التزكية",
+      "url": "https://apply.kfupm.edu.sa/documents/11/Recommendation_Letter2.pdf"
     },
     {
       "name": "موقع الجامعة",
-      "url": "https://example.com"
+      "url": "https://admissions.kfupm.edu.sa/"
     }
   ],
 
@@ -53,6 +57,20 @@
     "university": "كلية الأمير سلطان للعلوم الصحية",
     "start": "2025-06-29",
     "end": "2025-07-03",
+  "attachments": [
+    {
+      "name": "دليل القبول",
+      "url": "https://apply.kfupm.edu.sa/documents/2/admission_booklet.pdf"
+    },
+   {
+      "name": "خطاب التزكية",
+      "url": "https://apply.kfupm.edu.sa/documents/11/Recommendation_Letter2.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "url": "https://admissions.kfupm.edu.sa/"
+    }
+  ],
   "applyLink": "https://www.psmchs.edu.sa/admission-and-registration-ar/bachelors-admission-portal-ar/common-questions-ar/",
     "majors": [
       {
@@ -77,6 +95,16 @@
     "university": "القبول الموحد - إضافة الرغبات",
     "start": "2025-05-28",
     "end": "2025-06-26",
+  "attachments": [
+    {
+      "name": "دليل القبول",
+      "url": "https://uaenuap.blob.core.windows.net/public/Manual.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "url": "https://www.uap.sa/"
+    }
+  ],
   "applyLink": "https://www.uap.sa/",
     "majors": [],
     "guide": "في هذه المرحلة، يمكنك استعراض التخصصات المتاحة وإضافة الرغبات إلى قائمة الرغبات. يتم رصد نتائج الثانوية ونتائج اختبارات مركز قياس تلقائيًا بعد صدورها."
@@ -85,6 +113,16 @@
     "university": "القبول الموحد - تأكيد الطلب وإجراء المقابلات والاختبارات",
     "start": "2025-06-29",
     "end": "2025-07-10",
+"attachments": [
+    {
+      "name": "دليل القبول",
+      "url": "https://uaenuap.blob.core.windows.net/public/Manual.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "url": "https://www.uap.sa/"
+    }
+  ],
   "applyLink": "https://www.uap.sa/",
     "majors": [],
     "guide": "تبدأ المفاضلة بشكل لحظي. عرض الحد الأدنى للدرجة الموزونة لكل تخصص، ويتم تحديثه بشكل لحظي. حسب بيانات المتقدمين وتغير رغباتهم. تأكيد الرغبات، وإجراء المقابلات أو الاختبارات إن وُجدت."
@@ -93,6 +131,16 @@
     "university": "القبول الموحد - تأكيد الرغبة النهائية",
     "start": "2025-07-13",
     "end": "2025-07-14",
+"attachments": [
+    {
+      "name": "دليل القبول",
+      "url": "https://uaenuap.blob.core.windows.net/public/Manual.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "url": "https://www.uap.sa/"
+    }
+  ],
   "applyLink": "https://www.uap.sa/",
     "majors": [],
     "guide": "تظهر نتيجة المفاضلة النهائية ويتم قبولك في التخصص الذي تم ترشيحك له."
@@ -101,6 +149,16 @@
     "university": "القبول الموحد - الفرص الإضافية الإلحاقي",
     "start": "2025-07-15",
     "end": "2025-07-26",
+"attachments": [
+    {
+      "name": "دليل القبول",
+      "url": "https://uaenuap.blob.core.windows.net/public/Manual.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "url": "https://www.uap.sa/"
+    }
+  ],
   "applyLink": "https://www.uap.sa/",
     "majors": [],
     "guide": "تبدأ الفرص الإضافية للطلاب الذين لم يتم قبولهم، أو يرغبون بتحسين رغباتهم وفقًا للمقاعد المتاحة."
