@@ -3,6 +3,7 @@
     "university": "جامعة الملك فهد للبترول والمعادن",
     "start": "2025-06-15",
     "end": "2025-06-24",
+  "applyLink": "https://admissions.kfupm.edu.sa/new-admission",
     "majors": [
       {
         "name": "الهندسة الكيميائية",
@@ -21,6 +22,7 @@
     "university": "كلية الأمير سلطان للعلوم الصحية",
     "start": "2025-06-29",
     "end": "2025-07-03",
+  "applyLink": "https://www.psmchs.edu.sa/admission-and-registration-ar/bachelors-admission-portal-ar/common-questions-ar/",
     "majors": [
       {
         "name": "الهندسة",
@@ -41,10 +43,13 @@
     "guide": "تحتوي هذه الكلية على دليل قبول يوضح كيفية التقديم والشروط."
   },
   {
-    "university": "القبول الموحد للذكور",
+    "university": "القبول الموحد - إضافة الرغبات",
+    "start": "2025-05-28",
+    "end": "2025-06-26",
+  "applyLink": "https://www.uap.sa/",
     "start": "",
     "end": "",
     "majors": [],
-    "guide": "القبول الموحد يحدد مواعيد وشروط التسجيل للطلاب الذكور."
-  }
+    "guide": "في هذه المرحلة، يمكنك استعراض التخصصات المتاحة وإضافة الرغبات إلى قائمة الرغبات. يتم رصد نتائج الثانوية ونتائج اختبارات مركز قياس تلقائيًا بعد صدورها."
+  },
 ]
