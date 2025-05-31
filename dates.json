@@ -3,6 +3,17 @@
     "university": "جامعة الملك فهد للبترول والمعادن",
     "start": "2025-06-15",
     "end": "2025-06-24",
+  "attachments": [
+    {
+      "name": "دليل القبول",
+      "url": "https://example.com/guide.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "url": "https://example.com"
+    }
+  ],
+
   "applyLink": "https://admissions.kfupm.edu.sa/new-admission",
     "majors": [
       {
