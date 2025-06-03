@@ -16,5 +16,23 @@
         "url": "https://example.com/guide.pdf"
       }
     ]
+  },
+  {
+    "title": "فتح باب التسجيل في جامعة الملك سعود",
+    "shortDescription": "التسجيل متاح من الأحد القادم",
+    "description": "أعلنت الجامعة عن فتح باب القبول لدرجة البكالوريوس...",
+    "image": "https://c.top4top.io/p_3441vmj7p1.jpg",
+    "date": 1717353600000,
+    "category": "تسجيل جامعات",
+    "attachments": [
+      {
+        "title": "رابط التقديم",
+        "url": "https://example.com/apply"
+      },
+      {
+        "title": "دليل القبول",
+        "url": "https://example.com/guide.pdf"
+      }
+    ]
   }
 ]
