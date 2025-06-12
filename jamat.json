@@ -6,7 +6,6 @@
  "attachment": {
     "name": "دليل الطالب",
     "link": "https://example.com/guide.pdf"
-  "step_required": true, 
-
+  "step_required": true
   }
 ]
