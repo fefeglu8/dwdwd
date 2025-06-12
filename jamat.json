@@ -1,119 +1,12 @@
 [
   {
     "name": "جامعة الملك سعود",
-    "link": "https://identity.ksu.edu.sa/brand-guide",
-    "logo": "https://identity.ksu.edu.sa/sites/identity.ksu.edu.sa/files/imce_images/logo_9_0.png"
+    "link": "https://example.com/nasab-ksu.pdf"
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/6/69/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%B3%D8%B9%D9%88%D8%AF.svg"
   },
-  {
-    "name": "جامعة الملك عبدالعزيز",
-    "link": "https://brand.kaau.edu.sa",
-    "logo": "https://kau-identity.kau.edu.sa/Images/222/New_logo/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%A7%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9/KAU_logo.png"
-  },
-  {
-    "name": "جامعة الملك فهد للبترول والمعادن",
-    "link": "https://mediacenter.kfupm.edu.sa/brand-guidelines/",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/3/37/King_Fahd_University_of_Petroleum_%26_Minerals_Logo.png"
-  },
-  {
-    "name": "جامعة الملك خالد",
-    "link": "https://brand.kku.edu.sa",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/7/75/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%AE%D8%A7%D9%84%D8%AF.png"
-  },
-  {
-    "name": "جامعة الملك فيصل",
-    "link": "https://brand.kfu.edu.sa",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/KFULogoFinal2.png"
-  },
-  {
-    "name": "جامعة الإمام محمد بن سعود الإسلامية",
-    "link": "https://brand.imamu.edu.sa",
-  },
-  {
-    "name": "الجامعة الإسلامية بالمدينة المنورة",
-    "link": "https://brand.iu.edu.sa",
-  },
-  {
-    "name": "جامعة أم القرى",
-    "link": "https://brand.uqu.edu.sa",
-  },
-  {
-    "name": "جامعة طيبة",
-    "link": "https://brand.taibahu.edu.sa",
-  },
-  {
-    "name": "جامعة الملك عبدالله للعلوم والتقنية (KAUST)",
-    "link": "https://brand.kaust.edu.sa",
-  },
-  {
-    "name": "الجامعة السعودية الإلكترونية",
-    "link": "https://brand.seu.edu.sa",
-  },
-  {
-    "name": "جامعة نجران",
-    "link": "https://brand.nu.edu.sa",
-  },
-  {
-    "name": "جامعة جازان",
-    "link": "https://jazanu.edu.sa/ar/university-history/logo-jazan-university",
-  },
-  {
-    "name": "جامعة حائل",
-    "link": "https://brand.uoh.edu.sa",
-  },
-  {
-    "name": "جامعة الباحة",
-    "link": "https://brand.abu.edu.sa",
-  },
-  {
-    "name": "جامعة تبوك",
-    "link": "https://brand.ut.edu.sa",
-  },
-  {
-    "name": "جامعة الحدود الشمالية",
-    "link": "https://brand.nbu.edu.sa",
-  },
-  {
-    "name": "جامعة بيشة",
-    "link": "https://brand.ub.edu.sa",
-  },
-  {
-    "name": "جامعة المجمعة",
-    "link": "https://brand.mu.edu.sa",
-  },
-  {
-    "name": "جامعة شقراء",
-    "link": "https://su.edu.sa",
-  },
-  {
-    "name": "جامعة الأمير سطام بن عبدالعزيز",
-    "link": "https://brand.psauniversity.edu.sa",
-  },
-  {
-    "name": "جامعة الفيصل",
-    "link": "https://brand.alfaisal.edu",
-  },
-  {
-    "name": "جامعة الأمير سلطان",
-    "link": "https://brand.psu.edu.sa",
-  },
-  {
-    "name": "جامعة اليمامة",
-    "link": "https://brand.alyamammuniversity.edu.sa",
-  },
-  {
-    "name": "جامعة دار الحكمة",
-    "link": "https://brand.dar.edu.sa",
-  },
-  {
-    "name": "جامعة رياض العلم",
-    "link": "https://brand.reu.edu.sa",
-  },
-  {
-    "name": "الجامعة العربية المفتوحة",
-    "link": "https://brand.aou.edu.sa",
-  },
-  {
-    "name": "جامعة فهد بن سلطان",
-    "link": "https://brand.fsu.edu.sa",
-  }
+{
+     "name": "جامعة الإمام",
+    "link": "https://example.com/nasab-imam.pdf"
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/8/85/ImamU_Logo.svg/1200px-ImamU_Logo.svg.png"
+  }
 ]
