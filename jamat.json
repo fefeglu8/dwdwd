@@ -1,12 +1,12 @@
 [
   {
     "name": "جامعة الملك سعود",
-    "link": "https://example.com/nasab-ksu.pdf"
+    "link": "https://example.com/nasab-ksu.pdf",
     "logo": "https://upload.wikimedia.org/wikipedia/ar/6/69/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%B3%D8%B9%D9%88%D8%AF.svg"
   },
-{
-     "name": "جامعة الإمام",
-    "link": "https://example.com/nasab-imam.pdf"
+  {
+    "name": "جامعة الإمام",
+    "link": "https://example.com/nasab-imam.pdf",
     "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/8/85/ImamU_Logo.svg/1200px-ImamU_Logo.svg.png"
   }
 ]
