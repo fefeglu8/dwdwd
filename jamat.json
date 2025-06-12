@@ -101,14 +101,21 @@
     "logo": "https://www.mu.edu.sa/sites/default/files/2024-07/%D8%B4%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20.png",
     "step_required": false
   },
-  {
-    "name": "جامعة شقراء",
-    "link": "https://su.edu.sa",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/e/ef/Su.edu.sa.jpg",
-    "attachment": {
+{
+  "name": "جامعة شقراء",
+  "link": "https://su.edu.sa",
+  "logo": "https://upload.wikimedia.org/wikipedia/ar/e/ef/Su.edu.sa.jpg",
+  "attachments": [
+    {
       "name": "دليل الطالب",
       "link": "https://example.com/guide.pdf"
     },
-    "step_required": false
-  }
+    {
+      "name": "دليل القبول",
+      "link": "https://example.com/admission.pdf"
+    }
+  ],
+  "step_required": true
+}
+
 ]
