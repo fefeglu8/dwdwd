@@ -288,5 +288,20 @@
   "applyLink": "https://www.aramco.com/ar/careers/for-saudi-applicants/student-opportunities/",
     "majors": [],
     "guide": "."
+  },
+ {
+  "university": "كليات الأصالة (مدفوع)",
+    "start": "2023-02-21",
+    "end": "",
+"attachments": [
+ 
+    {
+      "name": "موقع كليات",
+      "link": "https://alasala.edu.sa/ar/tuition-fees-ar/"
+    }
+  ],
+  "applyLink": "https://alasala.edu.sa/ar/tuition-fees-ar/",
+    "majors": [],
+    "guide": "."
   }
 ]
