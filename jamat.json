@@ -98,14 +98,8 @@
     "name": "جامعة شقراء",
     "link": "https://su.edu.sa",
    "logo": "https://upload.wikimedia.org/wikipedia/ar/e/ef/Su.edu.sa.jpg",
-"attachments": [
-    {
-      "name": "دليل الطالب",
-      "link": "https://example.com/guide.pdf"
-    },
-    {
-      "name": "رابط الطالب",
-      "link": "https://example.com/student-link.pdf"
-    }
-  ] 
+ "attachment": {
+    "name": "دليل الطالب",
+    "link": "https://example.com/guide.pdf"
+  }
 ]
