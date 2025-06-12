@@ -1,1 +1,10 @@
-
+[
+  {
+    "name": "جامعة الملك سعود",
+    "link": "https://example.com/nasab-ksu.pdf"
+  },
+  {
+    "name": "جامعة الإمام",
+    "link": "https://example.com/nasab-imam.pdf"
+  }
+]
