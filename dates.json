@@ -228,5 +228,65 @@
   "applyLink": "https://seu.edu.sa/ar/about/",
     "majors": [],
     "guide": "."
+  },
+   {
+  "university": "كليات الهيئة الملكية بالجبيل وينبع (خارج منصة  قبول)",
+    "start": "",
+    "end": "",
+"attachments": [
+ 
+    {
+      "name": "موقع الجامعة",
+      "link": "https://edugate.rcjy.edu.sa/jyup/unifiedAdmission/"
+    }
+  ],
+  "applyLink": "https://edugate.rcjy.edu.sa/jyup/unifiedAdmission/",
+    "majors": [],
+    "guide": "."
+  },
+   {
+  "university": "سابك (خارج منصة  قبول)",
+    "start": "2024-05-01",
+    "end": "2026-06-14",
+"attachments": [
+ 
+    {
+      "name": "موقع الجامعة",
+      "link": "https://www.sabic.com/ar/careers/middle-east-africa/students-and-fresh-graduates/"
+    }
+  ],
+  "applyLink": "https://www.sabic.com/ar/careers/middle-east-africa/students-and-fresh-graduates/",
+    "majors": [],
+    "guide": "."
+  },
+ {
+  "university": "ابتعاث نيوم (خارج منصة  قبول)",
+    "start": "",
+    "end": "",
+"attachments": [
+ 
+    {
+      "name": "موقع الجامعة",
+      "link": "https://neomscholarship.com/ar/"
+    }
+  ],
+  "applyLink": "https://neomscholarship.com/ar/",
+    "majors": [],
+    "guide": "."
+  },
+ {
+  "university": "أرامكو (خارج منصة  قبول)",
+    "start": "",
+    "end": "",
+"attachments": [
+ 
+    {
+      "name": "موقع الجامعة",
+      "link": "https://www.aramco.com/ar/careers/for-saudi-applicants/student-opportunities/"
+    }
+  ],
+  "applyLink": "https://www.aramco.com/ar/careers/for-saudi-applicants/student-opportunities/",
+    "majors": [],
+    "guide": "."
   }
 ]
