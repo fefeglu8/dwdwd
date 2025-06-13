@@ -112,7 +112,8 @@
     }
 
   ],
-  "step_required": true
+  "step_required": true,
+  "step_description": "تست"
 }
 
 ]
