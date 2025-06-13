@@ -98,8 +98,23 @@
     "name": "جامعة أم القرى",
     "link": "https://t.me/arhifjamei/10",
     "logo": "https://upload.wikimedia.org/wikipedia/ar/c/c3/Umm_Al-Qura_University_logo.png",
-    "step_required": false
-  },
+"attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://uqu.edu.sa/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+  {
+      "name": "رابط قروب مناقشة (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/UQUniversity"
+    }
+  ],
+  "step_required": true,
+  "step_description": "الإنجليزية +60، التخصصات الصحية +60."
+  }, 
   {
     "name": "جامعة طيبة",
     "link": "https://t.me/arhifjamei/11",
