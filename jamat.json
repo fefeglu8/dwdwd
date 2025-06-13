@@ -87,8 +87,27 @@
     "name": "جامعة المجمعة",
     "link": "https://t.me/arhifjamei/30",
     "logo": "https://www.mu.edu.sa/sites/default/files/2024-07/%D8%B4%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20.png",
-    "step_required": false
-  },
+ "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://edugate.su.edu.sa/su/init#!"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/Shaqracollege"
+    },
+{
+      "name": "رابط قروب مناقشة (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/Shaqracollege"
+    }
+
+  ],
+  "step_required": true,
+  "step_description": "تست"  },
 {
   "name": "جامعة شقراء",
   "link": "https://t.me/arhifjamei/32",
