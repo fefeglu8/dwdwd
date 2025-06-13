@@ -15,7 +15,27 @@
     "name": "جامعة الملك فهد للبترول والمعادن",
     "link": "https://t.me/arhifjamei/6/",
     "logo": "https://upload.wikimedia.org/wikipedia/ar/3/37/King_Fahd_University_of_Petroleum_%26_Minerals_Logo.png",
-    "step_required": false
+ "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://edugate.su.edu.sa/su/init#!"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/majmah_university"
+    },
+{
+      "name": "رابط قروب مناقشة (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/majmaah_university"
+    }
+
+  ],
+  "step_required": true,
+  "step_description": "شرط للقبول (+60)"
   },
   {
     "name": "جامعة الملك خالد",
@@ -98,16 +118,17 @@
     },
    {
       "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
-      "link": "https://t.me/Shaqracollege"
+      "link": "https://t.me/majmah_university"
     },
 {
       "name": "رابط قروب مناقشة (ليس مننا نخلي مسؤولية)",
-      "link": "https://t.me/Shaqracollege"
+      "link": "https://t.me/majmaah_university"
     }
 
   ],
   "step_required": true,
-  "step_description": "تست"  },
+  "step_description": "ايلتس وستيب للتخصيص في بعض تخصصات مثل تمريض طب الرجاء التاكد من قروب جامعه"
+  },
 {
   "name": "جامعة شقراء",
   "link": "https://t.me/arhifjamei/32",
@@ -131,8 +152,7 @@
     }
 
   ],
-  "step_required": true,
-  "step_description": "تست"
+  "step_required": false
 }
 
 ]
