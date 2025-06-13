@@ -32,6 +32,31 @@
   "step_required": true,
   "step_description": "شرط للقبول (+60)"
   },
+  {
+    "name": "جامعة الأميرة نورة",
+    "link": "https://pnu.edu.sa/ar/Pages/Home.aspx/",
+    "logo": "https://sdl.edu.sa/training/Upload/Logo/66.png",
+ "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://pnu.edu.sa/ar/Pages/Home.aspx/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/PPNUKSA"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/PNUGirls"
+    }
+  ],
+  "step_required": true,
+  "step_description": "تخصص اللغات  (+20)"
+  },
  {
     "name": "الجامعة الإلكترونية",
     "link": "https://seu.edu.sa/",
