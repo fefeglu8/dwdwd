@@ -3,8 +3,27 @@
     "name": "جامعة الملك سعود",
     "link": "https://t.me/arhifjamei/36",
     "logo": "https://identity.ksu.edu.sa/sites/identity.ksu.edu.sa/files/imce_images/logo_9_0.png",
-    "step_required": false
-  },
+  "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://ksu.edu.sa/ar"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/STUKSU"
+    },
+{
+      "name": "رابط قروب مناقشة (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/STUKSU"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة الملك عبدالعزيز",
     "link": "https://t.me/arhifjamei/45",
