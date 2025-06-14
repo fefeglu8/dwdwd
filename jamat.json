@@ -28,8 +28,27 @@
     "name": "جامعة الملك عبدالعزيز",
     "link": "https://t.me/arhifjamei/45",
     "logo": "https://kau-identity.kau.edu.sa/Images/222/New_logo/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%A7%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9/KAU_logo.png",
-    "step_required": false
-  },
+      "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.kau.edu.sa/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/mohem_kau20"
+    },
+{
+      "name": "رابط قروب مناقشة (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/kau2020_2"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة الملك فهد للبترول والمعادن",
     "link": "https://t.me/arhifjamei/39/",
@@ -105,14 +124,52 @@
     "name": "جامعة الملك خالد",
     "link": "https://t.me/arhifjamei/47",
     "logo": "https://upload.wikimedia.org/wikipedia/ar/7/75/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%AE%D8%A7%D9%84%D8%AF.png",
-    "step_required": false
-  },
+      "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.kau.edu.sa/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/kkueduTG"
+    },
+{
+      "name": "رابط قروب مناقشة (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/sdkingkhaledun"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة الملك فيصل",
     "link": "https://t.me/arhifjamei/49",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/KFULogoFinal2.png",
-    "step_required": false
-  },
+     "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.kfu.edu.sa/ar/pages/home.aspx/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/KFUniversity"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/KFU10"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة أم القرى",
     "link": "https://t.me/arhifjamei/51",
@@ -120,7 +177,7 @@
 "attachments": [
     {
       "name": "موقع جامعه",
-      "link": "https://uqu.edu.sa/"
+      "link": "https://uqu.edu.sa//"
     },
     {
       "name": "رابط التقديم",
@@ -138,50 +195,202 @@
     "name": "جامعة طيبة",
     "link": "https://t.me/arhifjamei/53",
     "logo": "https://upload.wikimedia.org/wikipedia/ar/1/1a/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%B7%D9%8A%D8%A8%D8%A9.gif",
-    "step_required": false
-  },
+      "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.taibahu.edu.sa/Pages/AR/Home.aspx/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/Taibah_University"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "t.me//Taibah_University"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة نجران",
     "link": "https://t.me/arhifjamei/56",
     "logo": "https://upload.wikimedia.org/wikipedia/ar/d/d4/Najran_University.JPG",
-    "step_required": false
-  },
+      "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.nu.edu.sa/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/UNinajran"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/NGRAN4"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة جازان",
     "link": "https://t.me/arhifjamei",
     "logo": "https://www.jazanu.edu.sa/sites/default/files/styles/default/public/2021-04/logo-jazan-uni2.png?itok=zFwZlt4p",
-    "step_required": false
-  },
+        "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://jazanu.edu.sa/ar/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/Unjzn_C"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/Unjzn"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة حائل",
     "link": "https://t.me/arhifjamei/63",
     "logo": "https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/University-of-Hail.png?fit=1000%2C1000&ssl=1",
-    "step_required": false
-  },
+        "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.uoh.edu.sa/Ar/Pages/Home.aspx/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/university2005"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/Hail2005"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة الباحة",
     "link": "https://t.me/arhifjamei",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A0%D9%A6%D9%A0%D9%A1-%D9%A0%D9%A4%D9%A1%D9%A3%D9%A0%D9%A2_Gallery.png",
-    "step_required": false
-  },
+         "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://bu.edu.sa/ar/web/guest/home/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/BahaUniversity_Guide"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/Albaha_university"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة تبوك",
     "link": "https://t.me/arhifjamei/69",
     "logo": "https://www.nasrinefactory.com.sa/wp-content/uploads/2015/10/logo10.png",
-    "step_required": false
-  },
+        "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://myut.ut.edu.sa/ut/init/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/UT_Instr"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/UT_help"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة الحدود الشمالية",
     "link": "https://t.me/arhifjamei",
     "logo": "https://vice-develop-quality-community-service.nbu.edu.sa/sites/default/files/styles/ckeditor_small/public/2023-02/nbu%20logo-04.png?itok=UT5Tl-QH",
-    "step_required": false
-  },
+       "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.nbu.edu.sa/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/NBU013"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/NBU202"
+    }
+
+  ],
+  "step_required": false
+},
   {
     "name": "جامعة بيشة",
     "link": "https://t.me/arhifjamei",
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX6_BYRfEhyphenhyphenFX0Xm9NNq3fv-ysUgMSTlS8GsyAU5Bb1fRZCxW_afpqadXYhAvPSbx84FEjO4s-wK7B-BhnZBLMfpORVKYy5dssI_O7oycmaGlqnfmbKvNE1MXFZ2hXQ1yiH9ev-O6O7R53EAm2Ivh2FsIoccT5HaB5yFVObL8SNZb-v9W9zXAvxsPLY-ik/s1600/8734897847984.webp",
-    "step_required": false
-  },
+    "attachments": [
+    {
+      "name": "موقع جامعه",
+      "link": "https://www.ub.edu.sa/ar/Pages/default.aspx/"
+    },
+    {
+      "name": "رابط التقديم",
+      "link": "https://www.uap.sa/"
+    },
+   {
+      "name": "رابط قروب اخبار (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/BishaUniversity_Official"
+    },
+{
+      "name": "رابط قروب اخر (ليس مننا نخلي مسؤولية)",
+      "link": "https://t.me/BishaUB"
+    }
+
+  ],
+  "step_required": false
+},
  {
     "name": "جامعة الطائف",
     "link": "https://edugate.tu.edu.sa/tu/init",
