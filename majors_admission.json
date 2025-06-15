@@ -1,0 +1,50 @@
+[
+  {
+    "university": "جامعة الإمام محمد بن سعود الإسلامية",
+    "city": "مدينة الرياض",
+    "college": "كلية الطب",
+    "major": "الطب والجراحة",
+    "semester": "الأول",
+    "degree": "بكالوريوس",
+    "min_weighted_score": 99.00,
+    "special_conditions": "مقابلة شخصية",
+    "foundation_year": true,
+    "admission_process": null
+  },
+  {
+    "university": "جامعة شقراء",
+    "city": "محافظة شقراء",
+    "college": "كلية الطب",
+    "major": "الطب والجراحة",
+    "semester": "الأول",
+    "degree": "بكالوريوس",
+    "min_weighted_score": 98.00,
+    "special_conditions": null,
+    "foundation_year": null,
+    "admission_process": null
+  },
+  {
+    "university": "جامعة شقراء",
+    "city": "محافظة الدوادمي",
+    "college": "كلية الطب",
+    "major": "الطب والجراحة",
+    "semester": "الأول",
+    "degree": "بكالوريوس",
+    "min_weighted_score": 97.00,
+    "special_conditions": "لا يوجد",
+    "foundation_year": null,
+    "admission_process": null
+  },
+  {
+    "university": "جامعة الملك عبدالعزيز",
+    "city": "محافظة جدة",
+    "college": "كلية الطب",
+    "major": "الطب والجراحة",
+    "semester": "الأول",
+    "degree": "بكالوريوس",
+    "min_weighted_score": 97.00,
+    "special_conditions": "اختبار اللياقة البدنية",
+    "foundation_year": null,
+    "admission_process": null
+  }
+]
