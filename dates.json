@@ -115,7 +115,7 @@
   {
     "university": "القبول الموحد - إضافة الرغبات",
     "start": "2025-05-28",
-    "end": "2025-06-26",
+    "end": "2025-07-14",
   "attachments": [
     {
       "name": "دليل القبول",
@@ -131,7 +131,7 @@
     "guide": "في هذه المرحلة، يمكنك استعراض التخصصات المتاحة وإضافة الرغبات إلى قائمة الرغبات. يتم رصد نتائج الثانوية ونتائج اختبارات مركز قياس تلقائيًا بعد صدورها."
   },
   {
-    "university": "القبول الموحد - تأكيد الطلب وإجراء المقابلات والاختبارات",
+    "university": "القبول الموحد - اظهار الفرص المتاحة  واجراء اختبارات قبول ومقابلات شخصية",
     "start": "2025-06-29",
     "end": "2025-07-10",
 "attachments": [
@@ -148,8 +148,26 @@
     "majors": [],
     "guide": "تبدأ المفاضلة بشكل لحظي. عرض الحد الأدنى للدرجة الموزونة لكل تخصص، ويتم تحديثه بشكل لحظي. حسب بيانات المتقدمين وتغير رغباتهم. تأكيد الرغبات، وإجراء المقابلات أو الاختبارات إن وُجدت."
   },
-  {
-    "university": "القبول الموحد - تأكيد الرغبة النهائية",
+ {
+    "university": "القبول الموحد - ظهور نتائج المقابلات الشخصية واختبارات قبول",
+    "start": "2025-07-11",
+    "end": "2025-07-12",
+"attachments": [
+    {
+      "name": "دليل القبول",
+      "link": "https://uaenuap.blob.core.windows.net/public/Manual.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "link": "https://www.uap.sa/"
+    }
+  ],
+  "applyLink": "https://www.uap.sa/",
+    "majors": [],
+    "guide": "ظهور نتائج المقابلات الشخصية واختبارات قبول."
+  },
+ {
+    "university": "القبول الموحد - التحديد النهائي للتخصص(نهايه تعديل واضافه رغبات وتأكيدها)",
     "start": "2025-07-13",
     "end": "2025-07-14",
 "attachments": [
@@ -166,9 +184,27 @@
     "majors": [],
     "guide": "تظهر نتيجة المفاضلة النهائية ويتم قبولك في التخصص الذي تم ترشيحك له."
   },
+  {
+    "university": "القبول الموحد - إعلان نتائج القبول",
+    "start": "2025-07-15",
+    "end": "2025-07-16",
+"attachments": [
+    {
+      "name": "دليل القبول",
+      "link": "https://uaenuap.blob.core.windows.net/public/Manual.pdf"
+    },
+    {
+      "name": "موقع الجامعة",
+      "link": "https://www.uap.sa/"
+    }
+  ],
+  "applyLink": "https://www.uap.sa/",
+    "majors": [],
+    "guide": "تظهر نتيجة المفاضلة النهائية ويتم قبولك في التخصص الذي تم ترشيحك له."
+  },
  {
     "university": "القبول الموحد - الفرص الإضافية الإلحاقي",
-    "start": "2025-07-15",
+    "start": "2025-07-17",
     "end": "2025-07-26",
 "attachments": [
     {
@@ -358,5 +394,24 @@
   "applyLink": "https://alasala.edu.sa/ar/tuition-fees-ar/",
     "majors": [],
     "guide": "."
+  },
+ {
+  "university": "كلية الملك فهد الأمنية",
+    "start": "2025-06-26",
+    "end": "2025-06-30",
+"attachments": [
+ 
+    {
+      "name": "موقع كلية",
+      "link": "https://www.kfsc.edu.sa/"
+    },
+    {
+      "name": "موقع تقديم عبر ابشر",
+      "link": "https://jobs.sa/wps/portal/departments/jobs/query-jobs/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zinQ0MXC2dDB0N_M0tzQ08jcNC3AMMAowNDMz1w8EKDDxNTDwMTYy8DYJ9HQ0c3TzcXLyMzA0M3I31o0jTbxrkbOBoZhbqbmIWZGDiY0ikfhzA0YA4_XgUROE3Plw_CqIETwigKcD0IiFLCnJDQ0MjDDI9HRUVAQiw7fc!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+    }
+  ],
+  "applyLink": "https://www.kfsc.edu.sa/",
+    "majors": [],
+    "guide": "الرسالة: تقديم التعليم والتدريب الأمني والعسكري الفعال لتخريج كوادر بشرية متميزة للقطاعات الأمنية ودعم البحث العلمي والمشاركة في خدمة المجتمع في المجال الأمني بمفهومه الشامل.​"
   }
 ]
