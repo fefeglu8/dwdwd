@@ -107,6 +107,42 @@
         }
       ],
       "createdAt": "2025-11-04T06:08:52.261Z"
+    },
+    {
+      "id": "yellow-physics-video-dd3-1762236845243",
+      "sourceId": "yellow",
+      "subjectId": "physics",
+      "typeId": "video",
+      "title": "dd3",
+      "description": "dd2",
+      "tags": [
+        "dd1"
+      ],
+      "meta": {
+        "channel": "d",
+        "platform": "d",
+        "duration": "12:12:56",
+        "notes": "fef"
+      },
+      "resources": [
+        {
+          "kind": "video",
+          "sourceUrl": "https://www.youtube.com/watch?v=tzilkifFjrw&list=RDEs27JXghXis&index=3",
+          "title": "d",
+          "chapters": [
+            {
+              "title": "d",
+              "timestamp": "12:22"
+            },
+            {
+              "title": "de",
+              "timestamp": "12:53"
+            }
+          ],
+          "thumbnail": "https://cdn.discordapp.com/attachments/1342238438555910215/1342940918520610897/image.png?ex=690a53b1&is=69090231&hm=2f8573e61e2cc5262431620e36b10be286a3e4e749d55e0660c59067f7e99d75&"
+        }
+      ],
+      "createdAt": "2025-11-04T06:14:05.243Z"
     }
   ]
 }
