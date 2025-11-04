@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "sources": [
+    {
+      "id": "yellow",
+      "name": "يلو"
+    },
+    {
+      "id": "ghasham",
+      "name": "غشام"
+    },
+    {
+      "id": "nasser",
+      "name": "ناصر عبدالكريم"
+    },
+    {
+      "id": "einstein",
+      "name": "اينشتاين"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "physics",
+      "name": "فيزياء"
+    },
+    {
+      "id": "chemistry",
+      "name": "كيمياء"
+    },
+    {
+      "id": "math",
+      "name": "رياضيات"
+    },
+    {
+      "id": "biology",
+      "name": "أحياء"
+    }
+  ],
+  "types": [
+    {
+      "id": "video",
+      "name": "شروحات فيديو"
+    },
+    {
+      "id": "file",
+      "name": "ملفات"
+    },
+    {
+      "id": "link",
+      "name": "روابط"
+    }
+  ],
+  "entries": [
+    {
+      "id": "yellow-physics-file-تشت-1762236301139",
+      "sourceId": "yellow",
+      "subjectId": "physics",
+      "typeId": "file",
+      "title": "تشت",
+      "description": "تشتشتشت",
+      "tags": [
+        "ي"
+      ],
+      "difficulty": 1,
+      "recommended": true,
+      "meta": {
+        "fileType": "pdf",
+        "pages": "12",
+        "lang": "ar",
+        "size": "3.2MB",
+        "preview": "تجربه للبرنامج"
+      },
+      "resources": [
+        {
+          "kind": "file",
+          "fileUrl": "https://drive.google.com/file/d/1z2YiFEhDw5ZAp8E8kMXIy89I702hYj8v/view?usp=sharing",
+          "fileType": "pdf",
+          "coverImage": "https://prnt.sc/IB92yAtIPAyv"
+        }
+      ],
+      "createdAt": "2025-11-04T06:05:01.139Z"
+    }
+  ]
+}
