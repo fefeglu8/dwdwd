@@ -79,6 +79,34 @@
         }
       ],
       "createdAt": "2025-11-04T06:05:01.139Z"
+    },
+    {
+      "id": "yellow-physics-video-تست-1762236532261",
+      "sourceId": "yellow",
+      "subjectId": "physics",
+      "typeId": "video",
+      "title": "تست",
+      "description": "تست",
+      "tags": [
+        "تست"
+      ],
+      "difficulty": 2,
+      "recommended": true,
+      "meta": {
+        "lang": "at",
+        "duration": "14:76",
+        "notes": "نجرب"
+      },
+      "resources": [
+        {
+          "kind": "video",
+          "sourceUrl": "https://www.youtube.com/watch?v=tzilkifFjrw&list=RDEs27JXghXis&index=3",
+          "title": "خالديات يا مهاجره باحساس( مهوسFM)",
+          "chapters": [],
+          "thumbnail": "https://up6.cc/2025/10/176223650498271.png"
+        }
+      ],
+      "createdAt": "2025-11-04T06:08:52.261Z"
     }
   ]
 }
