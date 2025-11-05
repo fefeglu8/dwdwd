@@ -38,10 +38,6 @@
   ],
   "types": [
     {
-      "id": "video",
-      "name": "شروحات فيديو"
-    },
-    {
       "id": "file",
       "name": "ملفات"
     },
@@ -52,97 +48,64 @@
   ],
   "entries": [
     {
-      "id": "yellow-physics-file-تشت-1762236301139",
-      "sourceId": "yellow",
+      "id": "ghasham-physics-file-جداول-يلو-1762303086862",
+      "sourceId": "ghasham",
       "subjectId": "physics",
       "typeId": "file",
-      "title": "تشت",
-      "description": "تشتشتشت",
+      "title": "جداول يلو",
+      "description": "ي2",
       "tags": [
-        "ي"
+        "جداول"
       ],
-      "difficulty": 1,
       "recommended": true,
       "meta": {
         "fileType": "pdf",
-        "pages": "12",
         "lang": "ar",
-        "size": "3.2MB",
-        "preview": "تجربه للبرنامج"
+        "size": "3mb",
+        "preview": "جداول يلو"
       },
       "resources": [
         {
           "kind": "file",
-          "fileUrl": "https://drive.google.com/file/d/1z2YiFEhDw5ZAp8E8kMXIy89I702hYj8v/view?usp=sharing",
-          "fileType": "pdf",
-          "coverImage": "https://prnt.sc/IB92yAtIPAyv"
+          "fileUrl": "dd",
+          "fileType": "pdff"
+        },
+        {
+          "kind": "file",
+          "fileUrl": "df",
+          "fileType": "df"
         }
       ],
-      "createdAt": "2025-11-04T06:05:01.139Z"
+      "createdAt": "2025-11-05T00:38:06.862Z"
     },
     {
-      "id": "yellow-physics-video-تست-1762236532261",
-      "sourceId": "yellow",
+      "id": "ghasham-physics-link-قناة-مناقشة-يلو-1762303162676",
+      "sourceId": "ghasham",
       "subjectId": "physics",
-      "typeId": "video",
-      "title": "تست",
-      "description": "تست",
+      "typeId": "link",
+      "title": "قناة مناقشة يلو",
+      "description": "قناة مناقشة يلو",
       "tags": [
-        "تست"
+        "تليقرام",
+        "قناة"
       ],
-      "difficulty": 2,
-      "recommended": true,
       "meta": {
-        "lang": "at",
-        "duration": "14:76",
-        "notes": "نجرب"
+        "domain": "fefe",
+        "kind": "قناة مناقشة يلو"
       },
       "resources": [
         {
-          "kind": "video",
-          "sourceUrl": "https://www.youtube.com/watch?v=tzilkifFjrw&list=RDEs27JXghXis&index=3",
-          "title": "خالديات يا مهاجره باحساس( مهوسFM)",
-          "chapters": [],
-          "thumbnail": "https://up6.cc/2025/10/176223650498271.png"
-        }
-      ],
-      "createdAt": "2025-11-04T06:08:52.261Z"
-    },
-    {
-      "id": "yellow-physics-video-dd3-1762236845243",
-      "sourceId": "yellow",
-      "subjectId": "physics",
-      "typeId": "video",
-      "title": "dd3",
-      "description": "dd2",
-      "tags": [
-        "dd1"
-      ],
-      "meta": {
-        "channel": "d",
-        "platform": "d",
-        "duration": "12:12:56",
-        "notes": "fef"
-      },
-      "resources": [
+          "kind": "link",
+          "url": "d",
+          "label": "قناة مناقشة يلو"
+        },
         {
-          "kind": "video",
-          "sourceUrl": "https://s51.notube.net/download.php?token=511c88504ed3bada6387f99ce79f2275&key=nagj1obey3wi56rk",
-          "title": "d",
-          "chapters": [
-            {
-              "title": "d",
-              "timestamp": "12:22"
-            },
-            {
-              "title": "de",
-              "timestamp": "12:53"
-            }
-          ],
-          "thumbnail": "https://cdn.discordapp.com/attachments/1342238438555910215/1342940918520610897/image.png?ex=690a53b1&is=69090231&hm=2f8573e61e2cc5262431620e36b10be286a3e4e749d55e0660c59067f7e99d75&"
+          "kind": "link",
+          "url": "d",
+          "label": "ات"
         }
       ],
-      "createdAt": "2025-11-04T06:14:05.243Z"
+      "createdAt": "2025-11-05T00:39:22.676Z"
     }
   ]
 }
