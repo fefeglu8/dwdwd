@@ -121,8 +121,8 @@
         "قناة"
       ],
       "meta": {
-        "domain": "fefe",
-        "kind": "قناة مناقشة يلو"
+        "domain": "تليقرام",
+        "kind": "قناة"
       },
       "resources": [
         {
@@ -137,6 +137,35 @@
         }
       ],
       "createdAt": "2025-11-05T00:39:22.676Z"
-    }
+    },
+       {
+      "id": "yellow-physics-link-موقع-موقع-يلو-1762303162676",
+      "sourceId": "yellow",
+      "subjectId": "physics",
+      "typeId": "link",
+      "title": "موقع يلو",
+      "description": "موقع يلو",
+      "tags": [
+        "موقع",
+        "متجر"
+      ],
+      "meta": {
+        "domain": "موقع",
+        "kind": "موقع يلو"
+      },
+      "resources": [
+        {
+          "kind": "link",
+          "url": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
+          "label": "قناة مناقشة يلو"
+        },
+        {
+          "kind": "link",
+          "url": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
+          "label": "ات"
+        }
+      ],
+      "createdAt": "2025-11-05T00:39:22.676Z"
+    },
   ]
 }
