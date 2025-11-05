@@ -48,12 +48,12 @@
   ],
   "entries": [
     {
-      "id": "ghasham-physics-file-جداول-يلو-1762303086862",
-      "sourceId": "ghasham",
+      "id": "yellow-physics-file-جداول-يلو-1762303086862",
+      "sourceId": "yellow",
       "subjectId": "physics",
       "typeId": "file",
-      "title": "جداول يلو",
-      "description": "ي2",
+      "title": "جدول 60 يوم",
+      "description": "جداول يلو",
       "tags": [
         "جداول"
       ],
@@ -79,8 +79,39 @@
       "createdAt": "2025-11-05T00:38:06.862Z"
     },
     {
-      "id": "ghasham-physics-link-قناة-مناقشة-يلو-1762303162676",
-      "sourceId": "ghasham",
+      "id": "yellow-physics-file-جداول-120-1762303086862",
+      "sourceId": "yellow",
+      "subjectId": "physics",
+      "typeId": "file",
+      "title": "جدول 120 يوم",
+      "description": "جدول يلو شهرين",
+      "tags": [
+        "جداول"
+      ],
+      "recommended": true,
+      "meta": {
+        "fileType": "pdf",
+        "lang": "ar",
+        "size": "3mb",
+        "preview": "جداول يلو"
+      },
+      "resources": [
+        {
+          "kind": "file",
+          "fileUrl": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
+          "fileType": "pdff"
+        },
+        {
+          "kind": "file",
+          "fileUrl": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
+          "fileType": "df"
+        }
+      ],
+      "createdAt": "2025-11-05T00:38:06.862Z"
+    },
+    {
+      "id": "yellow-physics-link-قناة-مناقشة-يلو-1762303162676",
+      "sourceId": "yellow",
       "subjectId": "physics",
       "typeId": "link",
       "title": "قناة مناقشة يلو",
