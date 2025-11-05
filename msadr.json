@@ -67,12 +67,12 @@
       "resources": [
         {
           "kind": "file",
-          "fileUrl": "dd",
+          "fileUrl": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
           "fileType": "pdff"
         },
         {
           "kind": "file",
-          "fileUrl": "df",
+          "fileUrl": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
           "fileType": "df"
         }
       ],
@@ -96,12 +96,12 @@
       "resources": [
         {
           "kind": "link",
-          "url": "d",
+          "url": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
           "label": "قناة مناقشة يلو"
         },
         {
           "kind": "link",
-          "url": "d",
+          "url": "https://drive.google.com/file/d/1YIbjmQsRcZ5RKnR0cItu5TLCcSkSFWCI/view?usp=sharing",
           "label": "ات"
         }
       ],
