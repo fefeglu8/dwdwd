@@ -5,10 +5,31 @@
     "subject": "فيزياء",
     "lesson": "القسم 1 اختبار",
     "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "https://.../q1.png",
+    "image": "github.com/fefeglu8/dwdwd/blob/main/Screenshot_3.png?raw=true",
     "choices": ["5", "8", "10", "11"],
     "answer": 3
   },
+    {
+    "id": 1,
+    "source": "غشام 23",
+    "subject": "فيزياء",
+    "lesson": "القسم 1 اختبار",
+    "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
+    "image": "github.com/fefeglu8/dwdwd/blob/main/Screenshot_3.png?raw=true",
+    "choices": ["5", "8", "10", "11"],
+    "answer": 3
+  },
+    {
+    "id": 1,
+    "source": "غشام 23",
+    "subject": "فيزياء",
+    "lesson": "القسم 1 اختبار",
+    "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
+    "image": "github.com/fefeglu8/dwdwd/blob/main/Screenshot_3.png?raw=true",
+    "choices": ["5", "8", "10", "11"],
+    "answer": 3
+  },
+  
     {
     "id": 2,
     "source": "قسم الاحياء صور",
