@@ -5,7 +5,7 @@
     "subject": "فيزياء",
     "lesson": "القسم 1 اختبار",
     "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "github.com/fefeglu8/dwdwd/blob/main/Screenshot_3.png?raw=true",
+    "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_3.png",
     "choices": ["5", "8", "10", "11"],
     "answer": 3
   },
@@ -15,7 +15,7 @@
     "subject": "فيزياء",
     "lesson": "القسم 1 اختبار",
     "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "github.com/fefeglu8/dwdwd/blob/main/Screenshot_3.png?raw=true",
+    "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_3.png",
     "choices": ["5", "8", "10", "11"],
     "answer": 3
   },
@@ -25,7 +25,7 @@
     "subject": "فيزياء",
     "lesson": "القسم 1 اختبار",
     "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "github.com/fefeglu8/dwdwd/blob/main/Screenshot_3.png?raw=true",
+    "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_3.png",
     "choices": ["5", "8", "10", "11"],
     "answer": 3
   },
