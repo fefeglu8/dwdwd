@@ -250,6 +250,20 @@
     "3 ديسي فاراد"
   ],
   "answer": 1
+},
+{
+  "id": 23,
+  "source": "غشام 23",
+  "subject": "فيزياء",
+  "lesson": "مدخل إلى علم الفيزياء",
+  "question": "",
+  "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_4.png",
+  "choices": [
+    "أ",
+    "ب",
+    "ج",
+    "د"
+  ],
+  "answer": 2
 }
-
 ]
