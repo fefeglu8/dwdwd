@@ -1,52 +1,17 @@
-[
+
+ [
   {
     "id": 1,
     "source": "غشام 23",
     "subject": "فيزياء",
-    "lesson": "القسم 1 اختبار",
-    "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "choices": ["5", "8", "10", "11"],
-    "answer": 3
-  },
-    {
-    "id": 1,
-    "source": "غشام 23",
-    "subject": "فيزياء",
-    "lesson": "القسم 1 اختبار",
-    "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_3.png",
-    "choices": ["5", "8", "10", "11"],
-    "answer": 3
-  },
-    {
-    "id": 1,
-    "source": "غشام 23",
-    "subject": "فيزياء",
-    "lesson": "القسم 1 اختبار",
-    "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_3.png",
-    "choices": ["5", "8", "10", "11"],
-    "answer": 3
-  },
-  
-    {
-    "id": 2,
-    "source": "قسم الاحياء صور",
-    "subject": "فيزياء",
-    "lesson": "القسم 1 اختبار",
-    "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "https://.../q1.png",
-    "choices": ["5", "8", "10", "11"],
-    "answer": 3
-  },
-     {
-    "id": 2,
-    "source": "غشام 23",
-    "subject": "كيمياء",
-    "lesson": "القسم 1 اختبار",
-    "question": "ما ناتج f(x)=2x+3 عندما x=4؟",
-    "image": "https://.../q1.png",
-    "choices": ["5", "8", "10", "11"],
+    "lesson": "مدخل إلى علم الفيزياء",
+    "question": "شرب أحمد 3 ديسيلتر حليب، هذا يعني أن كمية الحليب التي شربها تساوي باللتر…",
+    "choices": [
+      "0.003",
+      "0.0003",
+      "0.3",
+      "‎3"
+    ],
     "answer": 3
   }
 ]
