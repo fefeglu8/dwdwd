@@ -335,6 +335,51 @@
     "GI"
   ],
   "answer": 3
-}
+},
+{
+  "id": 25,
+  "source": "غشام 23",
+  "subject": "فيزياء",
+  "lesson": "الميكانيكا",
+  "question": "الرسم البياني المجاور يمثل حركة طالب بالنسبة لمدرسته، أي التالي صحيح؟",
+  "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_5.png",
+  "choices": [
+    "بدأ الطالب تحركه من عند المدرسة",
+    "ظل الطالب واقفاً لمدة 10s",
+    "وصل الطالب إلى المدرسة بعد 15s",
+    "كان بعد الطالب 10m بعد 10s من تحركه"
+  ],
+  "answer": 2
+},
+{
+  "id": 26,
+  "source": "غشام 23",
+  "subject": "فيزياء",
+  "lesson": "الميكانيكا",
+  "question": "الشكل المجاور يمثل حركة عداء، إن السرعة التي يتحرك بها العداء تساوي:",
+  "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_6.png",
+  "choices": [
+    "3 m/s",
+    "10 m/s",
+    "5 m/s",
+    "25 m/s"
+  ],
+  "answer": 3
+},
+{
+  "id": 27,
+  "source": "غشام 23",
+  "subject": "فيزياء",
+  "lesson": "الميكانيكا",
+  "question": "في الرسم البياني المجاور: سيارة قطعت طريقها على أربع مراحل، كل مرحلة كان لها سرعة مختلفة، أي المراحل أكبر تسارعًا؟",
+  "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_7.png",
+  "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "answer": 3
+},
 
 ]
