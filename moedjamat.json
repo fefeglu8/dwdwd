@@ -7,6 +7,17 @@
         "notes": "ملاحظة مهمة: القبول إلكتروني موحد للطلاب والطالبات عبر منصة قبول.",
         "weightedRatio": "الان فترة اضافة رغبات عبر منصة قبول",
         "status": "متاح",
-        "link":"https://github.com/fefeglu8/dwdwd/blob/main/jamat.json"
-    }
+        "link":"https://www.uap.sa/"
+    },
+       {
+        "id": "uqu",
+        "name": "جامعة أم القرى",
+        "startDate": "1447/5/14",
+        "endDate": "1448/1/24",
+        "notes": "ملاحظة مهمة: القبول إلكتروني موحد للطلاب والطالبات عبر منصة قبول.",
+        "weightedRatio": "الان فترة اضافة رغبات عبر منصة قبول",
+        "status": "متاح",
+        "link":"https://www.uap.sa/"
+    },
+     
 ]
