@@ -50,5 +50,168 @@
         ]
       }
     ]
+  },
+    {
+    "id": "uqu",
+    "name": "جامعة أم القرى",
+    "image": "https://upload.wikimedia.org/wikipedia/ar/c/c3/Umm_Al-Qura_University_logo.png",
+    "location": "مكة",
+    "description": "جامعة أم القرى جامعة حكومية سعودية تقع في مكة المكرمة. تأسست في العام 1950م  . تعتبر من أعرق الجامعات في المملكة",
+    "applicationStart": "1447/5/14",
+    "applicationEnd": "1448/1/24",
+    "isOpen": true,
+    "colleges": [
+      {
+        "id": "ksu_science",
+        "name": "كلية علوم الحاسب والمعلومات",
+        "majors": [
+          {
+            "id": "ksu_science_cs",
+            "name": "علوم الحاسب"
+          },
+          {
+            "id": "ksu_science_it",
+            "name": "تقنية المعلومات"
+          },
+          {
+            "id": "ksu_science_IS",
+            "name": "نظم المعلومات"
+          },
+          {
+            "id": "ksu_science_CE",
+            "name": "هندسة الحاسب"
+          },
+          {
+            "id": "ksu_science_SE",
+            "name": "هندسة البرمجيات"
+          }
+        ]
+      },
+      {
+        "id": "ksu_eng",
+        "name": "كلية الهندسة",
+        "majors": [
+          {
+            "id": "ksu_eng_EE",
+            "name": "الهندسة الكهربائية"
+          },
+          {
+            "id": "ksu_eng_ChE",
+            "name": "الهندسة الكيميائية"
+          }
+        ]
+      }
+    ]
+  },
+  {
+ "id": "iu",
+ "name": "الجامعة الإسلامية",
+    "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/21/62035.jpg",
+    "location": "مكة",
+    "description": "جامعة أم القرى جامعة حكومية سعودية تقع في مكة المكرمة. تأسست في العام 1950م  . تعتبر من أعرق الجامعات في المملكة",
+    "applicationStart": "1447/5/14",
+    "applicationEnd": "1448/1/24",
+    "isOpen": true,
+    "colleges": [
+      {
+        "id": "ksu_science",
+        "name": "كلية علوم الحاسب والمعلومات",
+        "majors": [
+          {
+            "id": "ksu_science_cs",
+            "name": "علوم الحاسب"
+          },
+          {
+            "id": "ksu_science_it",
+            "name": "تقنية المعلومات"
+          },
+          {
+            "id": "ksu_science_IS",
+            "name": "نظم المعلومات"
+          },
+          {
+            "id": "ksu_science_CE",
+            "name": "هندسة الحاسب"
+          },
+          {
+            "id": "ksu_science_SE",
+            "name": "هندسة البرمجيات"
+          }
+        ]
+      },
+      {
+        "id": "ksu_eng",
+        "name": "كلية الهندسة",
+        "majors": [
+          {
+            "id": "ksu_eng_EE",
+            "name": "الهندسة الكهربائية"
+          },
+          {
+            "id": "ksu_eng_ChE",
+            "name": "الهندسة الكيميائية"
+          }
+        ]
+      }
+    ]
+  },
+  {
+        "id": "imamu",
+        "name": "جامعة الإمام محمد بن سعود الإسلامية",
+    "image": "https://saudipedia.com/saudipedia/uploads/images/2023/09/12/61304.jpg",
+    "location": "مكة",
+    "description": "جامعة أم القرى جامعة حكومية سعودية تقع في مكة المكرمة. تأسست في العام 1950م  . تعتبر من أعرق الجامعات في المملكة",
+    "applicationStart": "1447/5/14",
+    "applicationEnd": "1448/1/24",
+    "isOpen": true,
+    "colleges": [
+      {
+        "id": "ksu_science",
+        "name": "كلية علوم الحاسب والمعلومات",
+        "majors": [
+          {
+            "id": "ksu_science_cs",
+            "name": "علوم الحاسب"
+          },
+          {
+            "id": "ksu_science_it",
+            "name": "تقنية المعلومات"
+          },
+          {
+            "id": "ksu_science_IS",
+            "name": "نظم المعلومات"
+          },
+          {
+            "id": "ksu_science_CE",
+            "name": "هندسة الحاسب"
+          },
+          {
+            "id": "ksu_science_SE",
+            "name": "هندسة البرمجيات"
+          }
+        ]
+      },
+      {
+        "id": "ksu_eng",
+        "name": "كلية الهندسة",
+        "majors": [
+          {
+            "id": "ksu_eng_EE",
+            "name": "الهندسة الكهربائية"
+          },
+          {
+            "id": "ksu_eng_ChE",
+            "name": "الهندسة الكيميائية"
+          }
+        ]
+      }
+    ]
   }
+
+
+
+
+
+
+  
 ]
