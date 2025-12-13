@@ -5,8 +5,8 @@
     "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/23/thumbs/600x600/59857.jpg",
     "location": "الرياض",
     "description": "جامعة حكومية سعودية تقع في الرياض، تأسست عام 1957. تعتبر من أعرق الجامعات في المملكة",
-        "applicationStart": '1446/01/01',
-        "applicationEnd": '1446/01/15',
+        "applicationStart": "1446/01/01",
+        "applicationEnd": "1446/01/15",
     "isOpen": false,
     "colleges": [
       {
