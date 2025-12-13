@@ -1,36 +1,36 @@
 [
   {
-    "id": "unique_id_here",
-    "name": "University Name",
-    "image": "https://link-to-image.jpg",
-    "location": "City Name",
-    "description": "Short description of the university",
-    "applicationStart": "1446/01/01",
-    "applicationEnd": "1446/01/15",
-    "isOpen": true,
+    "id": "ksu",
+    "name": "جامعة الملك سعود",
+    "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/23/thumbs/600x600/59857.jpg",
+    "location": "الرياض",
+    "description": "جامعة حكومية سعودية تقع في الرياض، تأسست عام 1957. تعتبر من أعرق الجامعات في المملكة",
+        "applicationStart": '1446/01/01',
+        "applicationEnd": '1446/01/15',
+    "isOpen": false,
     "colleges": [
       {
-        "id": "college_id",
-        "name": "College Name",
+        "id": "ksu_science",
+        "name": "كلية علوم الحاسب والمعلومات",
         "majors": [
           {
-            "id": "major_id",
-            "name": "Major Name",
-            "icon": "school-outline", 
-            "description": "Major description...",
-            "universityName": "University Name",
-            "collegeName": "College Name",
-            "programName": "Program Name (e.g. Bachelor of CS)",
-            "duration": "4 Years",
+            "id": "ksu_science_cs",
+            "name": "علوم الحاسب",
+            "icon": "laptop-outline", 
+            "description": "تخصص يهتم دراسة الخوارزميات وهيكلة البيانات ولغات البرمجة وتطوير البرمجيات والذكاء الاصطناعي.",
+            "universityName": "جامعة الملك سعود",
+            "collegeName": "كلية علوم الحاسب والمعلومات",
+            "programName": "بكالوريوس علوم الحاسب",
+            "duration": "4 سنوات",
             "gender": "الكل", 
             "tracks": "علمي",
-            "acceptanceConditions": "Acceptance requirements...",
-            "weightedRatio": "30% Aptitude, 40% Achievement...",
-            "planUrl": "https://link-to-plan",
-            "websiteUrl": "https://university-website",
-            "salaries": "Expected salaries info...",
-            "jobFields": "Job fields info...",
-            "similarTitles": "Similar or related majors..."
+            "acceptanceConditions": "الحصول على شهادة الثانوية العامة قسم العلمي + اجتياز اختبار القدرات والتحصيلي.",
+            "weightedRatio": "30% قدرات، 40% تحصيلي، 30% ثانوية",
+            "planUrl": "https://ccis.ksu.edu.sa/ar/cs/bachelor-plan",
+            "websiteUrl": "https://ccis.ksu.edu.sa/ar",
+            "salaries": "يتراوح متوسط الراتب لحديثي التخرج بين 8,000 إلى 12,000 ريال سعودي، وقد يصل إلى أرقام أعلى في الشركات العالمية.",
+            "jobFields": "مطور برمجيات، مهندس برمجيات، محلل نظم، عالم بيانات، مطور ويب، مطور تطبيقات موبايل..",
+            "similarTitles": "هندسة برمجيات، تقنية معلومات، نظم معلومات حاسوبية."
           }
         ]
       }
