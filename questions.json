@@ -1350,7 +1350,7 @@
   "id": 96,
   "source": "غشام 23",
   "subject": "فيزياء",
-  "lesson": "الميكانيكا الجزء الثالث",
+  "lesson":  "الميكانيكا الجزء الثالث",
   "question": "في الشكل المجاور، يوجد في الباب أربع حلقات (A, B, C, D) لفتح الباب، أي الحلقات يمكن استخدامها لتكون القوة اللازمة لفتح الباب أقل ما يمكن؟",
   "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_20.png",
   "choices": [
@@ -1365,7 +1365,7 @@
   "id": 97,
   "source": "غشام 23",
   "subject": "فيزياء",
-  "lesson": "الميكانيكا الجزء الثالث",
+  "lesson":  "الميكانيكا الجزء الثالث",
   "question": "في الشكل التالي، إذا كان اللوح يتأرجح حيث تكون m1 إلى الأعلى و m2 إلى الأسفل، لكي يتزن نحرك نقطة الارتكاز إلى:",
   "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/refs/heads/main/Screenshot_21.png",
   "choices": [
