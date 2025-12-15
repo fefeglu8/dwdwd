@@ -1,21 +1,68 @@
- {
-  "trainings": [
-    {
-      "title": "فيزياء",
-   "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/27451defcfa9b853dbda7a57151e1c8ec31a9954/ChatGPT%20Image%203%20%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1%202025%D8%8C%2011_06_09%20%D9%85.png",
-      "lessons": [
-        { "title": "مدخل إلى علم الفيزياء" },
-       { "title": "الميكانيكا" },
-       { "title": "الميكانيكا الجزء الثاني" },
-         { "title": "الميكانيكا الجزء الثالث" },
-      { "title": "الميكانيكا الجزء الرابع" }
-
-
-      ]
-    }
-  ],
-
-  "files": [
-    { "name": "ملف غشام 23", "url": "https://drive.google.com/file/d/17lgE9damUm09yrkTXXUvte_u7QLHWQFh/view?usp=sharing" }
-  ]
+{
+    "trainings": [
+        {
+            "title": "فيزياء",
+            "image": "https://raw.githubusercontent.com/fefeglu8/dwdwd/27451defcfa9b853dbda7a57151e1c8ec31a9954/ChatGPT%20Image%203%20%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1%202025%D8%8C%2011_06_09%20%D9%85.png",
+            "lessons": [
+                {
+                    "title": "مدخل إلى علم الفيزياء",
+                    "quizzes": [
+                        {
+                            "title": "مدخل إلى علم الفيزياء"
+                        }
+                    ]
+                },
+                {
+                    "title": "الميكانيكا",
+                    "quizzes": [
+                        {
+                            "title": "اختبار الميكانيكا - أساسيات"
+                        },
+                        {
+                            "title": "اختبار الميكانيكا - متقدم"
+                        }
+                    ]
+                },
+                {
+                    "title": "الميكانيكا الجزء الثاني",
+                    "quizzes": [
+                        {
+                            "title": "اختبار الميكانيكا 2 - الجزء الأول"
+                        },
+                        {
+                            "title": "اختبار الميكانيكا 2 - الجزء الثاني"
+                        }
+                    ]
+                },
+                {
+                    "title": "الميكانيكا الجزء الثالث",
+                    "quizzes": [
+                        {
+                            "title": "اختبار الميكانيكا 3 - الجزء الأول"
+                        },
+                        {
+                            "title": "اختبار الميكانيكا 3 - الجزء الثاني"
+                        }
+                    ]
+                },
+                {
+                    "title": "الميكانيكا الجزء الرابع",
+                    "quizzes": [
+                        {
+                            "title": "اختبار الميكانيكا 4 - الجزء الأول"
+                        },
+                        {
+                            "title": "اختبار الميكانيكا 4 - الجزء الثاني"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "files": [
+        {
+            "name": "ملف غشام 23",
+            "url": "https://drive.google.com/file/d/17lgE9damUm09yrkTXXUvte_u7QLHWQFh/view?usp=sharing"
+        }
+    ]
 }
