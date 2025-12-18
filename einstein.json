@@ -2,7 +2,7 @@
   "trainings": [
     {
       "title": "فيزياء",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
+   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
       "lessons": [
                 {
                     "title": "تسريبات فيزياء",
@@ -14,7 +14,7 @@
                 },
    {
       "title": "كيمياء",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
+   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
       "lessons": [
                 {
                     "title": "تسريبات كيمياء",
@@ -27,7 +27,7 @@
     },
    {
       "title": "رياضيات",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
+   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
       "lessons":[
                 {
                     "title": "تسريبات رياضيات",
@@ -39,7 +39,7 @@
     },
    {
       "title": "الاحياء",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
+   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
       "lessons":  [
                         {
                             "title": "تسريبات الاحياء - اضغط هنا للبدء"
