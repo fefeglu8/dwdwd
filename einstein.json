@@ -4,9 +4,14 @@
       "title": "فيزياء",
    "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
       "lessons": [
-        { "title": "تسريبات الاحياء" }
-      ]
-    },
+                {
+                    "title": "تسريبات فيزياء",
+                    "quizzes": [
+                        {
+                            "title": "تسريبات فيزياء - اضغط هنا للبدء"
+                        }
+                    ]
+                },
    {
       "title": "كيمياء",
    "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
