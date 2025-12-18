@@ -4,29 +4,47 @@
       "title": "فيزياء",
    "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
       "lessons": [
-        { "title": "تسريبات الاحياء" }
-      ]
-    },
+                {
+                    "title": "تسريبات فيزياء",
+                    "quizzes": [
+                        {
+                            "title": "تسريبات فيزياء - اضغط هنا للبدء"
+                        }
+                    ]
+                },
    {
       "title": "كيمياء",
    "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
       "lessons": [
-        { "title": "تسريبات كيمياء" }
-      ]
+                {
+                    "title": "تسريبات كيمياء",
+                    "quizzes": [
+                        {
+                            "title": "تسريبات كيمياء - اضغط هنا للبدء"
+                        }
+                    ]
+                
     },
    {
       "title": "رياضيات",
    "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
-      "lessons": [
-        { "title": "تسريبات رياضيات" }
-      ]
+      "lessons":[
+                {
+                    "title": "تسريبات رياضيات",
+                    "quizzes": [
+                        {
+                            "title": "تسريبات رياضيات - اضغط هنا للبدء"
+                        }
+                    ]
     },
    {
       "title": "الاحياء",
    "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
-      "lessons": [
-        { "title": "تسريبات الاحياء" }
-      ]
+      "lessons":  [
+                        {
+                            "title": "تسريبات الاحياء - اضغط هنا للبدء"
+                        }
+                    ]
     }
   ],
   "files": [
