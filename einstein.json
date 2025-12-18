@@ -2,7 +2,7 @@
   "trainings": [
     {
       "title": "فيزياء",
-      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
       "lessons": [
         {
           "title": "تسريبات فيزياء",
@@ -15,5 +15,10 @@
       ]
     }
   ],
- 
+  "files": [
+    {
+      "name": "soon - قريبا",
+      "url": "https://drive.google.com/file/d/17lgE9damUm09yrkTXXUvte_u7QLHWQFh/view?usp=sharing"
+    }
+  ]
 }
