@@ -1,53 +1,66 @@
- {
+{
   "trainings": [
     {
       "title": "فيزياء",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
       "lessons": [
-                {
-                    "title": "تسريبات فيزياء",
-                    "quizzes": [
-                        {
-                            "title": "تسريبات فيزياء - اضغط هنا للبدء"
-                        }
-                    ]
-                },
-   {
+        {
+          "title": "تسريبات فيزياء",
+          "quizzes": [
+            {
+              "title": "تسريبات فيزياء - اضغط هنا للبدء"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "كيمياء",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
       "lessons": [
-                {
-                    "title": "تسريبات كيمياء",
-                    "quizzes": [
-                        {
-                            "title": "تسريبات كيمياء - اضغط هنا للبدء"
-                        }
-                    ]
-                
+        {
+          "title": "تسريبات كيمياء",
+          "quizzes": [
+            {
+              "title": "تسريبات كيمياء - اضغط هنا للبدء"
+            }
+          ]
+        }
+      ]
     },
-   {
+    {
       "title": "رياضيات",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
-      "lessons":[
-                {
-                    "title": "تسريبات رياضيات",
-                    "quizzes": [
-                        {
-                            "title": "تسريبات رياضيات - اضغط هنا للبدء"
-                        }
-                    ]
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
+      "lessons": [
+        {
+          "title": "تسريبات رياضيات",
+          "quizzes": [
+            {
+              "title": "تسريبات رياضيات - اضغط هنا للبدء"
+            }
+          ]
+        }
+      ]
     },
-   {
-      "title": "الاحياء",
-   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
-      "lessons":  [
-                        {
-                            "title": "تسريبات الاحياء - اضغط هنا للبدء"
-                        }
-                    ]
+    {
+      "title": "الأحياء",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
+      "lessons": [
+        {
+          "title": "تسريبات الأحياء",
+          "quizzes": [
+            {
+              "title": "تسريبات الأحياء - اضغط هنا للبدء"
+            }
+          ]
+        }
+      ]
     }
   ],
   "files": [
-    { "name": "قريبا", "url": "https://..." }
+    {
+      "name": "قريبًا",
+      "url": "https://..."
+    }
   ]
 }
