@@ -1,0 +1,14 @@
+ {
+  "trainings": [
+    {
+      "title": "قريبا",
+   "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
+      "lessons": [
+        { "title": "قريبا" }
+      ]
+    }
+  ],
+  "files": [
+    { "name": "قريبا", "url": "https://..." }
+  ]
+}
