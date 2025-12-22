@@ -225,5 +225,86 @@
         "subject": "رياضيات",
         "lesson": "تسريبات رياضيات",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_23_25015.png"
+    },
+  
+    {
+        "id": "math_2025_p5_16",
+        "question": "ماهي قيمة x بالنسبة لـ y ",
+        "choices": [
+            "-y",
+            "2y",
+            "1/2y",
+            "y"
+        ],
+        "answer": 1,
+        "explanation": "بما أن 1/B يمكن كتابتها B^-1، تصبح المعادلة (B^-1)^x = B^y، ومنها B^-x = B^y. بمساواة الأسس نجد أن -x = y، أي أن x = -y.",
+        "source": "تسريبات 2025 محمد تحصيلي",
+        "subject": "رياضيات",
+        "lesson": "تسريبات رياضيات",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/math_2025_p5_16.png"
+    },
+    {
+        "id": "math_2025_p5_17",
+        "question": "أوجد مشتقة الدالة f(x) = x^2 + 6x عند النقطة (-1, 1):",
+        "choices": [
+            "2",
+            " -2",
+            "4",
+            " -4"
+        ],
+        "answer": 3,
+        "explanation": "نوجد المشتقة الأولى للدالة: f'(x) = 2x + 6. بالتعويض عن قيمة x بـ -1: f'(-1) = 2(-1) + 6 = -2 + 6 = 4.",
+        "source": "تسريبات 2025 محمد تحصيلي",
+        "subject": "رياضيات",
+        "lesson": "تسريبات رياضيات",
+        "image": null
+    },
+    {
+        "id": "math_2025_p5_18",
+        "question": "إذا كان f(x) = √x و g(x) = x²، فما قيمة (f o g)(9) ؟",
+        "choices": [
+            "9",
+            "81",
+            "3",
+            "27"
+        ],
+        "answer": 1,
+        "explanation": "(f o g)(9) = f(g(9)) = f(9^2) = f(81) = √81 = 9.",
+        "source": "تسريبات 2025 محمد تحصيلي",
+        "subject": "رياضيات",
+        "lesson": "تسريبات رياضيات",
+        "image": null
+    },
+    {
+        "id": "math_2025_p5_19",
+        "question": "إذا كان 84% من الناس يحبون القراءة، فما مقدار الانحراف المعياري إذا تمت التجربة على 150 شخصاً بشكل عشوائي؟",
+        "choices": [
+            "4.5",
+            "6",
+            "10",
+            "8.5"
+        ],
+        "answer": 1,
+        "explanation": "الانحراف المعياري في التوزيع ذي الحدين يساوي √(n * p * q). حيث n=150, p=0.84, q=0.16. σ = √(150 * 0.84 * 0.16) = √20.16 ≈ 4.49، وهو ما يقرب لـ 4.5.",
+        "source": "تسريبات 2025 محمد تحصيلي",
+        "subject": "رياضيات",
+        "lesson": "تسريبات رياضيات",
+        "image": null
+    },
+    {
+        "id": "math_2025_p5_20",
+        "question": "ما أبسط صورة للمقدار:  ؟",
+        "choices": [
+            "4/5 x",
+            "4x² / y",
+            "4x²",
+            "4x² y²"
+        ],
+        "answer": 3,
+        "explanation": "بتبسيط الكسر الأول: 4x. وبتبسيط الكسر الثاني: 1/x. العملية تصبح (4x) ÷ (1/x) = 4x * x = 4x^2.",
+        "source": "تسريبات 2025 محمد تحصيلي",
+        "subject": "رياضيات",
+        "lesson": "تسريبات رياضيات",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/math_2025_p5_20.png"
     }
 ]
