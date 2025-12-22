@@ -8,7 +8,49 @@
           "title": "تسريبات فيزياء",
           "quizzes": [
             {
-              "title": "تسريبات فيزياء - اضغط هنا للبدء"
+              "title": "تسريبات فيزياء"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "رياضيات",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_math.png",
+      "lessons": [
+        {
+          "title": "تسريبات رياضيات",
+          "quizzes": [
+            {
+              "title": "تسريبات رياضيات"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "كيمياء",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_chemistry.png",
+      "lessons": [
+        {
+          "title": "تسريبات كيمياء",
+          "quizzes": [
+            {
+              "title": "تسريبات كيمياء"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "أحياء",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_biology.png",
+      "lessons": [
+        {
+          "title": "تسريبات أحياء",
+          "quizzes": [
+            {
+              "title": "تسريبات أحياء"
             }
           ]
         }
