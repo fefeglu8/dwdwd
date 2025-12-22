@@ -16,7 +16,7 @@
     },
     {
       "title": "رياضيات",
-      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_math.png",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
       "lessons": [
         {
           "title": "تسريبات رياضيات",
@@ -30,7 +30,7 @@
     },
     {
       "title": "كيمياء",
-      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_chemistry.png",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
       "lessons": [
         {
           "title": "تسريبات كيمياء",
@@ -44,7 +44,7 @@
     },
     {
       "title": "أحياء",
-      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_biology.png",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
       "lessons": [
         {
           "title": "تسريبات أحياء",
@@ -59,8 +59,8 @@
   ],
   "files": [
     {
-      "name": "soon - قريبا",
-      "url": "https://drive.google.com/file/d/17lgE9damUm09yrkTXXUvte_u7QLHWQFh/view?usp=sharing"
+      "name": "محمد تحصيلي + مراس",
+      "url": "https://drive.google.com/file/d/1aUifY3MbDjyWOSP3QbKGM5oUCRDO55hu/view?usp=sharing"
     }
   ]
 }
