@@ -1,0 +1,27 @@
+{
+  "trainings": [
+    {
+      "title": "أحياء",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_45.png",
+      "lessons": [
+        {
+          "title": "تجميع أسئلة الصور والجداول",
+          "quizzes": [
+            {
+              "title": "تجميع أسئلة الصور والجداول"
+            },
+             {
+              "title": "تجميع أسئلة الصور والجداول"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "name": "تجميع أسئلة الصور والجداول يلو",
+      "url": "https://drive.google.com/file/d/100ZOwEdaX0x9oIrBooMazgTeNTLfV54p/view?usp=sharing"
+    }
+  ]
+}
