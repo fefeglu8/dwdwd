@@ -94,5 +94,4216 @@
         "subject": "أحياء",
         "lesson": "تجميع أسئلة الصور والجداول",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY_P3_Q5.png"
+    },
+    
+    {
+        "id": "IMTY_Q07_P2",
+        "question": "في الصورة المقابلة، ما هو الوصف الصحيح للبكتيريا المبينة؟",
+        "choices": [
+            "1 كروية، 2 عصوية، 3 لولبية",
+            "1 عصوية، 2 كروية، 3 لولبية",
+            "1 عصوية، 2 لولبية، 3 كروية",
+            "1 لولبية، 2 كروية، 3 عصوية"
+        ],
+        "answer": 2,
+        "explanation": "يتم تصنيف البكتيريا حسب شكلها إلى عصوية (1) وكروية (2) ولولبية/حلزونية (3).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q07_P2.png"
+    },
+    {
+        "id": "IMTY_Q08_P2",
+        "question": "الشكل لفيروس ارتجاعي يُسبب مرض...",
+        "choices": [
+            "الجدري",
+            "الإيدز",
+            "الأنفلونزا",
+            "الرشح"
+        ],
+        "answer": 2,
+        "explanation": "فيروس نقص المناعة المكتسبة (HIV) المسبب للإيدز هو أشهر أنواع الفيروسات الارتجاعية التي تستخدم إنزيم النسخ العكسي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q08_P2.png"
+    },
+    {
+        "id": "IMTY_Q09_P2",
+        "question": "الشكل يُمثل فيروس...",
+        "choices": [
+            "غدي",
+            "الأنفلونزا",
+            "بكتيريوفاج",
+            "نباتي"
+        ],
+        "answer": 2,
+        "explanation": "يظهر الشكل التركيب المميز لفيروس الأنفلونزا الذي يحتوي على غلاف خارجي وبروزات بروتينية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q09_P2.png"
+    },
+    {
+        "id": "IMTY_Q10_P2",
+        "question": "في الشكل المقابل، أي منحنى أصدق تمثيلاً لمعدل نمو البكتيريا في الظروف المثلى؟",
+        "choices": [
+            "المنحنى 1",
+            "المنحنى 2",
+            "المنحنى 3",
+            "المنحنى 4"
+        ],
+        "answer": 2,
+        "explanation": "المنحنى 2 يمثل النمو الأسي السريع الذي يحدث للبكتيريا عند توفر الظروف المثالية من غذاء ومساحة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q10_P2.png"
+    },
+    {
+        "id": "IMTY_Q11_P2",
+        "question": "أي منحنى أصدق تمثيلاً لمعدل نمو البكتيريا تعرضت لمضاد حيوي فعال؟",
+        "choices": [
+            "المنحنى 1",
+            "المنحنى 2",
+            "المنحنى 3",
+            "المنحنى 4"
+        ],
+        "answer": 4,
+        "explanation": "المنحنى 4 يظهر هبوطاً حاداً في عدد البكتيريا، مما يدل على موتها نتيجة تأثير المضاد الحيوي الفعال.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q10_P2.png"
+    },
+    {
+        "id": "IMTY_Q12_P2",
+        "question": "في الجدول أدناه، أي الخيارات التالية صحيحة:",
+        "choices": [
+            "الخيار 1",
+            "الخيار 2",
+            "الخيار 3",
+            "الخيار 4"
+        ],
+        "answer": 2,
+        "explanation": "لا يوجد شرح",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q12_P2.png"
+    },
+    {
+        "id": "IMTY_Q13_P2",
+        "question": "الشكل الحلزوني يمثل:",
+        "choices": [
+            "السبيروجيرا",
+            "التريبونيما",
+            "السالمونيلا",
+            "ايكوبكتيريالم"
+        ],
+        "answer": 2,
+        "explanation": "بكتيريا التريبونيما (Treponema) تتميز بشكلها الحلزوني الملتف وهي المسببة لمرض الزهري.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q13_P2.png"
+    },
+    {
+        "id": "IMTY_Q14_P2",
+        "question": "بناءً على الشكل يمكن وصفه بأنه:",
+        "choices": [
+            "ينتقل عن طريق التنفس",
+            "فيروس الأبقار",
+            "بكتيريا بدائية",
+            "فيروس ارتجاعي"
+        ],
+        "answer": 4,
+        "explanation": "يظهر الشكل تركيب الفيروس الارتجاعي الذي يحتوي على محفظة و RNA وإنزيم النسخ العكسي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q14_P2.png"
+    },
+    {
+        "id": "IMTY_Q15_P2",
+        "question": "أي أجزاء الشكل المجاور يمثل محفظة الفيروس؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الرقم 3 يشير إلى محفظة الفيروس (Capsid) وهي الغلاف البروتيني الذي يحيط بالمادة الوراثية للفيروس.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__IMTY_Q15_P2.png"
+    },
+  {
+        "id": "IMTY24901",
+        "question": "ما التركيب المبين في الشكل المقابل؟",
+        "choices": [
+            "أ- خيوط فطرية غير مجزأة",
+            "ب- غزل فطري",
+            "ج- بوغ",
+            "د- خيوط فطرية مجزأة"
+        ],
+        "answer": 4,
+        "explanation": "توضح الصورة خيوطاً فطرية (هيفات) تحتوي على حواجز عرضية تفصل بين الخلايا، مما يجعلها خيوطاً مجزأة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__24.png"
+    },
+    {
+        "id": "IMTY25902",
+        "question": "أي المخلوقات التالية يُعد عديم التناظر؟",
+        "choices": [
+            "أ- 1",
+            "ب- 2",
+            "ج- 3",
+            "د- 4"
+        ],
+        "answer": 1,
+        "explanation": "المخلوق رقم 1 يمثل الإسفنج، وهو حيوان عديم التناظر حيث لا يوجد انتظام في شكل جسمه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__25.png"
+    },
+    {
+        "id": "IMTY26903",
+        "question": "تناظر المخلوق الذي في الشكل:",
+        "choices": [
+            "أ- عديم التناظر",
+            "ب- شعاعي",
+            "ج- عديد التناظر",
+            "د- جانبي"
+        ],
+        "answer": 1,
+        "explanation": "الصورة تمثل الإسفنج، والإسفنج حيوان عديم التناظر.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__26.png"
+    },
+    {
+        "id": "IMTY27904",
+        "question": "ما هي الميزة الواضحة للديدان الأسطوانية في الشكل؟",
+        "choices": [
+            "أ- التجويف الحقيقي",
+            "ب- التجويف الكاذب",
+            "ج- عديمة التجويف",
+            "د- التجويف الثنائي"
+        ],
+        "answer": 2,
+        "explanation": "تُظهر الصورة مقطعاً عرضياً للديدان الأسطوانية حيث يوجد تجويف جسمي كاذب يقع بين الطبقتين الوسطى والداخلية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__27.png"
+    },
+    {
+        "id": "IMTY28905",
+        "question": "الشكل يمثل مرحلة النمو المبكر لأجنة الحيوانات، أي التالي يمثل طور الجاسترولا؟",
+        "choices": [
+            "أ- A",
+            "ب- B",
+            "ج- C",
+            "د- D"
+        ],
+        "answer": 4,
+        "explanation": "المرحلة D تمثل الجاسترولا، وهي كيس ذو طبقتين من الخلايا بفتحة واحدة في أحد نهايتيه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__28.png"
+    },
+    {
+        "id": "IMTY29906",
+        "question": "الشكل يمثل مرحلة الجاسترولا في التكوين الجنيني، أي التراكيب التالية الذي يشير إليه السهم؟",
+        "choices": [
+            "أ- الطبقة الداخلية",
+            "ب- الطبقة الوسطى",
+            "ج- الطبقة الخارجية",
+            "د- فتحة الجاسترولا"
+        ],
+        "answer": 1,
+        "explanation": "يشير السهم في الرسم التخطيطي للجاسترولا إلى الطبقة الخلوية الداخلية التي سيتكون منها القناة الهضمية لاحقاً.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__29.png"
+    },
+    {
+        "id": "IMTY30907",
+        "question": "أي الاشكال التالية يوضح حيواناً عديم التجويف الجسمي؟",
+        "choices": [
+            "أ",
+            " ب",
+            "ج",
+            " د"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__30.png"
+    },
+    {
+        "id": "IMTY31908",
+        "question": "ما نوع التجويف في الصورة المجاورة؟",
+        "choices": [
+            "تجويف كاذب",
+            " عديم التجويف",
+            "حقيقة التجويف",
+            " ثنائي التجويف"
+        ],
+        "answer": 3,
+        "explanation": "الصورة توضح مقطعاً عرضياً لحيوان حقيقي التجويف الجسمي، حيث يحيط النسيج المكون من الطبقة الوسطى بالتجويف بالكامل.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__31.png"
+    },
+    {
+        "id": "IMTY32909",
+        "question": "ما نوع تجويف المخلوق الحي الموجود في الصورة؟",
+        "choices": [
+            "أ- عديم التجويف",
+            "ب- تجويف حقيقي",
+            "ج- تجويف كاذب",
+            "د- تجويف ثنائي"
+        ],
+        "answer": 1,
+        "explanation": "المخلوق الظاهر هو الدودة المفلطحة (البلاناريا)، وهي حيوانات عديمة التجويف الجسمي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__32.png"
+    },
+    {
+        "id": "IMTY33910",
+        "question": "ما مرحلة هذا الجنين في التكوين الجنيني؟",
+        "choices": [
+            "أ- الزيجوت",
+            "ب- البويضة",
+            "ج- الجاسترولا",
+            "د- البلاستيولا"
+        ],
+        "answer": 3,
+        "explanation": "هذا الشكل يمثل الجاسترولا، وهي مرحلة من مراحل النمو الجنيني المبكر وتتميز بوجود طبقات الأنسجة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__33.png"
+    },
+    {
+        "id": "IMTY34911",
+        "question": "في أي جزء يوجد السم؟",
+        "choices": [
+            "أ- 1",
+            "ب- 2",
+            "ج- 3",
+            "د- 4"
+        ],
+        "answer": 1,
+        "explanation": "يوجد السم في الخلايا اللاسعة الموجودة على لوامس الهيدرا، والمشار إليها بالرقم 1.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__34.png"
+    },
+    {
+        "id": "IMTY35912",
+        "question": "نوع تناظر الحيوان في الشكل التالي...",
+        "choices": [
+            "أ- جانبي",
+            "ب- شعاعي",
+            "ج- كلي",
+            "د- عديم"
+        ],
+        "answer": 2,
+        "explanation": "قنديل البحر المعروض في الصورة يمتلك تناظراً شعاعياً، حيث يمكن تقسيمه عبر أي مستوى يمر بالمركز إلى نصفين متساويين.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__35.png"
+    },
+    {
+        "id": "IMTY36913",
+        "question": "بناءً على مخطط العلاقات التركيبية التصنيفية أعلاه، أي الجمل الآتية صحيحة؟",
+        "choices": [
+            "أ- النسيج الحقيقي يأتي بعد التناظر الجانبي",
+            "ب- التقسيم يأتي بعد التناظر الجانبي",
+            "ج- أغلب الحيوانات لها تناظر شعاعي",
+            "د- تمتاز الإسفنجيات بوجود أنسجة حقيقة"
+        ],
+        "answer": 2,
+        "explanation": "بناءً على المخطط الشجري، تظهر صفة 'التقسيم' كتفرع لاحق لصفة 'التناظر الجانبي'.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__36.png"
+    },
+    {
+        "id": "IMTY37914",
+        "question": "أي الحيوانات الآتية تعد أكثر قرابة وصلة؟",
+        "choices": [
+            "أ- الديدان المفلطحة والحلقية",
+            "ب- الديدان الحلقية والرخويات",
+            "ج- الديدان الحلقية وشوكيات الجلد",
+            "د- الديدان الأسطوانية والحلقية"
+        ],
+        "answer": 2,
+        "explanation": "في مخطط العلاقات التركيبية، تظهر الديدان الحلقية والرخويات في فرع مشترك مما يدل على وجود سلف مشترك حديث بينهما.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__36.png"
+    },
+
+    {
+        "id": "IMTY_1",
+        "question": "يوضح الشكل التالي تأثير التركيزات الملحية على إنبات البذور في فترة زمنية معينة، فإن المتغير التابع في هذه التجربة هو:",
+        "choices": [
+            "التركيز الملحي",
+            "الفترة الزمنية",
+            "نوع البذرة",
+            "إنبات البذور"
+        ],
+        "answer": 4,
+        "explanation": "المتغير التابع هو العامل الذي تتم مراقبته لقياس مدى تأثره بالمتغير المستقل، وهنا هو نسبة الإنبات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__1.png"
+    },
+    {
+        "id": "IMTY_2",
+        "question": "ما خاصية الحياة التي تشكل عنواناً مناسباً لهذا المنحنى",
+        "choices": [
+            "الاتزان الداخلي",
+            "التعضي",
+            "النمو",
+            "التكاثر"
+        ],
+        "answer": 1,
+        "explanation": "المنحنى يظهر آليات التصحيح والعودة للبيئة المثلى، وهذا يعبر عن المحافظة على استقرار البيئة الداخلية للجسم (الاتزان الداخلي).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__2.png"
+    },
+    {
+        "id": "IMTY_3",
+        "question": "ما هو المتغير المستقل في الصورة؟",
+        "choices": [
+            "نوعية التربة",
+            "كمية الماء",
+            "نمو النبات",
+            "كمية الضوء الساقط"
+        ],
+        "answer": 2,
+        "explanation": "المتغير المستقل هو العامل الذي نقوم بتغييره عمداً في التجربة لاختبار تأثيره، وهنا يظهر التحكم في كمية الماء المضافة للنباتات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__3.png"
+    },
+    {
+        "id": "IMTY_4",
+        "question": "معلم يشرح لطلابه خصائص المخلوقات الحية، ما هي الخاصية التي يمثلها الشكل التالي؟",
+        "choices": [
+            "إظهار التنظيم",
+            "الاتزان الداخلي",
+            "التكيف",
+            "التكاثر"
+        ],
+        "answer": 1,
+        "explanation": "الشكل يظهر ترتيباً منظماً من الأجهزة والأعضاء (القلب، الكلية، المعدة)، مما يشير إلى خاصية التعضي أو إظهار التنظيم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__4.png"
+    },
+    {
+        "id": "IMTY_5",
+        "question": "في الجدول أعلاه، عند أي مستوى انفصل القط عن الثعلب؟",
+        "choices": [
+            "الفصيلة",
+            "النوع",
+            "الرتبة",
+            "الجنس"
+        ],
+        "answer": 1,
+        "explanation": "وفقاً للجدول، ينتمي القط للفصيلة القطية بينما ينتمي الثعلب للفصيلة الكلبية، وهما يشتركان في الرتبة (أكلة لحوم) وينفصلان عند مستوى الفصيلة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__5.png"
+    },
+    {
+        "id": "IMTY_6",
+        "question": "في الجدول أعلاه، أي الحيوانات التالية أبعد عن بقية المجموعة تصنيفاً؟",
+        "choices": [
+            "الذئب",
+            "القط المنزلي",
+            "الثعلب",
+            "الحوت الأزرق"
+        ],
+        "answer": 4,
+        "explanation": "الحوت الأزرق ينتمي لرتبة الحيتان، بينما الذئب والقط والثعلب ينتمون جميعاً لرتبة أكلة لحوم، مما يجعله الأبعد تصنيفياً.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__6.png"
+    },
+    {
+        "id": "IMTY_7",
+        "question": "في الصورة المقابلة، ما هو الوصف الصحيح للبكتيريا المبينة؟",
+        "choices": [
+            "1 عصوية، 2 كروية، 3 لولبية",
+            "1 كروية، 2 عصوية، 3 لولبية",
+            "1 عصوية، 2 لولبية، 3 كروية",
+            "1 لولبية، 2 كروية، 3 عصوية"
+        ],
+        "answer": 2,
+        "explanation": "رقم 1 تظهر بكتيريا كروية، رقم 2 بكتيريا عصوية، ورقم 3 بكتيريا حلزونية (لولبية).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__7.png"
+    },
+    {
+        "id": "IMTY_8",
+        "question": "الشكل لفيروس ارتجاعي يسبب مرض...",
+        "choices": [
+            "الجدري",
+            "الإيدز",
+            "الأنفلونزا",
+            "الرشح"
+        ],
+        "answer": 2,
+        "explanation": "فيروس نقص المناعة المكتسبة (HIV) المسبب للإيدز هو مثال شهير للفيروسات الارتجاعية التي تستخدم RNA كمادة وراثية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__8.png"
+    },
+    {
+        "id": "IMTY_9",
+        "question": "الشكل يُمثل فيروس...",
+        "choices": [
+            "غُدي",
+            "الأنفلونزا",
+            "بكتيريوفاج",
+            "نباتي"
+        ],
+        "answer": 2,
+        "explanation": "هذا الشكل الكروي المحاط بغلاف وبروتينات سطحية هو التصميم التقليدي لفيروس الأنفلونزا.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__9.png"
+    },
+    {
+        "id": "IMTY_10",
+        "question": "في الشكل المقابل، أي منحنى أصدق تمثيلاً لمعدل نمو البكتيريا في الظروف المثلى؟",
+        "choices": [
+            "المنحنى 1",
+            "المنحنى 2",
+            "المنحنى 3",
+            "المنحنى 4"
+        ],
+        "answer": 2,
+        "explanation": "المنحنى 2 يظهر نمواً أسياً سريعاً، وهو ما يحدث للبكتيريا عندما تتوفر لها الظروف البيئية والغذائية المثالية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__10.png"
+    },
+    {
+        "id": "IMTY_11",
+        "question": "أي منحنى أصدق تمثيلاً لمعدل نمو البكتيريا تعرضت لمضاد حيوي فعال؟",
+        "choices": [
+            "المنحنى 1",
+            "المنحنى 2",
+            "المنحنى 3",
+            "المنحنى 4"
+        ],
+        "answer": 4,
+        "explanation": "المنحنى 4 يظهر هبوطاً حاداً في عدد البكتيريا، مما يشير إلى تأثير قاتل لمضاد حيوي فعال أوقف نموها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__11.png"
+    },
+    {
+        "id": "IMTY_12",
+        "question": "في الجدول أدناه، أي الخيارات التالية صحيحة:",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الخيار 1 صحيح لأن البدائيات تتبع مملكة البدائيات، وتتميز بنوع خلايا بدائية النوى وجدارها لا يحتوي على ببتيدوجلايكان (في بعض التصنيفات يتم ذكر نوع الجدار بشكل مفصل).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__12.png"
+    },
+    {
+        "id": "IMTY_13",
+        "question": "الشكل الحلزوني يمثل:",
+        "choices": [
+            "السبيروجيرا",
+            "التربونيميا",
+            "السالمونيلا",
+            "ايكوبكتيريالم"
+        ],
+        "answer": 2,
+        "explanation": "البكتيريا اللولبية الحلزونية مثل التربونيميا المسببة للزهري تظهر بهذا الشكل الملتوي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__13.png"
+    },
+    {
+        "id": "IMTY_14",
+        "question": "بناءً على الشكل يمكن وصفه بأنه:",
+        "choices": [
+            "ينتقل عن طريق التنفس",
+            "فيروس الأبقار",
+            "بكتيريا بدائية",
+            "فيروس ارتجاعي"
+        ],
+        "answer": 4,
+        "explanation": "الشكل يوضح تركيب فيروس نقص المناعة المكتسبة الذي يحتوي على إنزيم النسخ العكسي وغلاف ومادة RNA، وهو فيروس ارتجاعي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__14.png"
+    },
+    {
+        "id": "IMTY_15",
+        "question": "أي أجزاء الشكل المجاور يمثل محفظة الفيروس؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الرقم 3 يشير إلى الغلاف البروتيني الخارجي (المحفظة) التي تحمي المادة الوراثية للفيروس البكتيري.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__15.png"
+    },
+    {
+        "id": "IMTY_16",
+        "question": "في الشكل المقابل، مخلوق حي يحصل على غذائه من الماء بوساطة تركيب:",
+        "choices": [
+            "الفم",
+            "الفجوات الغذائية",
+            "الأقدام الكاذبة",
+            "القنوات المنقبضة"
+        ],
+        "answer": 3,
+        "explanation": "الأميبا تستخدم الأقدام الكاذبة للإحاطة بالطعام وابتلاعه عن طريق عملية البلعمة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__16.png"
+    },
+    {
+        "id": "IMTY_17",
+        "question": "ما الرقم الذي يدل على البقعة العينية في اليوجلينا؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "البقعة العينية في اليوجلينا هي الجزء الحساس للضوء وتوجد عادة بالقرب من قاعدة السوط (رقم 1).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__17.png"
+    },
+    {
+        "id": "IMTY_18",
+        "question": "في اليوجيلينا أعلاه، ما الرقم الذي يمثل العضية التي تلتقط الطاقة من ضوء الشمس؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الرقم 3 يشير إلى البلاستيدات الخضراء التي تحتوي على الكلوروفيل للقيام بعملية البناء الضوئي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__18.png"
+    },
+    {
+        "id": "IMTY_19",
+        "question": "في الشكل مخلوق حي، ما عضو الحركة فيه؟",
+        "choices": [
+            "الأسواط",
+            "الأقدام الكاذبة",
+            "الأهداب",
+            "الشعيرات"
+        ],
+        "answer": 2,
+        "explanation": "هذا الكائن هو الأميبا (من جذريات القدم)، وعضو الحركة فيه هو الأقدام الكاذبة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__19.png"
+    },
+    {
+        "id": "IMTY_20",
+        "question": "الرسم التالي يمثل تركيب:",
+        "choices": [
+            "البرامسيوم",
+            "اليوجلينا",
+            "الأميبا",
+            "الأشنات"
+        ],
+        "answer": 1,
+        "explanation": "يتميز البرامسيوم بشكله الذي يشبه نعل الحذاء ووجود الأهداب والفجوة المنقبضة النجمية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__20.png"
+    },
+    {
+        "id": "IMTY_21",
+        "question": "الشكل لمخلوق من جذريات القدم، والتركيب المشار عليه بالسهم يُستخدم في...",
+        "choices": [
+            "التغذية والإخراج",
+            "الحركة والاستجابة للضوء",
+            "الحركة والتغذية",
+            "التغذية والتمويه"
+        ],
+        "answer": 3,
+        "explanation": "الأقدام الكاذبة في الأميبا تستخدم للحركة بوساطة الانزلاق السيتوبلازمي وللتغذية بالإحاطة بالفريسة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__21.png"
+    },
+    {
+        "id": "IMTY_22",
+        "question": "إلى أي نوع ينتمي هذا الفطر؟",
+        "choices": [
+            "الاقترانية",
+            "السوطيات",
+            "الدعامية",
+            "المخاطية اللزجة"
+        ],
+        "answer": 1,
+        "explanation": "فطر عفن الخبز (الظاهر في الصورة بتركيب أبواغه) ينتمي إلى الفطريات الاقترانية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__22.png"
+    },
+    {
+        "id": "IMTY_23",
+        "question": "ما التركيب المبين في الصورة؟",
+        "choices": [
+            "الخيوط الفطرية",
+            "الأبواغ",
+            "الكايتين",
+            "الحواجز"
+        ],
+        "answer": 1,
+        "explanation": "الصورة تظهر شبكة متفرعة من الخيوط الفطرية (الهيفات) التي تشكل الغزل الفطري.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__23.png"
+    },
+    {
+        "id": "IMTY_24",
+        "question": "ما التركيب المبين في الشكل المقابل؟",
+        "choices": [
+            "خيوط فطرية غير مجزأة",
+            "غزل فطري",
+            "بوغ",
+            "خيوط فطرية مجزأة"
+        ],
+        "answer": 4,
+        "explanation": "تظهر الخيوط الفطرية في الصورة وهي تحتوي على حواجز تفصل بين خلاياها، لذا هي خيوط مجزأة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__24.png"
+    },
+    {
+        "id": "IMTY_25",
+        "question": "أي المخلوقات التالية يُعد عديم التناظر؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الإسفنج (رقم 1) حيوان عديم التناظر، لا يمكن تقسيمه بمستوى واحد إلى نصفين متماثلين.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__25.png"
+    },
+    {
+        "id": "IMTY_26",
+        "question": "تناظر المخلوق الذي في الشكل:",
+        "choices": [
+            "عديم التناظر",
+            "شعاعي",
+            "عديد التناظر",
+            "جانبي"
+        ],
+        "answer": 1,
+        "explanation": "حيوان الإسفنج في الشكل ليس له محور تناظم محدد، فهو عديم التناظر.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__26.png"
+    },
+    {
+        "id": "IMTY_27",
+        "question": "ما هي الميزة الواضحة للديدان الأسطوانية في الشكل؟",
+        "choices": [
+            "التجويف الحقيقي",
+            "التجويف الكاذب",
+            "عديمة التجويف",
+            "التجويف الثنائي"
+        ],
+        "answer": 2,
+        "explanation": "الديدان الأسطوانية تمتلك تجويفاً جسمياً كاذباً، وهو فراغ مملوء بسائل بين طبقتي القناة الهضمية وجدار الجسم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__27.png"
+    },
+    {
+        "id": "IMTY_28",
+        "question": "الشكل يمثل مرحلة النمو المبكر لأجنة الحيوانات، أي التالي يمثل طور الجاسترولا؟",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 2,
+        "explanation": "الجاسترولا (رقم B) هي كيس ذو طبقتين من الخلايا له فتحة في إحدى نهايتيه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__28.png"
+    },
+    {
+        "id": "IMTY_29",
+        "question": "الشكل يمثل مرحلة الجاسترولا في التكوين الجنيني، أي التراكيب التالية الذي يشير إليه السهم؟",
+        "choices": [
+            "الطبقة الداخلية",
+            "الطبقة الوسطى",
+            "الطبقة الخارجية",
+            "فتحة الجاسترولا"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى الطبقة الخلوية المبطنة للجاسترولا وهي الطبقة الداخلية التي ستكون أعضاء الهضم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__29.png"
+    },
+    {
+        "id": "IMTY_30",
+        "question": "أي الاشكال التالية يوضح حيواناً عديم التجويف الجسمي؟",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "د"
+        ],
+        "answer": 1,
+        "explanation": "الخيار أ يوضح بنية دودة مفلطحة حيث لا يوجد فراغ بين القناة الهضمية والطبقة الخارجية، مما يعني أنها عديمة التجويف.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__30.png"
+    },
+    {
+        "id": "IMTY_31",
+        "question": "ما نوع التجويف في الصورة المجاورة؟",
+        "choices": [
+            "تجويف كاذب",
+            "عديم التجويف",
+            "حقيقة التجويف",
+            "ثنائي التجويف"
+        ],
+        "answer": 3,
+        "explanation": "الشكل يظهر تجويفاً جسمياً محاطاً بالكامل من جميع الجهات بالطبقة الوسطى، وهو ما يسمى بالتجويف الحقيقي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__31.png"
+    },
+    {
+        "id": "IMTY_32",
+        "question": "ما نوع تجويف المخلوق الحي الموجود في الصورة",
+        "choices": [
+            "عديم التجويف",
+            "تجويف حقيقي",
+            "تجويف كاذب",
+            "تجويف ثنائي"
+        ],
+        "answer": 1,
+        "explanation": "البلاناريا حيوان من الديدان المفلطحة، وجسمه مصمت بدون تجويف جسمي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__32.png"
+    },
+    {
+        "id": "IMTY_33",
+        "question": "ما مرحلة هذا الجنين في التكوين الجنيني؟",
+        "choices": [
+            "الزيجوت",
+            "البويضة",
+            "الجاسترولا",
+            "البلاستيولا"
+        ],
+        "answer": 3,
+        "explanation": "الشكل يوضح كيس الجاسترولا المكون من طبقتين وبينهما تجويف وله فتحة في طرفه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__33.png"
+    },
+    {
+        "id": "IMTY_34",
+        "question": "في أي جزء يوجد السم؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "رقم 2 يشير إلى الخلايا اللاسعة في لوامس الهيدرا، والتي تحتوي على كيس خيطي لاسع يفرز السم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__34.png"
+    },
+    {
+        "id": "IMTY_38",
+        "question": "في الشكل أدناه يشير السهم إلى تراكيب بها خلايا تحتوي على:",
+        "choices": [
+            "كيس خيطي لاسع",
+            "اوعية دموية",
+            "أعضاء إخراجية",
+            "قنوات تنفسية"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى لوامس حيوان الهيدرا، وهي المنطقة المليئة بالخلايا اللاسعة التي تحتوي على أكياس خيطية لاسعة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__38.png"
+    },
+    {
+        "id": "IMTY_39",
+        "question": "في الشكل، يُشير السهم إلى...",
+        "choices": [
+            "الفم",
+            "الشرج",
+            "الفم والشرج",
+            "العين"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__39.png"
+    },
+    {
+        "id": "IMTY_40",
+        "question": "الشكل يمثل يرقة دودة تعيش في المياه العذبة مسببة مرض ...",
+        "choices": [
+            "المالريا",
+            "البلهارسيا",
+            "داء الشعرية",
+            "التريخينيا"
+        ],
+        "answer": 2,
+        "explanation": "هذه يرقة السركاريا التابعة لدودة الشستوسوما (البلهارسيا) التي تخترق جلد الإنسان في المياه العذبة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__40.png"
+    },
+    {
+        "id": "IMTY_41",
+        "question": "أي المخلوقات التالية يمثله الشكل؟",
+        "choices": [
+            "الدوارات",
+            "الديدان اسطوانية",
+            "الديدان شريطية",
+            "الديدان مفلطحة"
+        ],
+        "answer": 1,
+        "explanation": "الشكل يوضح حيوان العجليات (الدوارات)، ويظهر عليه التاج الهدبي المميز في المقدمة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__41.png"
+    },
+    {
+        "id": "IMTY_42",
+        "question": "عضو الإخراج لهذا المخلوق هو:",
+        "choices": [
+            "النفريديا",
+            "أنابيب ملبيجي",
+            "الخلايا اللهبية",
+            "البلعوم"
+        ],
+        "answer": 3,
+        "explanation": "البلاناريا (دودة مفلطحة) تستخدم الخلايا اللهبية كجهاز إخراجي للتخلص من الماء الزائد والفضلات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__42.png"
+    },
+    {
+        "id": "IMTY_43",
+        "question": "بناءً على الجدول يسارك، أي مما يلي يعد صحيحاً:",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الخيار 3 صحيح لأن دودة الإسكارس هي دودة أسطوانية وتعيش كطفيلي داخل جسم العائل.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__43.png"
+    },
+    {
+        "id": "IMTY_44",
+        "question": "أي التالي يمثل العباءة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "في تركيب الرخويات، العباءة (رقم 2) هي غشاء يحيط بالأعضاء الداخلية ويفرز الصدفة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__44.png"
+    },
+    {
+        "id": "IMTY_45",
+        "question": "ما هو اسم العضو المشار إليه باللون الأحمر؟",
+        "choices": [
+            "العباءة",
+            "الصدفة",
+            "الطاحنة",
+            "السيفون"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__45.png"
+    },
+    {
+        "id": "IMTY_46",
+        "question": "إلى أي مجموعة ينتمي هذا الحيوان في الشكل؟",
+        "choices": [
+            "القشريات",
+            "الحشرات",
+            "العناكب",
+            "مجذافية الأرجل"
+        ],
+        "answer": 1,
+        "explanation": "الشكل يوضح حيواناً من القشريات (مثل الجمبري أو السرطان) نظراً لوجود الزوائد المفصلية والكلابات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__46.png"
+    },
+    {
+        "id": "IMTY_47",
+        "question": "أي المخلوقات التالية يُصنف علمياً ضمن طائفة الحشرات؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الخنفساء (رقم 3) تنتمي للحشرات لأن جسمها مقسم لثلاث مناطق (رأس وصدر وبطن) ولها 6 أرجل.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__47.png"
+    },
+    {
+        "id": "IMTY_48",
+        "question": "في الشكل، تكيف فم الحشرة ليقوم بوظيفة..",
+        "choices": [
+            "امتصاص السوائل",
+            "اللعق واللحس",
+            "الاختراق والامتصاص",
+            "التمزيق والقطع"
+        ],
+        "answer": 1,
+        "explanation": "الشكل يظهر خرطوماً طويلاً ملتفاً، وهو تكيف لامتصاص السوائل (مثل الفراش).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__48.png"
+    },
+    {
+        "id": "IMTY_49",
+        "question": "في الشكل، تكيف فم الحشرة ليقوم بوظيفة ...",
+        "choices": [
+            "امتصاص السوائل",
+            "التمزيق والقطع",
+            "الاختراق والامتصاص",
+            "اللعق واللحس"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__49.png"
+    },
+    {
+        "id": "IMTY_50",
+        "question": "الشكل يمثل نحلة، ما نوع جهاز الإخراج فيها؟",
+        "choices": [
+            "النفريديا",
+            "أنابيب ملبيجي",
+            "النفـرون",
+            "الخلايا اللهبية"
+        ],
+        "answer": 2,
+        "explanation": "الحشرات ومنها النحل تستخدم أنابيب ملبيجي للتخلص من الفضلات النيتروجينية والمحافظة على اتزان الماء.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__50.png"
+    },
+    {
+        "id": "IMTY_51",
+        "question": "أي جزء يستخدم للتكاثر والتزاوج في الشكل المجاور؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__51.png"
+    },
+    {
+        "id": "IMTY_52",
+        "question": "يتنفس العقرب بواسطة:",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "لا شيء مما ذكر"
+        ],
+        "answer": 2,
+        "explanation": " ",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__52.png"
+    },
+    {
+        "id": "IMTY_53",
+        "question": "يحصل هذا الكائن الموضح بالشكل على الغذاء بواسطة تركيب رقم:",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الرقم 1 يشير إلى الكلابات الكبيرة التي يستخدمها جراد البحر للإمساك بالفريسة وتقطيعها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__53.png"
+    },
+    {
+        "id": "IMTY_54",
+        "question": "ما هو الجهاز الإخراجي للكائن الموضح في الشكل؟",
+        "choices": [
+            "الكلية",
+            "أنابيب ملبيجي",
+            "النفريديا",
+            "الخلايا اللهبية"
+        ],
+        "answer": 3,
+        "explanation": " ",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__54.png"
+    },
+    {
+        "id": "IMTY_55",
+        "question": "مما يتكون الهيكل الخارجي للحيوان الموضح بالشكل؟",
+        "choices": [
+            "الكايتين",
+            "السليلوز",
+            "الببتيدوجلايكان",
+            "السيليكا"
+        ],
+        "answer": 1,
+        "explanation": " ",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__55.png"
+    },
+    {
+        "id": "IMTY_56",
+        "question": "في الشكل المجاور أي الأجزاء تستخدم في السباحة والتكاثر:",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "الرقم 4 يشير إلى العوامات البطنية في جراد البحر، وتستخدم للسباحة ولحمل البيض في الإناث.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__56.png"
+    },
+    {
+        "id": "IMTY_57",
+        "question": "أي التراكيب تمكن مفصليات اليابسة من المحافظة على اتزان الماء في أجسامها؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "أنابيب ملبيجي (رقم 3) مسؤولة عن التخلص من الفضلات مع إعادة امتصاص الماء للحفاظ على التوازن المائي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__57.png"
+    },
+    {
+        "id": "IMTY_58",
+        "question": "في النحلة أعلاه، أي التراكيب تستعملها للإحساس بالرائحة في بيئاتها؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الرقم 1 يشير إلى قرون الاستشعار، وهي أعضاء حسية تستخدمها الحشرات للشم واللمس.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__57.png"
+    },
+    {
+        "id": "IMTY_59",
+        "question": "أي الآتي صحيح:",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الخيار 1 صحيح لأن نجم البحر ينتمي للنجميات، ويمتلك أذرعاً وأقداماً أنبوبية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__59.png"
+    },
+    {
+        "id": "IMTY_60",
+        "question": "أي مما يلي ليس من شوكيات الجلد؟",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "د"
+        ],
+        "answer": 2,
+        "explanation": "الخيار ب يوضح حيواناً من الرخويات (حلزون البحر أو ما شابه)، بينما البقية هي نجم البحر وقنفذ البحر وخيار البحر.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__60.png"
+    },
+    {
+        "id": "IMTY_61",
+        "question": "في الشكل المقابل، أي التراكيب حل محله عظم أو الغضروف في الفقاريات الحبلية؟",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 2,
+        "explanation": "الحبل الظهري (رقم B) هو التركيب الذي يحل محله العمود الفقري (عظمي أو غضروفي) في الفقاريات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__61.png"
+    },
+    {
+        "id": "IMTY_62",
+        "question": "في الشكل السابق، أي التراكيب تتحول إلى الدماغ وحبل شوكي في الحبليات؟",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 1,
+        "explanation": "الحبل العصبي الظهري الأنبوبي (رقم A) هو الذي ينمو ليكون الدماغ والنخاع الشوكي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__61.png"
+    },
+    {
+        "id": "IMTY_63",
+        "question": "في الشكل، يشير السهم إلى عضو يسمى..",
+        "choices": [
+            "الخط الجانبي",
+            "الكبد",
+            "الخياشيم",
+            "مثانة العوم"
+        ],
+        "answer": 4,
+        "explanation": "السهم يشير إلى مثانة العوم، وهي كيس مملوء بالغاز يساعد الأسماك العظمية في التحكم في عمق الغوص.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__63.png"
+    },
+    {
+        "id": "IMTY_64",
+        "question": "ما الجزء المشار إليه في الشكل؟",
+        "choices": [
+            "جهاز الخط جانبي",
+            "الكبد",
+            "المعدة",
+            "مثانة العوم"
+        ],
+        "answer": 1,
+        "explanation": "الخط الممتد على طول جسم السمكة هو جهاز الخط الجانبي الذي يستشعر الاهتزازات في الماء.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__64.png"
+    },
+    {
+        "id": "IMTY_65",
+        "question": "الجهاز الدوري في الشكل يعود إلى:",
+        "choices": [
+            "البرمائيات",
+            "الزواحف",
+            "الأسماك",
+            "الطيور"
+        ],
+        "answer": 3,
+        "explanation": "تظهر في الشكل دورة دموية مغلقة واحدة، وهي ميزة للأسماك حيث يمر الدم من القلب للخياشيم ثم للجسم ويعود للقلب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__65.png"
+    },
+    {
+        "id": "IMTY_66",
+        "question": "ما هي وظيفة الجزء المشار إليه؟",
+        "choices": [
+            "الخط الجانبي",
+            "العين",
+            "الخياشيم",
+            "التحكم في عمق غوص السمكة"
+        ],
+        "answer": 4,
+        "explanation": "الجزء المشار إليه هو مثانة العوم، ووظيفتها التحكم في مستوى طفو السمكة وعمق غوصها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__66.png"
+    },
+    {
+        "id": "IMTY_67",
+        "question": "في الشكل، يشير السهم إلى مرحلة من مراحل النمو الجيني للفقاريات هي:",
+        "choices": [
+            "العرف العصبي",
+            "الغضروف",
+            "العمود الفقري",
+            "الحبل العصبي"
+        ],
+        "answer": 4,
+        "explanation": "تظهر في الرسم الخلايا التي تنفصل من الطبقة الخارجية أثناء تكوين الحبل العصبي، وهي خلايا العرف العصبي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__67.png"
+    },
+    {
+        "id": "IMTY_68",
+        "question": "في الرسم التالي، أي شكل يوضح طفيلاً خارجياً؟",
+        "choices": [
+            "a",
+            "b",
+            "c",
+            "d"
+        ],
+        "answer": 2,
+        "explanation": "الجلكي (رقم b) هو سمكة لا فكية تتطفل خارجياً على الأسماك الأخرى بامتصاص سوائل أجسامها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__68.png"
+    },
+    {
+        "id": "IMTY_69",
+        "question": "ما هو نوع السمكة؟",
+        "choices": [
+            "فكية",
+            "لا فكية",
+            "فموية",
+            "عظمية"
+        ],
+        "answer": 4,
+        "explanation": "وجود مثانة العوم والغطاء الخيشومي كما يظهر في الرسم التشريحي يؤكد أنها سمكة عظمية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__69.png"
+    },
+    {
+        "id": "IMTY_70",
+        "question": "في الشكل المقابل، يشير السهم إلى مرحلة من مراحل النمو الجنيني للفقاريات هي:",
+        "choices": [
+            "العرف العصبي",
+            "الحبل العصبي",
+            "الغضروف",
+            "العمود الفقري"
+        ],
+        "answer": 1,
+        "explanation": "المنطقة الملونة التي تتكون فوق الحبل العصبي هي العرف العصبي الذي يعطي تراكيب هامة في الفقاريات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__70.png"
+    },
+    {
+        "id": "IMTY_71",
+        "question": "الشكل يوضح تركيب القلب في الحيوانات التي تنتمي إلى:",
+        "choices": [
+            "البرمائيات",
+            "الأسماك الغضروفية",
+            "الطيور",
+            "الأسماك العظمية"
+        ],
+        "answer": 1,
+        "explanation": "القلب المكون من ثلاث حجرات (أذينين وبطين واحد) هو سمة مميزة للبرمائيات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__71.png"
+    },
+    {
+        "id": "IMTY_72",
+        "question": "في الشكل، علامة الاستفهام تمثل خاصية مشتركة بين هذين النوعين، ما هي؟",
+        "choices": [
+            "الخياشيم",
+            "الزعانف المزدوجة",
+            "الفكوك",
+            "الرئات"
+        ],
+        "answer": 1,
+        "explanation": "القرش وأبو ذنيبة (يرقة الضفدع) كلاهما يتنفس بواسطة الخياشيم في بيئته المائية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__72.png"
+    },
+    {
+        "id": "IMTY_73",
+        "question": "ما هو الحيوان الذي تراه في الشكل:",
+        "choices": [
+            "السلمندر",
+            "السيسيليا",
+            "أبو ذنيبة",
+            "العلجوم"
+        ],
+        "answer": 3,
+        "explanation": "هذا هو أبو ذنيبة، وهو الطور اليرقي للضفادع ويتميز بوجود ذيل وخياشيم للسباحة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__73.png"
+    },
+    {
+        "id": "IMTY_74",
+        "question": "أي الأسهم يشير إلى الغشاء الرهلي في الصورة المجاورة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الغشاء الرهلي (رقم 1) هو الغشاء الذي يحيط بالجنين مباشرة ويحتوي على السائل الرهلي لحمايته.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__74.png"
+    },
+    {
+        "id": "IMTY_75",
+        "question": "في الشكل السابق، أي الأسهم يشير إلى كيس الممبار في الصورة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__74.png"
+    },
+    {
+        "id": "IMTY_76",
+        "question": "تم تقسيم الحيوانات الموضحة بالجدول أعلاه بناءً على:",
+        "choices": [
+            "تركيب القلب",
+            "التنفس",
+            "الهيكل الداخلي",
+            "الإخصاب"
+        ],
+        "answer": 1,
+        "explanation": "الجدول يقسمها لبرمائيات (قلب 3 حجرات) وزواحف/ثدييات (قلب 3 أو 4 حجرات)، وهو أساس تصنيفي هام.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__76.png"
+    },
+    {
+        "id": "IMTY_77",
+        "question": "الشكل رأس ثعبان، ما اسم التركيب المُشار إليه؟",
+        "choices": [
+            "القشور",
+            "الحراشف",
+            "الأنف",
+            "عضو جاكوبسون"
+        ],
+        "answer": 4,
+        "explanation": "السهم يشير إلى عضو جاكوبسون في سقف حلق الثعبان، الذي يستخدمه لشم الروائح.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__77.png"
+    },
+    {
+        "id": "IMTY_78",
+        "question": "التركيب المشار إليه بالسهم يتولى تخزين الغذاء اللازم للجنين وهو:",
+        "choices": [
+            "الكيس الرهلي",
+            "غشاء الكوريون",
+            "كيس الممبار",
+            "كيس المح"
+        ],
+        "answer": 4,
+        "explanation": "كيس المح هو التركيب المسؤول عن إمداد الجنين بالغذاء اللازم أثناء نموه داخل البيضة الرهلية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__78.png"
+    },
+    {
+        "id": "IMTY_79",
+        "question": "يستخدم طائر البجع منقاره الكيسي لـ ...",
+        "choices": [
+            "غرف الماء الذي يحوي أسماك",
+            "تمزيق لحم الفريسة",
+            "امتصاص رحيق الأزهار",
+            "طعن الأسماك والبرمائيات"
+        ],
+        "answer": 1,
+        "explanation": "البجع يمتلك منقاراً مزوداً بكيس جلدي كبير يستخدمه كشبكة لغرف الماء والأسماك.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__79.png"
+    },
+    {
+        "id": "IMTY_80",
+        "question": "أي التالي يشير إلى الرئة في الشكل؟",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 1,
+        "explanation": "في الجهاز التنفسي للطيور، الحرف A يشير إلى الرئة، بينما البقية تشير للأكياس الهوائية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__80.png"
+    },
+    {
+        "id": "IMTY_81",
+        "question": "في الشكل أدناه منقار لطائر الطنان يستخدم في:",
+        "choices": [
+            "طعن الأسماك",
+            "امتصاص رحيق الأزهار",
+            "تمزيق لحم الفريسة",
+            "ترشيح الغذاء"
+        ],
+        "answer": 2,
+        "explanation": "المنقار الطويل والرفيع للطائر الطنان متكيف ليدخل في ثنايا الأزهار لامتصاص الرحيق.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__81.png"
+    },
+    {
+        "id": "IMTY_82",
+        "question": "أي مستوى غذائي ينتمي إليه المخلوق في الشكل؟",
+        "choices": [
+            "آكلات أعشاب",
+            "آكلات حشرات",
+            "آكلات لحوم",
+            "الحيوانات القارتة"
+        ],
+        "answer": 1,
+        "explanation": "شكل الجمجمة والأسنان (الأضراس المفلطحة) يشير إلى حيوان آكل أعشاب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__82.png"
+    },
+    {
+        "id": "IMTY_83",
+        "question": "في الشكل، يُصنف المخلوق الحي تحت الثدييات....",
+        "choices": [
+            "الكيسية",
+            "البائضة",
+            "الأولية",
+            "المشيمية"
+        ],
+        "answer": 1,
+        "explanation": "الكنغر حيوان ثديي كيسي، يكمل صغاره نموهم داخل كيس (جراب) في بطن الأم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__83.png"
+    },
+    {
+        "id": "IMTY_84",
+        "question": "أي الأشكال التالية يُعبر عن الجهاز الهضمي للذئب؟",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "د"
+        ],
+        "answer": 3,
+        "explanation": "جهاز الهضم في آكلات اللحوم (ج) يكون قصيراً وبسيطاً مقارنة بآكلات الأعشاب، ولا يحتوي على معي أعور كبير.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__84.png"
+    },
+    {
+        "id": "IMTY_85",
+        "question": "ما نوع الحافر لدى الحيوان التالي ؟",
+        "choices": [
+            "أولي الحافر",
+            "ثنائي الحافر",
+            "مخلب",
+            "قرون"
+        ],
+        "answer": 2,
+        "explanation": "الغزال من ذوات الحوافر الزوجية (ثنائية الحوافر).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__85.png"
+    },
+    {
+        "id": "IMTY_86",
+        "question": "أي مستوى غذائي تنتمي إليه جمجمة هذا المخلوق الثديي؟",
+        "choices": [
+            "آكل الاعشاب",
+            "آكل اللحوم",
+            "قارض",
+            "آكل الحشرات"
+        ],
+        "answer": 2,
+        "explanation": "وجود الأنياب الطويلة والحادة يشير بوضوح إلى أن الحيوان آكل لحوم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__86.png"
+    },
+    {
+        "id": "IMTY_87",
+        "question": "في ماذا تتشابه الحيوانات في الشكل المقابل ؟",
+        "choices": [
+            "ثابتة درجة الحرارة، طريقة التكاثر",
+            "شعر، المشيمة",
+            "ثابتة درجة الحرارة، غشاء رهلي",
+            "ثابتة درجة الحرارة، فترة الحمل"
+        ],
+        "answer": 3,
+        "explanation": "جميع هذه الحيوانات (الثدييات والطيور والزواحف) هي حيوانات رهلية وثابتة درجة الحرارة (باستثناء الزواحف، ولكن الخيار ج يجمع صفات صحيحة للثدييات والطيور).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__87.png"
+    },
+    {
+        "id": "IMTY_88",
+        "question": "إلى أي مخلوق تنتمي إليه هذه الجمجمة؟",
+        "choices": [
+            "الإنسان",
+            "الفيل",
+            "الأرنب",
+            "الأسد"
+        ],
+        "answer": 4,
+        "explanation": "هذه الجمجمة بأنيابها البارزة وتصميمها مخصصة للافتراس، وهي تنتمي للأسد.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__88.png"
+    },
+    {
+        "id": "IMTY_89",
+        "question": "ينتمي هذا الجهاز الهضمي إلى حيوان:",
+        "choices": [
+            "آكل الحشرات",
+            "آكل الأعشاب (غير مجتر)",
+            "آكل العشاب (مجتر)",
+            "آكل اللحوم"
+        ],
+        "answer": 1,
+        "explanation": "هذا الجهاز الهضمي القصير جداً والسميط يميز آكلات الحشرات التي يكون هضمها سريعاً وسهلاً.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__89.png"
+    },
+    {
+        "id": "IMTY_90",
+        "question": "ينتمي هذا الجهاز الهضمي إلى حيوان:",
+        "choices": [
+            "آكل الحشرات",
+            "آكل الأعشاب (مجتر)",
+            "آكل اللحوم",
+            "آكل الأعشاب (غير مجتر)"
+        ],
+        "answer": 3,
+        "explanation": "وجود معدة بسيطة ومعي أعور ضخم وطويل يميز آكلات الأعشاب غير المجترة مثل الأرانب والخيول.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__90.png"
+    },
+    {
+        "id": "IMTY_91",
+        "question": "ينتمي هذا الجهاز الهضمي إلى حيوان :",
+        "choices": [
+            "آكل الحشرات",
+            "آكل الأعشاب (مجتر)",
+            "آكل اللحوم",
+            "آكل الأعشاب (غير مجتر)"
+        ],
+        "answer": 4,
+        "explanation": "هذا الشكل يوضح معدة مكونة من أربع حجرات، وهو تركيب خاص بالحيوانات المجترة كالأبقار والأغنام.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__91.png"
+    },
+    {
+        "id": "IMTY_92",
+        "question": "أي الكلمات التالية لا تصف النبات في الصورة؟",
+        "choices": [
+            "لا وعائي",
+            "لا بذري",
+            "تنتقل المواد بالانتشار",
+            "ثالوس"
+        ],
+        "answer": 4,
+        "explanation": "هذا النبات وعائي، لذا لا تنطبق عليه صفة 'ثالوس' التي تخص النباتات اللاوعائية البسيطة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__92.png"
+    },
+    {
+        "id": "IMTY_93",
+        "question": "في أي أقسام النباتات البذرية تتوقع وجود التركيب الموضح؟",
+        "choices": [
+            "النباتات الزهرية",
+            "النباتات المخروطية",
+            "السيكادات",
+            "الجنكية"
+        ],
+        "answer": 2,
+        "explanation": "التركيب هو مخروط نباتي، وهو المميز للنباتات المخروطية مثل الصنوبر.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__93.png"
+    },
+    {
+        "id": "IMTY_94",
+        "question": "أي المصطلحات التالية تناسب ملء الفراغ في الشكل ؟",
+        "choices": [
+            "لا وعائية",
+            "زهرية",
+            "وعائية",
+            "منتجة للبذور"
+        ],
+        "answer": 1,
+        "explanation": "الحزازيات القائمة وحشيشة الكبد تنتمي لمجموعة النباتات اللاوعائية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__94.png"
+    },
+    {
+        "id": "IMTY_95",
+        "question": "ما الذي تبينه الصورة؟",
+        "choices": [
+            "سيادة القمة النامية",
+            "التقزم",
+            "سقوط الأوراق",
+            "استجابة حركة"
+        ],
+        "answer": 1,
+        "explanation": "الصورة تظهر نمواً طولياً للقمة يمنع نمو البراعم الجانبية، وهو ما يعرف بسيادة القمة النامية بفعل الأوكسين.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__95.png"
+    },
+    {
+        "id": "IMTY_96",
+        "question": "أي الأشكال التالية يعبر عن انحناء أرضي سالب؟",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 3,
+        "explanation": "الشكل C يظهر نمو الساق لأعلى بعيداً عن الجاذبية الأرضية، وهو انتحاء أرضي سالب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__96.png"
+    },
+    {
+        "id": "IMTY_97",
+        "question": "المسؤول عن انتحاء النبتة في الشكل المجاور؟",
+        "choices": [
+            "الإيثيلين",
+            "الجبريلين",
+            "الأكسين",
+            "السايتوكاينينات"
+        ],
+        "answer": 3,
+        "explanation": "الأوكسين هو الهرمون المسؤول عن استطالة الخلايا في الجانب المظلم مما يسبب انتحاء النبات نحو الضوء.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__97.png"
+    },
+    {
+        "id": "IMTY_98",
+        "question": "الانتحاء في الصورة امامك يكون بسبب:",
+        "choices": [
+            "الحرارة",
+            "الإضاءة",
+            "الجاذبية",
+            "الرطوبة"
+        ],
+        "answer": 2,
+        "explanation": "ميلان النبات نحو النافذة هو انتحاء ضوئي استجابة لمصدر الإضاءة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__98.png"
+    },
+    {
+        "id": "IMTY_99",
+        "question": "ما نوع الاستجابة في الشكل المجاور...",
+        "choices": [
+            "استجابة حركة",
+            "استجابة نمو",
+            "انتحاء سالب",
+            "استجابة للرطوبة"
+        ],
+        "answer": 2,
+        "explanation": "انحناء الساق نحو مصدر الضوء هو نوع من استجابة النمو ويسمى انتحاءً ضوئياً.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__99.png"
+    },
+    {
+        "id": "IMTY_100",
+        "question": "في الشكل، الانتحاء من النوع..",
+        "choices": [
+            "الضوئي",
+            "الأرضي",
+            "اللمسي",
+            "الأفقي"
+        ],
+        "answer": 3,
+        "explanation": "التفاف النبات حول الدعامة عند ملامستها هو انتحاء لمسي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__100.png"
+    },
+    {
+        "id": "IMTY_101",
+        "question": "العضو المشار إليه في الشكل المجاور هو:",
+        "choices": [
+            "الميسم",
+            "السبلة",
+            "السدأة",
+            "الكربلة"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى الميسم، وهو الجزء العلوي اللزج من الكربلة الذي تستقر عليه حبوب اللقاح.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__101.png"
+    },
+    {
+        "id": "IMTY_102",
+        "question": "الزهرة المجاورة تعتبر:",
+        "choices": [
+            "أحادية الجنس ناقصة",
+            "أحادية الجنس كاملة",
+            "ثنائية الجنس ناقصة",
+            "ثنائية الجنس كاملة"
+        ],
+        "answer": 4,
+        "explanation": "الزهرة تحتوي على جميع الأجزاء (كأس وتويج وأسدية وكربلة)، فهي كاملة وثنائية الجنس.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__102.png"
+    },
+    {
+        "id": "IMTY_103",
+        "question": "أين يتم تكوين حبوب اللقاح؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "الرقم 2 يشير إلى المتك، وهو جزء السدأة الذي يتم فيه إنتاج حبوب اللقاح.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__103.png"
+    },
+    {
+        "id": "IMTY_104",
+        "question": "في الرسم التالي يوضح تركيب الزهرة ما اسم العضو الذي يحدث في الإخصاب؟",
+        "choices": [
+            "الميسم",
+            "المبيض",
+            "السدأة",
+            "القلم"
+        ],
+        "answer": 2,
+        "explanation": "الإخصاب يحدث داخل المبيض (رقم 2) حيث تندمج النواة الذكرية مع البويضة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__104.png"
+    },
+    {
+        "id": "IMTY_105",
+        "question": "في الشكل، تصنف الزهرة على أنها..",
+        "choices": [
+            "كاملة",
+            "ناقصة",
+            "وحيدة الجنس ناقصة",
+            "ثنائية الجنس"
+        ],
+        "answer": 3,
+        "explanation": "الرسم يظهر فقط الأجزاء الأنثوية (الكربلة) بدون الأسدية، لذا هي ناقصة وأحادية الجنس.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__105.png"
+    },
+    {
+        "id": "IMTY_106",
+        "question": "في الزهرة المجاورة أي أجزاء الزهرة يمثل البتلة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الرقم 1 يشير إلى البتلة، وهي الجزء الملون والجذاب من الزهرة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__106.png"
+    },
+    {
+        "id": "IMTY_107",
+        "question": "في الزهرة السابقة، أي أجزاء الزهرة يمثل السدأة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الرقم 3 يشير إلى السدأة (العضو الذكري) المكونة من الخيط والمتك.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__106.png"
+    },
+    {
+        "id": "IMTY_108",
+        "question": "في الشكل، أي أجزاء الزهرة تكون الثمرة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "المبيض (رقم 1) هو الجزء الذي ينضج ويتحول إلى ثمرة بعد عملية التلقيح والإخصاب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__108.png"
+    },
+    {
+        "id": "IMTY_109",
+        "question": "ما المسؤول عن ميلان النبات؟",
+        "choices": [
+            "استجابة للمثيرات",
+            "انتحاء أرضي",
+            "بحث عن الطاقة",
+            "غير ذلك"
+        ],
+        "answer": 1,
+        "explanation": "ميلان النبات هو استجابة لمثير خارجي وهو الضوء، ويسمى انتحاءً ضوئياً.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__109.png"
+    },
+    {
+        "id": "IMTY_110",
+        "question": "ما نوع الزهرة المقابلة؟",
+        "choices": [
+            "أحادية الجنس مذكرة",
+            "أحادية الجنس أنثى",
+            "ثنائية الجنس كاملة",
+            "ثنائية الجنس غير كاملة"
+        ],
+        "answer": 1,
+        "explanation": "الرسم يظهر وجود الأسدية (أعضاء التذكير) فقط، فهي زهرة مذكرة أحادية الجنس.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__110.png"
+    },
+    {
+        "id": "IMTY_111",
+        "question": "أي الأجزاء يشير إلى السبلات؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الرقم 3 يشير إلى السبلة، وهي الجزء الأخضر الذي يحمي برعم الزهرة قبل تفتحه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__111.png"
+    },
+    {
+        "id": "IMTY_112",
+        "question": "تعتبر هذه الزهرة من:",
+        "choices": [
+            "ذوات الفلقتين",
+            "ذوات الفلقة",
+            "معراة البذور",
+            "مغطاة البذور"
+        ],
+        "answer": 1,
+        "explanation": "الزهرة لها أجزاء زهرية بعدد مضاعفات 4 أو 5، وهي ميزة للنباتات ذوات الفلقتين.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__112.png"
+    },
+    {
+        "id": "IMTY_113",
+        "question": "الانتحاء في الصورة، يكون سببه:",
+        "choices": [
+            "الحرارة",
+            "الضوء",
+            "الجاذبية",
+            "الرطوبة"
+        ],
+        "answer": 2,
+        "explanation": "ميلان النبات نحو فتحة الصندوق هو استجابة للضوء القادم منها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__113.png"
+    },
+    {
+        "id": "IMTY_114",
+        "question": "أين تتم عملية التلقيح؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "التلقيح هو وصول حبة اللقاح إلى الميسم (رقم 1).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__114.png"
+    },
+    {
+        "id": "IMTY_115",
+        "question": "في الشكل، يشير السهم إلى العظم....",
+        "choices": [
+            "الترقوة",
+            "القص",
+            "الكتف",
+            "الأضالع"
+        ],
+        "answer": 2,
+        "explanation": "السهم يشير إلى عظمة القص الموجودة في منتصف الصدر وتتصل بها الأضلاع.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__115.png"
+    },
+    {
+        "id": "IMTY_116",
+        "question": "في الشكل، يشير السهم إلى العظم ؟",
+        "choices": [
+            "العظم الإسفنجي",
+            "العظم الكثيف",
+            "الغضروف",
+            "تجويف النخاع"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى النسيج العظمي في نهايات العظام الطويلة، وهو العظم الإسفنجي الذي يحتوي على مسامات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__116.png"
+    },
+    {
+        "id": "IMTY_117",
+        "question": "أي الآتي يمثل السمحاق:",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 3,
+        "explanation": "السمحاق هو الغلاف الخارجي المحيط بالعظم، ويشار إليه بالحرف C في الرسم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__117.png"
+    },
+    {
+        "id": "IMTY_118",
+        "question": "ما اسم الجزء المشار إليه بالأحمر في الشكل المجاور؟",
+        "choices": [
+            "الاضلاع",
+            "الترقوة",
+            "عظمة القص",
+            "جمجمة"
+        ],
+        "answer": 1,
+        "explanation": "الأجزاء الحمراء في القفص الصدري هي الأضلاع التي تحمي الرئتين والقلب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__118.png"
+    },
+    {
+        "id": "IMTY_119",
+        "question": "ما نوع المفصل في الشكل المجاور؟",
+        "choices": [
+            "كروي",
+            "مداري",
+            "رزي",
+            "منزلق"
+        ],
+        "answer": 1,
+        "explanation": "مفصل الحوض هو مفصل كروي (حقي) يسمح بالحركة في جميع الاتجاهات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__119.png"
+    },
+    {
+        "id": "IMTY_120",
+        "question": "ما هو الجزء المشار إليه في الشكل المجاور؟",
+        "choices": [
+            "العظم الكثيف",
+            "الأربطة",
+            "الأوتار",
+            "العظم الإسفنجي"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى الطبقة الخارجية الصلبة والقوية من العظم، وهي العظم الكثيف.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__120.png"
+    },
+    {
+        "id": "IMTY_121",
+        "question": "ما اسم الجزء المشار إليه في الشكل المجاور؟",
+        "choices": [
+            "السمحاق",
+            "العظم الإسفنجي",
+            "العظم الكثيف",
+            "الغضروف"
+        ],
+        "answer": 4,
+        "explanation": "السهم يشير إلى النسيج المرن والأبيض عند نهاية العظم، وهو الغضروف الذي يسهل الحركة ويمنع الاحتكاك.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__121.png"
+    },
+    {
+        "id": "IMTY_122",
+        "question": "ما خصائص الجزء المشار إليه بالسهم في الصورة؟",
+        "choices": [
+            "يعد النوع الوحيد من النسيج العظمي في العظام الطويلة",
+            "لا يحوي خلايا",
+            "يحوي نخاعاً عظمياً",
+            "يتكون من أنظمة العظم المتداخلة"
+        ],
+        "answer": 3,
+        "explanation": "الجزء هو تجويف العظم، وهو يحتوي على النخاع العظمي (الأصفر أو الأحمر).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__122.png"
+    },
+    {
+        "id": "IMTY_123",
+        "question": "نوع المفصل في الشكل المجاور؟",
+        "choices": [
+            "كروي",
+            "رزي",
+            "مداري",
+            "درزي"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__123.png"
+    },
+    {
+        "id": "IMTY_124",
+        "question": "في الشكل المقابل، أين يوجد هذا النوع من المفصل في جسم الإنسان؟",
+        "choices": [
+            "الأكتاف والأرداف",
+            "أصابع اليدين والقدمين",
+            "المرفق والركبة",
+            "الرسغ والكاحل"
+        ],
+        "answer": 1,
+        "explanation": "مفصل الورك (الموضح في الصورة) هو مفصل كروي يوجد أيضاً في الأكتاف.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__124.png"
+    },
+    {
+        "id": "IMTY_125",
+        "question": "أي مما يأتي يتضمن نوع المفصل في الصورة المقابلة؟",
+        "choices": [
+            "الورك",
+            "الفقرات",
+            "الجمجمة",
+            "المرفق"
+        ],
+        "answer": 4,
+        "explanation": "المفصل الرزي الموضح في الصورة يوجد في المرفق والركبة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__125.png"
+    },
+    {
+        "id": "IMTY_126",
+        "question": "تعد هذه الخلية مثالاً على ...",
+        "choices": [
+            "خلية عضلية ملساء",
+            "خلية قلبية",
+            "خلية هيكلية",
+            "خلية دهنية"
+        ],
+        "answer": 1,
+        "explanation": "تظهر الخلية بشكل مغزلي وبنواة واحدة وغير مخططة، وهي خصائص العضلات الملساء.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__126.png"
+    },
+    {
+        "id": "IMTY_127",
+        "question": "ما نوع العضلات التي يعتمد عليها الشخص في أداء التمارين الرياضية؟",
+        "choices": [
+            "لا إرادية",
+            "هيكلية",
+            "قلبية",
+            "ملساء"
+        ],
+        "answer": 2,
+        "explanation": "التمارين الرياضية تتطلب حركة العظام المرتبطة بالعضلات الهيكلية الإرادية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__127.png"
+    },
+    {
+        "id": "IMTY_128",
+        "question": "أي التالي سبب حركة اليد؟",
+        "choices": [
+            "العظام",
+            "الأوتار",
+            "الأربطة",
+            "العضلات"
+        ],
+        "answer": 4,
+        "explanation": "العضلات هي المحرك الأساسي؛ فعند انقباضها تنشد الأوتار وتسحب العظام، مما يسبب الحركة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__128.png"
+    },
+    {
+        "id": "IMTY_129",
+        "question": "ما اسم الجزء المشار إليه في الشكل المجاور؟",
+        "choices": [
+            "المحور",
+            "نهايات المحور",
+            "التفرعات",
+            "النواة"
+        ],
+        "answer": 2,
+        "explanation": "السهم يشير إلى نهايات المحور العصبي التي تنقل الإشارات إلى خلايا أخرى.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__129.png"
+    },
+    {
+        "id": "IMTY_130",
+        "question": "ما اسم الجزء المشار إليه في الشكل المجاور؟",
+        "choices": [
+            "عقد",
+            "محور",
+            "نواة",
+            "زوائد"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى العقد الموجودة على غمد الميالين، والمعروفة بعقد رانفييه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__130.png"
+    },
+    {
+        "id": "IMTY_131",
+        "question": "ما اسم الجزء المشار إليه في الشكل المجاور؟",
+        "choices": [
+            "الزوائد",
+            "النواة",
+            "التفرعات الأولية",
+            "المحور"
+        ],
+        "answer": 4,
+        "explanation": "الجزء الطويل الممتد من جسم الخلية العصبية هو المحور.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__131.png"
+    },
+    {
+        "id": "IMTY_132",
+        "question": "أي الأجزاء في الشكل مُغلف بالميالين؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الرقم 3 يشير إلى المحور المغطى بالغمد المياليني الدهني الذي يزيد سرعة السيال العصبي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__132.png"
+    },
+    {
+        "id": "IMTY_133",
+        "question": "ماذا يحدث قد عندما تتعرض لضربة في المنطقة المشار إليها؟",
+        "choices": [
+            "عدم النطق",
+            "ارتفاع الحرارة",
+            "فقدان الذاكرة",
+            "فقدان التوازن"
+        ],
+        "answer": 4,
+        "explanation": "السهم يشير للمخيخ، والمسؤول عن تنسيق الحركة والاتزان، لذا إصابته تؤدي لفقدان التوازن.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__133.png"
+    },
+    {
+        "id": "IMTY_134",
+        "question": "في الشكل دماغ إنسان، السهم يشير إلى؟",
+        "choices": [
+            "المخيخ",
+            "المخ",
+            "القنطرة",
+            "النخاع المستطيل"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى المنطقة الخلفية تحت المخ وهي المخيخ.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__134.png"
+    },
+    {
+        "id": "IMTY_135",
+        "question": "في الشكل، أي الأجزاء ينظم حرارة الجسم؟",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 2,
+        "explanation": "تحت المهاد (رقم B) هي المسؤولة عن تنظيم درجة حرارة الجسم والعطش والجوع.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__135.png"
+    },
+    {
+        "id": "IMTY_136",
+        "question": "في الجدول المقابل ما العلاقة بين حجم الجسم ووزن الدماغ؟",
+        "choices": [
+            "المحافظة على الإتزان الداخلي",
+            "التفكير والتعلم",
+            "تنظيم سرعة التنفس",
+            "تنظيم درجة الحرارة"
+        ],
+        "answer": 2,
+        "explanation": "يرتبط حجم الدماغ (وخاصة المخ) في الثدييات بالقدرة على القيام بعمليات معقدة كالتفكير والتعلم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__136.png"
+    },
+    {
+        "id": "IMTY_137",
+        "question": "أي أجزاء القلب في الشكل يدخل إليه الدم المؤكسج؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الأذين الأيسر (رقم 1) هو الذي يستقبل الدم المؤكسج القادم من الرئتين عبر الأوردة الرئوية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__137.png"
+    },
+    {
+        "id": "IMTY_138",
+        "question": "الشكل يوضح الصمامات في القلب، أي الأرقام التالية يشير إلى الصمام الرئوي؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الصمام الرئوي (رقم 1) يقع عند مخرج البطين الأيمن باتجاه الشريان الرئوي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__138.png"
+    },
+    {
+        "id": "IMTY_139",
+        "question": "في الشكل، يشير السهم إلى...",
+        "choices": [
+            "الشرايين",
+            "الأوردة",
+            "الشعيرات الدموية",
+            "الصمام"
+        ],
+        "answer": 3,
+        "explanation": "السهم يشير إلى الأوعية الدقيقة التي تربط بين الشرايين والأوردة وهي الشعيرات الدموية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__139.png"
+    },
+    {
+        "id": "IMTY_140",
+        "question": "في الشكل، ما هي وظيفة الجزء المشار إليه بالسهم؟",
+        "choices": [
+            "منع الدم من الرجوع بالاتجاه المعاكس",
+            "يتحمل ضغط الدم القادم من القلب",
+            "يقوم بفلترة الدم من الجراثيم",
+            "يزيد من سماكة الأوردة"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير لصمام داخل الوريد، ووظيفته منع رجوع الدم وضمان تدفقه في اتجاه واحد نحو القلب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__140.png"
+    },
+    {
+        "id": "IMTY_141",
+        "question": "الشكل يمثل فصيلة دم شخص مُعطي، وعليه يجب أن تكون فصيلة دم الشخص المستقبل...",
+        "choices": [
+            "A",
+            "B",
+            "O",
+            "AB"
+        ],
+        "answer": 4,
+        "explanation": "فصيلة AB هي 'المستقبل العام'، يمكنها استقبال الدم من جميع الفصائل الأخرى.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__141.png"
+    },
+    {
+        "id": "IMTY_142",
+        "question": "في الشكل فصيلة دم من نوع...",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 2,
+        "explanation": "وجود مولدات ضد B فقط على سطح الخلية يعني أنها فصيلة B.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__142.png"
+    },
+    {
+        "id": "IMTY_143",
+        "question": "في الشكل تشير الأسهم (1-5) إلى عمليات نقل الدم من فصيلة إلى أخرى، السهم الذي يمثل انتقال الدم بطريقة خاطئة ...",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "5"
+        ],
+        "answer": 4,
+        "explanation": "لا يمكن نقل الدم من AB إلى أي فصيلة أخرى (باستثناء AB نفسها) لأن AB تعطي فقط لنفسها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__143.png"
+    },
+    {
+        "id": "IMTY_144",
+        "question": "من خلال الصورة الآتية ما الجزء الذي ينقل المواد الغذائية لأطراف الجسم؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "الشريان الأبهر (رقم 2) هو المسؤول عن توزيع الدم المؤكسج والمواد الغذائية من القلب إلى جميع أنحاء الجسم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__144.png"
+    },
+    {
+        "id": "IMTY_145",
+        "question": "أي رقم يمثل البطين الأيمن؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "البطين الأيمن (رقم 4) هو الحجرة السفلية في الجانب الأيمن من القلب التي تضخ الدم للرئتين.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__145.png"
+    },
+    {
+        "id": "IMTY_146",
+        "question": "في الجدول المقابل، أي منها يؤدي إلى حدوث مشكلة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "في الحالة 4، لا يمكن لفصيلة A أن تعطي دم لفصيلة O، لأن O تستقبل فقط من O.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__146.png"
+    },
+    {
+        "id": "IMTY_147",
+        "question": "في الشكل المجاور: أي الأرقام يشير إلى الجزء في الوحدة الكلوية الذي يقوم بترشيح الماء والمواد الذائبة ومنها الفضلات الإخراجية؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الكببة (رقم 1) داخل محفظة بومان هي المكان الذي تتم فيه عملية الترشيح الأساسية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__147.png"
+    },
+    {
+        "id": "IMTY_148",
+        "question": "في الشكل التالي، تتم عملية الشهيق والزفير عند انقباض أو انبساط التركيب رقم:",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "عضلة الحجاب الحاجز (رقم 4) هي العضلة الأساسية التي تتحكم في آلية الشهيق والزفير.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__148.png"
+    },
+    {
+        "id": "IMTY_149",
+        "question": "في الشكل التالي، أي الأرقام الآتية يشير إلى الحويصالت الهوائية في رئة الإنسان؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الرقم 3 يشير إلى الأكياس المجهرية (الحويصلات) التي يتم فيها تبادل الأكسجين وثاني أكسيد الكربون.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__149.png"
+    },
+    {
+        "id": "IMTY_150",
+        "question": "في الشكل التالي، يشير السهم إلى:",
+        "choices": [
+            "الحالب",
+            "النفرون",
+            "حوض الكلية",
+            "المثانة"
+        ],
+        "answer": 4,
+        "explanation": "السهم يشير إلى المثانة البولية التي يتم فيها تجميع البول قبل إخراجه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__150.png"
+    },
+    {
+        "id": "IMTY_151",
+        "question": "في الشكل، أي المواقع التالية يحدث فيه تبادل الغازات؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "تبادل الغازات يتم حصرياً داخل الحويصلات الهوائية (رقم 3) المحاطة بالشعيرات الدموية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__151.png"
+    },
+    {
+        "id": "IMTY_152",
+        "question": "في الشكل المجاور، ماذا يطلق على العضو 2؟",
+        "choices": [
+            "الكلى",
+            "الحالب",
+            "الإحليل",
+            "المثانة"
+        ],
+        "answer": 2,
+        "explanation": "العضو رقم 2 هو الحالب، وهو الأنبوب الذي ينقل البول من الكلية إلى المثانة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__152.png"
+    },
+    {
+        "id": "IMTY_153",
+        "question": "في الشكل، أي الأجزاء يتم فيه عملية إعادة امتصاص الماء والمواد المفيدة الأخرى؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "الأنابيب الملتوية (رقم 2) في النفرون هي المسؤولة عن إعادة امتصاص العناصر الهامة والماء.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__153.png"
+    },
+    {
+        "id": "IMTY_154",
+        "question": "في الشكل، أين يتم تخزين البول؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "يتم تخزين البول في المثانة (رقم 3) حتى تمتلئ ويتم إفراغها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__154.png"
+    },
+    {
+        "id": "IMTY_155",
+        "question": "ما هي العملية الموضحة في الشكل يسارك؟",
+        "choices": [
+            "الزفير",
+            "التنفس الخلوي",
+            "الترشيح",
+            "الشهيق"
+        ],
+        "answer": 4,
+        "explanation": "الرسم يظهر انقباض الحجاب الحاجز ونزوله لأسفل مع توسع القفص الصدري، وهي عملية الشهيق.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__155.png"
+    },
+    {
+        "id": "IMTY_156",
+        "question": "أي أجزاء الجهاز التنفسي يحتوي أهداب لترشيح الدقائق الموجودة في الهواء؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "الممرات التنفسية العلوية (رقم 1) مبطنة بأهداب ومخاط لتنقية الهواء وترطيبه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__156.png"
+    },
+    {
+        "id": "IMTY_157",
+        "question": "في الشكل، أي المناطق الهضمية يتم فيه امتصاص المواد المغذية؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__157.png"
+    },
+    {
+        "id": "IMTY_158",
+        "question": "من الجدول، أي المواقع التالية يمثل الأمعاء الدقيقة في جسم الإنسان؟",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 4,
+        "explanation": "الرقم الهيدروجيني (pH) في الأمعاء الدقيقة يكون قاعدياً (حوالي 7 أو 8) ليناسب عمل الإنزيمات هناك.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__158.png"
+    },
+    {
+        "id": "IMTY_159",
+        "question": "في الجدول أدناه، أي الخيارات التالية صحيح؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "في المعدة (رقم 3)، يتم الهضم ميكانيكياً وكيميائياً بواسطة إنزيم الببسين الذي يهضم البروتينات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__159.png"
+    },
+    {
+        "id": "IMTY_160",
+        "question": "في الشكل التالي، أهم ما يميز العضو المشار إليه:",
+        "choices": [
+            "أن وسطه قاعدي",
+            "ان وسطه حمضي",
+            "أنه يهضم الدهون",
+            "أنه يهضم النشا"
+        ],
+        "answer": 2,
+        "explanation": "العضو هو المعدة، وتتميز بوسطها الشديد الحموضة (pH من 1 إلى 2) بفضل حمض الهيدروكلوريك.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__160.png"
+    },
+    {
+        "id": "IMTY_161",
+        "question": "ما المشترك بين الفيتامينات والاملاح المعدنية الآتية؟",
+        "choices": [
+            "عمليات الأيض",
+            "صحة العظام والأسنان",
+            "تكوين خلايا الدم الحمراء",
+            "انقباض العضلات"
+        ],
+        "answer": 2,
+        "explanation": "الكالسيوم (ملح) وفيتامين د (فيتامين) يشتركان بشكل أساسي في المحافظة على قوة وصحة العظام والأسنان.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__161.png"
+    },
+    {
+        "id": "IMTY_162",
+        "question": "في المخلوق الحي المقابل، تخزن السكريات الأحادية الزائدة على هيئة:",
+        "choices": [
+            "جلايكوجين",
+            "سكروز",
+            "نشا",
+            "جلوكوز"
+        ],
+        "answer": 1,
+        "explanation": "الحيوانات تخزن الجلوكوز الزائد في الكبد والعضلات على صورة جلايكوجين.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__162.png"
+    },
+    {
+        "id": "IMTY_163",
+        "question": "ما الذي تمثله المنطقة المشتركة في الشكل؟",
+        "choices": [
+            "صحة العظام والأسنان",
+            "صحة الجدار الخلوي لخلايا الدم الحمراء",
+            "بناء البروتين",
+            "تكوين ألياف الكوالجين"
+        ],
+        "answer": 1,
+        "explanation": "الفوسفور والكالسيوم وفيتامين د يتقاطعون جميعاً في دورهم الحيوي لبناء العظام والأسنان.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__163.png"
+    },
+    {
+        "id": "IMTY_164",
+        "question": "في الشكل، ما العلاقة المحددة؟",
+        "choices": [
+            "التغذية الراجعة السلبية",
+            "التغذية الراجعة الإيجابية",
+            "التغذية الراجعة المزدوجة",
+            "التغذية الراجعة الأحادية"
+        ],
+        "answer": 1,
+        "explanation": "المخطط يظهر أن انخفاض تركيز مادة ما يحفز الجسم على إفراز هرمون لزيادتها، وهو مثال على التغذية الراجعة السلبية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__164.png"
+    },
+    {
+        "id": "IMTY_165",
+        "question": "الشكل يمثل مستوى ضغط الدم لشخص ما، أي الهرمونات التالية أدى إلى الإرتفاع المفاجئ المشار إليه بسهم في الشكل؟",
+        "choices": [
+            "الأدرينالين",
+            "الأنسولين",
+            "الجلوكاجون",
+            "الألدوستيرون"
+        ],
+        "answer": 1,
+        "explanation": "الأدرينالين يفرز في حالات الطوارئ والتوتر ويؤدي لارتفاع مفاجئ وسريع في ضغط الدم وضربات القلب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__165.png"
+    },
+    {
+        "id": "IMTY_166",
+        "question": "في الرسم المقابل، أي مما يلي يعد حلقة وصل بين الجهاز العصبي والجهاز الهرموني؟",
+        "choices": [
+            "(A) المخ",
+            "(B) تحت المهاد",
+            "(C) النخاع المستطيل",
+            "(D) المخيخ"
+        ],
+        "answer": 2,
+        "explanation": "تحت المهاد (B) هي المنطقة التي تربط الجهاز العصبي بجهاز الغدد الصماء عبر سيطرتها على الغدة النخامية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__166.png"
+    },
+    {
+        "id": "IMTY_167",
+        "question": "في الشكل حيوان منوي، يُشير السهم إلى..",
+        "choices": [
+            "الرأس",
+            "القطعة الوسطى",
+            "الذيل",
+            "النواة"
+        ],
+        "answer": 2,
+        "explanation": "السهم يشير للقطعة الوسطى التي تحتوي على الميتوكوندريا لتزويد الحيوان المنوي بالطاقة اللازمة لحركته.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__167.png"
+    },
+    {
+        "id": "IMTY_168",
+        "question": "في الشكل، أي الأرقام يُشير إلى المبيض؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "الرقم 2 يشير إلى المبيض في الجهاز التناسلي الأنثوي، وهو المسؤول عن إنتاج البويضات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__168.png"
+    },
+    {
+        "id": "IMTY_169",
+        "question": "في الشكل المجاور، ماذا يحدث داخل التركيب C؟",
+        "choices": [
+            "تخزين الحيوانات المنوية ونضجها",
+            "إنتاج الخلايا المنوية",
+            "إفراز السكر",
+            "إنتاج الهرمون المنشط للحوصلة"
+        ],
+        "answer": 2,
+        "explanation": "التركيب C يشير للخصية، حيث تتم عملية إنتاج الخلايا المنوية (الحيوانات المنوية).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__169.png"
+    },
+    {
+        "id": "IMTY_170",
+        "question": "في الشكل السابق، وظيفة الجزء A هي:",
+        "choices": [
+            "تخزين الحيوانات المنوية ونضجها",
+            "إنتاج الخلايا المنوية",
+            "إفراز السكر",
+            "إنتاج الهرمون المنشط للحوصلة"
+        ],
+        "answer": 1,
+        "explanation": "الجزء A هو البربخ، وفيه يتم تخزين الحيوانات المنوية حتى تكتمل عملية نضجها.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__169.png"
+    },
+    {
+        "id": "IMTY_171",
+        "question": "في الحيوان المنوي المقابل، أي الأجزاء تزوده بالطاقة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "القطعة الوسطى (رقم 3) غنية بالميتوكوندريا التي تنتج الطاقة الحركية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__171.png"
+    },
+    {
+        "id": "IMTY_172",
+        "question": "أين يحدث الإخصاب؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "عملية الإخصاب تتم عادة في قناة فالوب (رقم 1) قبل وصول البويضة المخصبة للرحم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__172.png"
+    },
+    {
+        "id": "IMTY_173",
+        "question": "في الشكل السابق، أين ينمو الجنين حتى ولادته؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "الرحم (رقم 4) هو المكان المهيأ لالتصاق البويضة المخصبة ونمو الجنين طوال فترة الحمل.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__172.png"
+    },
+    {
+        "id": "IMTY_174",
+        "question": "الرسم البياني في الشكل يمثل معدل الإصابة بتشوهات الحبل الشوكي لدى الأجنة، علمًا بأنه تم في السنوات الأخيرة الاهتمام بتناول المرأة الحامل لحمض الفوليك، من الرسم البياني يمكن استنتاج...",
+        "choices": [
+            "انخفاض معدل الإصابة نتيجة انخفاض زواج الأقارب",
+            "انخفاض معدل الإصابة بزيادة استهلاك حمض الفوليك",
+            "انخفاض معدل الإصابة نتيجة الوعي بخطورة العقاقير",
+            "ارتفاع معدل الإصابة بزيادة استهلاك حمض الفوليك"
+        ],
+        "answer": 2,
+        "explanation": "المنحنى يظهر انخفاضاً مستمراً في الإصابة عبر السنوات تزامناً مع برامج توعية الحوامل بتناول حمض الفوليك.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__174.png"
+    },
+    {
+        "id": "IMTY_175",
+        "question": "يمثل الشكل التالي التركيب الأساسي للجسم المضاد. فأي أجزاء هذا الشكل يتوافق مع موقع ارتباط مولد الضد؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 4,
+        "explanation": "الأطراف المتغيرة للجسم المضاد (رقم 4) هي المواقع التي ترتبط بشكل مخصص مع مولدات الضد الخاصة بالميكروبات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__175.png"
+    },
+    {
+        "id": "IMTY_176",
+        "question": "في الشكل السابق، يعد الجزءان 2 و 3 ضروريين لتكوين الاجسام المضادة لانهما:",
+        "choices": [
+            "يسمحان بتكون عدد هائل من الأجسام المضادة المحتملة.",
+            "يتكونان بوساطة الخلايا التائية في الجهاز المناعي.",
+            "يساعدان على تقليل عدد الأجسام المضادة المتكونة.",
+            "يساعدان على تحفيز الاستجابة الالتهابية."
+        ],
+        "answer": 1,
+        "explanation": "السلاسل الخفيفة والثقيلة والتنوع في ترتيبها يسمح للجهاز المناعي بإنتاج ملايين الأنواع من الأجسام المضادة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__175.png"
+    },
+    {
+        "id": "IMTY_177",
+        "question": "ما نوع الاستجابة في الشكل؟",
+        "choices": [
+            "جينية",
+            "متخصصة",
+            "غير متخصصة",
+            "هرمونية"
+        ],
+        "answer": 2,
+        "explanation": "تفاعل الخلية التائية المساعدة مع مولد الضد المعالج هو جزء من المناعة المتخصصة (التكيفية).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__177.png"
+    },
+    {
+        "id": "IMTY_178",
+        "question": "الشكل يمثل خلية لأحد المخلوقات الحية، أي ممالك المخلوقات الحية لا يتبع له؟",
+        "choices": [
+            "الطالئعيات",
+            "البدائيات",
+            "الفطريات",
+            "النباتات"
+        ],
+        "answer": 2,
+        "explanation": "الخلية في الرسم هي حقيقية النوى (لوجود نواة واضحة)، بينما البدائيات خلاياها بدائية النوى ولا تملك نواة محاطة بغشاء.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__178.png"
+    },
+    {
+        "id": "IMTY_179",
+        "question": "أي التراكيب التالية تمثل بعلامة X",
+        "choices": [
+            "الغشاء البلازمي",
+            "جدار الخلية",
+            "الاهداب",
+            "الفجوات"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__179.png"
+    },
+    {
+        "id": "IMTY_180",
+        "question": "في الشكل المقابل، ما نوع هذه الخلية؟",
+        "choices": [
+            "نباتية",
+            "حيوانية",
+            "بكتيريا",
+            "فطرية"
+        ],
+        "answer": 2,
+        "explanation": "الخلية تفتقر للجدار الخلوي ولها مريكزات وشكل غير منتظم، وهي خصائص الخلية الحيوانية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__180.png"
+    },
+    {
+        "id": "IMTY_181",
+        "question": "ما نوع الخلية التي تحتوي على العضية المجاورة؟",
+        "choices": [
+            "حيوانية",
+            "نباتية",
+            "بدائية",
+            "جميع ما سبق"
+        ],
+        "answer": 2,
+        "explanation": "هذه العضية هي البلاستيدة الخضراء المسؤولة عن البناء الضوئي، وتوجد فقط في الخلايا النباتية وبعض الطحالب.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__181.png"
+    },
+    {
+        "id": "IMTY_182",
+        "question": "ما العضية رقم 6 المشار اليها بالشكل؟",
+        "choices": [
+            "النوية",
+            "الفجوة",
+            "الميتوكندريا",
+            "جهاز جولجي"
+        ],
+        "answer": 4,
+        "explanation": "رقم 6 يشير إلى جهاز جولجي، وهو عبارة عن طيات غشائية مسؤولة عن تعديل وتغليف البروتينات.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__182.png"
+    },
+    {
+        "id": "IMTY_183",
+        "question": "ما الترتيب الأفضل للدهون المفسفرة الذي يمثل طبقة الدهون المفسفرة المزدوجة في الغشاء البلازمي ؟",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "د"
+        ],
+        "answer": 1,
+        "explanation": "تترتب الدهون المفسفرة بحيث تتواجه الرؤوس المحبة للماء للخارج والداخل، وتتقابل الذيول الكارهة للماء في المنتصف (الخيار أ).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__183.png"
+    },
+    {
+        "id": "IMTY_184",
+        "question": "أي الأرقام يمثل الموقع الذي تتوقع فيه وجود مواد غير ذائبة في الماء؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "المنطقة الداخلية للغشاء (رقم 2) تتكون من ذيول الأحماض الدهنية الكارهة للماء وغير الذائبة فيه.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__184.png"
+    },
+    {
+        "id": "IMTY_185",
+        "question": "ما الذي يمثله الشكل السابق؟",
+        "choices": [
+            "بلاستيدة خضراء",
+            "جهاز جولجي",
+            "ميتوكندريا",
+            "غشاء بلازمي"
+        ],
+        "answer": 4,
+        "explanation": "هذا الرسم يوضح النموذج الفسيفسائي السائل المكون للغشاء البلازمي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__184.png"
+    },
+    {
+        "id": "IMTY_186",
+        "question": "الخلية في الشكل المجاور لا تستطيع القيام بـ ..",
+        "choices": [
+            "البناء الضوئي",
+            "انتاج البروتينات",
+            "انتاج الطاقة",
+            "الانقسام"
+        ],
+        "answer": 1,
+        "explanation": "الخلية الموضحة حيوانية (تفتقر للبلاستيدات)، لذا لا يمكنها القيام بعملية البناء الضوئي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__186.png"
+    },
+    {
+        "id": "IMTY_187",
+        "question": "ما نوع الخلية التي تظهر في الصورة ؟",
+        "choices": [
+            "بدائية النوى",
+            "حقيقة النوى",
+            "حيوانية",
+            "نباتية"
+        ],
+        "answer": 1,
+        "explanation": "الصورة تظهر خلية بكتيرية ذات تركيب بسيط بدون نواة محددة، فهي خلية بدائية النوى.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__187.png"
+    },
+    {
+        "id": "IMTY_188",
+        "question": "ما العضي الموضح في الشكل المقابل؟",
+        "choices": [
+            "الميتوكندريا",
+            "الأصوات",
+            "المريكزات (سنتريولات)",
+            "الاهداب"
+        ],
+        "answer": 3,
+        "explanation": "هذه الأنابيب الدقيقة المرتبة في أزواج هي المريكزات التي تلعب دوراً هاماً في انقسام الخلية الحيوانية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__188.png"
+    },
+    {
+        "id": "IMTY_189",
+        "question": "في الشكل المقابل، ما نوع هذه الخلية؟",
+        "choices": [
+            "حيوانية",
+            "نباتية",
+            "بكتيريا",
+            "فطرية"
+        ],
+        "answer": 2,
+        "explanation": "الخلية لها جدار خلوي سميك وبلاستيدات خضراء وفجوة مركزية كبيرة، فهي خلية نباتية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__189.png"
+    },
+    {
+        "id": "IMTY_190",
+        "question": "أي الجزيئات الكبيرة لها تركيب يشبه الشكل المقابل؟",
+        "choices": [
+            "الكربوهيدرات",
+            "الدهون",
+            "النيوكليوتيد",
+            "البروتين"
+        ],
+        "answer": 4,
+        "explanation": "الرسم يمثل السلسلة الببتيدية الملتوية التي تشكل البنية الثلاثية للبروتين.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__190.png"
+    },
+    {
+        "id": "IMTY_191",
+        "question": "أي المجموعتين في جزيء ATP في الشكل يجب أن تتكسر الرابطة بينهم حتى تتحرر الطاقة التي يستخدمها المخلوق الحي؟",
+        "choices": [
+            "1 و 2",
+            "2 و 3",
+            "3 و 4",
+            "1 و 4"
+        ],
+        "answer": 2,
+        "explanation": "الطاقة تنطلق عند تكسير الرابطة بين مجموعة الفوسفات الثانية والثالثة (رقم 2 و 3).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__191.png"
+    },
+    {
+        "id": "IMTY_192",
+        "question": "الشكل يمثل..",
+        "choices": [
+            "ATP",
+            "ADP",
+            "AMP",
+            "NADPH"
+        ],
+        "answer": 1,
+        "explanation": "الرسم يظهر جزيء الأدينوزين مرتبطاً بثلاث مجموعات فوسفات، وهو جزيء ATP.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__192.png"
+    },
+    {
+        "id": "IMTY_193",
+        "question": "الشكل يوضح عملية البناء الضوئي، والجزء المشار اليه بالرقم 1 يمثل ..",
+        "choices": [
+            "الماء",
+            "مركبات عضوية",
+            "الأكسجين",
+            "ثاني أكسيد الكربون"
+        ],
+        "answer": 4,
+        "explanation": "الرقم 1 يشير للمادة الداخلة للنبات من الهواء الجوي وهي غاز ثاني أكسيد الكربون اللازم لعملية البناء الضوئي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__193.png"
+    },
+    {
+        "id": "IMTY_194",
+        "question": "في الشكل المقابل، أي مما يأتي في هذه السلسلة الغذائية يوفر الطاقة لجزء واحد أخر فقط؟",
+        "choices": [
+            "ذاتية التغذي الكيميائية",
+            "ذاتية التغذي الضوئية",
+            "غير ذاتية التغذي",
+            "الشمس"
+        ],
+        "answer": 2,
+        "explanation": "المنتجات (ذاتية التغذي الضوئية) كالنباتات توفر الطاقة للمستهلك الذي يأكلها مباشرة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__194.png"
+    },
+    {
+        "id": "IMTY_195",
+        "question": "أين تحدث المرحلة الأولى من البناء الضوئي؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "المرحلة الأولى (التفاعلات الضوئية) تحدث في أغشية الثايلاكويد (رقم 2) داخل البلاستيدة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__195.png"
+    },
+    {
+        "id": "IMTY_196",
+        "question": "في الشكل السابق، رقم 4 يمثل؟",
+        "choices": [
+            "الثايلاكويد",
+            "الحشوة",
+            "الغشاء الداخلي",
+            "الغرانا"
+        ],
+        "answer": 4,
+        "explanation": "الرقم 4 يشير لمجموعات أقراص الثايلاكويد المرتبة فوق بعضها، وتسمى الغرانا.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__195.png"
+    },
+    {
+        "id": "IMTY_197",
+        "question": "خلال الرسم، ما الطول الموجي الذي تمتص عنده أصباغ الكاروتينات أعلى نسبة من الضوء؟",
+        "choices": [
+            "500",
+            "600",
+            "700",
+            "400"
+        ],
+        "answer": 1,
+        "explanation": "وفقاً للمنحنى البياني، تظهر الكاروتينات ذروة امتصاص عالية حول الطول الموجي 500 نانومتر.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__197.png"
+    },
+    {
+        "id": "IMTY_198",
+        "question": "حسب الرسم عدد جزيئات ATP الداخلة والناتجة على التوالي (من الأعلى للأسفل)",
+        "choices": [
+            "1 ← 2",
+            "4 ← 6",
+            "2 ← 4",
+            "4 ← 4"
+        ],
+        "answer": 3,
+        "explanation": "في عملية التحلل السكري، يتم استهلاك 2 ATP في البداية وينتج 4 ATP في النهاية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__198.png"
+    },
+    {
+        "id": "IMTY_199",
+        "question": "ما العضية التي يوضحها الشكل المجاور؟",
+        "choices": [
+            "جهاز جولجي",
+            "الميتوكوندريا",
+            "الشبكة الاندوبلازمية",
+            "النواة"
+        ],
+        "answer": 2,
+        "explanation": "الشكل يمثل الميتوكوندريا، ويظهر بوضوح الغشاء المزدوج والأعراف الداخلية التي يتم فيها التنفس الخلوي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__199.png"
+    },
+    {
+        "id": "IMTY_200",
+        "question": "أذكر مكان حدوث هذا النوع من التخمر؟",
+        "choices": [
+            "الطيور",
+            "الفطريات",
+            "الحيوانات",
+            "النبات"
+        ],
+        "answer": 2,
+        "explanation": "التخمر الكحولي الموضح في الرسم (إنتاج الإيثانول و CO2) يحدث في الخميرة (فطريات) وبعض أنواع البكتيريا.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__200.png"
+    },
+    {
+        "id": "IMTY_201",
+        "question": "يشير الرسم الى الانقسام المتساوي، حدد الطور",
+        "choices": [
+            "التمهيدي",
+            "الاستوائي",
+            "الانفصالي",
+            "النهائي"
+        ],
+        "answer": 2,
+        "explanation": "تصطف الكروموسومات في منتصف الخلية (خط الاستواء)، وهو ما يميز الطور الاستوائي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__201.png"
+    },
+    {
+        "id": "IMTY_202",
+        "question": "أي الخلايا التالية تعاني عند التخلص من فضلاتها؟",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "د"
+        ],
+        "answer": 4,
+        "explanation": "الخلية الكبيرة جداً (رقم د) تعاني في نقل المواد والتخلص من الفضلات لأن نسبة مساحة سطحها إلى حجمها تصبح صغيرة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__202.png"
+    },
+    {
+        "id": "IMTY_203",
+        "question": "أي الخلايا التالية تقوم بالتخلص من فضالتها بشكل أسرع؟",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "د"
+        ],
+        "answer": 1,
+        "explanation": "الخلايا الصغيرة (رقم أ) هي الأكفأ في التبادل الخلوي لارتفاع نسبة مساحة السطح مقارنة بالحجم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__203.png"
+    },
+    {
+        "id": "IMTY_204",
+        "question": "ما المرحلة التي حدثت في المنطقة A؟",
+        "choices": [
+            "الطور التمهيدي",
+            "مرحلة S",
+            "مرحلة G1",
+            "مرحلة G2"
+        ],
+        "answer": 2,
+        "explanation": "المنطقة A تظهر تضاعف كمية DNA من 4 إلى 8، وهذا يحدث في مرحلة بناء DNA (المرحلة S).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__204.png"
+    },
+    {
+        "id": "IMTY_205",
+        "question": "في الشكل السابق، ما العملية التي حدثت في المنطقة B؟",
+        "choices": [
+            "الطور البيني",
+            "الانقسام المتساوي",
+            "انقسام السيتوبلازم",
+            "الأيض"
+        ],
+        "answer": 3,
+        "explanation": "المنطقة B تظهر عودة كمية DNA للمستوى الأصلي لكل خلية، مما يعني اكتمال الانقسام وانفصال السيتوبلازم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__204.png"
+    },
+    {
+        "id": "IMTY_206",
+        "question": "ما نسبة مساحة السطح إلى الحجم في الصورة؟",
+        "choices": [
+            "2:1",
+            "4:1",
+            "3:1",
+            "6:1"
+        ],
+        "answer": 3,
+        "explanation": "للمكعب الذي طول ضلعه 2 سم: المساحة = 24، الحجم = 8، النسبة = 24:8 وهي تساوي 3:1.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__206.png"
+    },
+    {
+        "id": "IMTY_207",
+        "question": "أي مراحل الانقسام المتساوي تظهر في الشكل؟",
+        "choices": [
+            "الطور الانفصالي",
+            "الطور الاستوائي",
+            "الطور البيني",
+            "الطور النهائي"
+        ],
+        "answer": 1,
+        "explanation": "تظهر الكروماتيدات الشقيقة وهي تنفصل وتنسحب نحو قطبي الخلية، مما يميز الطور الانفصالي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__207.png"
+    },
+    {
+        "id": "IMTY_208",
+        "question": "في الشكل السابق، ما التركيب الذي يشير إليه السهم؟",
+        "choices": [
+            "السنترومير",
+            "النوية",
+            "الكروموسوم",
+            "الخيوط المغزلية"
+        ],
+        "answer": 4,
+        "explanation": "السهم يشير للخيوط البروتينية التي تسحب الكروموسومات وتسمى الخيوط المغزلية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__207.png"
+    },
+    {
+        "id": "IMTY_209",
+        "question": "أي أطوار الانقسام المنصف يظهر في الشكل؟",
+        "choices": [
+            "التمهيدي الأول",
+            "التمهيدي الثاني",
+            "الاستوائي الأول",
+            "الاستوائي الثاني"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__209.png"
+    },
+    {
+        "id": "IMTY_210",
+        "question": "في الشكل المقابل، ما اسم التركيب الذي يشير إليه السهم؟",
+        "choices": [
+            "DNA",
+            "RNA",
+            "كروماتيد",
+            "سنترومير"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__210.png"
+    },
+    {
+        "id": "IMTY_211",
+        "question": "الشكل المقابل، ما اسم التركيب الذي يشير إليه السهم ؟",
+        "choices": [
+            "كروماتيدات شقيقة",
+            "كروماتيدات غير شقيقة",
+            "نيوكليدات",
+            "كروماتيدات غير متماثلة"
+        ],
+        "answer": 1,
+        "explanation": "الكروماتيدات المتصلة بنفس السنترومير تسمى كروماتيدات شقيقة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__211.png"
+    },
+    {
+        "id": "IMTY_212",
+        "question": "بناءً على الشكل المجاور، أين يحدث العبور الجيني؟",
+        "choices": [
+            "A-D",
+            "B-C",
+            "B-A",
+            "D-G"
+        ],
+        "answer": 4,
+        "explanation": "العبور الجيني يحدث بين الكروماتيدات غير الشقيقة للكروموسومات المتماثلة في المواقع المتقاربة (مثل D و G).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__212.png"
+    },
+    {
+        "id": "IMTY_213",
+        "question": "أي مراحل الانقسام المنصف ممثلة في الشكل؟",
+        "choices": [
+            "الانفصالي الأول",
+            "الانفصالي الثاني",
+            "الاستوائي الأول",
+            "الاستوائي الثاني"
+        ],
+        "answer": 1,
+        "explanation": "تنفصل الكروموسومات المتماثلة (كل كروموسوم مكون من كروماتيدين) وتتحرك نحو الأقطاب، مما يحدد الطور الانفصالي الأول.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__213.png"
+    },
+    {
+        "id": "IMTY_214",
+        "question": "أي أطوار الانقسام المنصف يظهر في الشكل؟",
+        "choices": [
+            "التمهيدي",
+            "الاستوائي الأول",
+            "الانفصالي الثاني",
+            "النهائي الأول"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__214.png"
+    },
+    {
+        "id": "IMTY_215",
+        "question": "أي أطوار الانقسام المنصف يظهر في الشكل؟",
+        "choices": [
+            "الاستوائي الأول",
+            "الاستوائي الثاني",
+            "الانفصالي الأول",
+            "الانفصالي الثاني"
+        ],
+        "answer": 1,
+        "explanation": "اصطفاف أزواج الكروموسومات المتماثلة عند خط استواء الخلية هو الطور الاستوائي الأول.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__215.png"
+    },
+    {
+        "id": "IMTY_216",
+        "question": "في الشكل، اللون الأصفر Y هو السائد، والبذور المستديرة R هي السائدة، فما الطراز الشكلي المناسب وضعه في الفراغ؟",
+        "choices": [
+            "أخضر مستدير",
+            "أخضر مجعد",
+            "أصفر مستدير",
+            "أصفر مجعد"
+        ],
+        "answer": 2,
+        "explanation": "الخانة المشار إليها هي تقاطع yr مع yr، مما ينتج yyrr وهو أخضر اللون ومجعد الشكل.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__216.png"
+    },
+    {
+        "id": "IMTY_217",
+        "question": "في الجدول ، أي العبارات صحيحة عن الجيل الأول عند تلقيح نبات أحمر طويل RT مع نبات أبيض قصير rt؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "الجيل الأول الناتج من تزاوج سلالات نقية متضادة (RRTT × rrtt) سيكون هجيناً في الصفتين (RrTt)، وهو ما يمثله الخيار رقم 3.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__217.png"
+    },
+    {
+        "id": "IMTY_218",
+        "question": "في مخطط السلالة التالي، أي الآتي يمثل أم مصابة ولديها ابن غير مصاب؟",
+        "choices": [
+            "I1",
+            "II5",
+            "II6",
+            "I2"
+        ],
+        "answer": 4,
+        "explanation": "بالنظر للمخطط، نجد أن الأنثى في الجيل الأول (I2) مصابة (مظللة) ولديها أبناء ذكور غير مصابين (مربعات فارغة).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__218.png"
+    },
+    {
+        "id": "IMTY_219",
+        "question": "حسب مخطط السلالة السابق، يمثل I1:",
+        "choices": [
+            "ذكر غير مصاب",
+            "أنثى مصابة",
+            "أنثى حاملة للمرض",
+            "ذكر حامل للمرض"
+        ],
+        "answer": 1,
+        "explanation": "المربع غير المظلل يرمز للذكر غير المصاب في الجيل الأول.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__218.png"
+    },
+    {
+        "id": "IMTY_220",
+        "question": "في الشكل المقابل، هذا الشخص:",
+        "choices": [
+            "أنثى طبيعية تقريبًا",
+            "تيرنر",
+            "ذكر طبيعي تقريبًا",
+            "كلايفنتر"
+        ],
+        "answer": 1,
+        "explanation": "المخطط يظهر وجود ثلاثة كروموسومات جنسية X، وهي حالة 'أنثى ثلاثية الكروموسوم X' وتعتبر طبيعية تقريباً.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__220.png"
+    },
+    {
+        "id": "IMTY_221",
+        "question": "في الشكل المقابل، ماذا يمثل؟",
+        "choices": [
+            "ذكر طبيعي",
+            "ذكر داون",
+            "حالة وفاة",
+            "أنثى طبيعية"
+        ],
+        "answer": 3,
+        "explanation": "وجود كروموسوم Y بمفرده بدون وجود كروموسوم X هو حالة غير قابلة للحياة وتؤدي للوفاة الجنينية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__221.png"
+    },
+    {
+        "id": "IMTY_222",
+        "question": "عدد الذكور والاناث المصابين وفقاً للمخطط التالي :",
+        "choices": [
+            "1 أنثى، 1 ذكر",
+            "2 أنثى، 2 ذكر",
+            "4 أنثى، 4 ذكر",
+            "3 أنثى، 3 ذكر"
+        ],
+        "answer": 1,
+        "explanation": "في الجيل الثاني نلاحظ وجود مربع واحد مظلل (ذكر مصاب) ودائرة واحدة مظللة (أنثى مصابة).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__222.png"
+    },
+    {
+        "id": "IMTY_223",
+        "question": "أي مخططات السلالة الآتية صحيحة؟",
+        "choices": [
+            "أ",
+            "ب",
+            "ج",
+            "د"
+        ],
+        "answer": 3,
+        "explanation": "المخطط ج يمثل توارثاً منطقياً لصفة متنحية حيث يكون الأبوان حاملين للمرض ويظهر في بعض الأبناء.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__223.png"
+    },
+    {
+        "id": "IMTY_224",
+        "question": "في المخطط المجاور، أي أفراد السلالة ليس حامل للمرض وله ابن مصاب؟",
+        "choices": [
+            "I1",
+            "II3",
+            "II4",
+            "III1"
+        ],
+        "answer": 2,
+        "explanation": "بالتتبع، نجد أن الفرد II3 هو الذي نقل المرض للأجيال التالية دون أن يظهر عليه أو يكون حاملاً وفقاً للترميز الخاص ببعض الأمراض المرتبطة بالجنس.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__224.png"
+    },
+    {
+        "id": "IMTY_225",
+        "question": "تظهر أعراض المرض الذي يبينه مخطط السلالة المجاور على الفرد ....",
+        "choices": [
+            "I1",
+            "II1",
+            "II2",
+            "III2"
+        ],
+        "answer": 2,
+        "explanation": "الفرد المظلل بالكامل (II1) هو الذي تظهر عليه الأعراض المرضية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__225.png"
+    },
+    {
+        "id": "IMTY_226",
+        "question": "في المخطط التالي، أي مما يلي صحيح عن الجيل الثاني؟",
+        "choices": [
+            "نسبة الحاملين تساوي نسبة غير الحاملين",
+            "نسبة الحاملين أكبر من نسبة غير الحاملين",
+            "جميع الأبناء مصابين",
+            "أحد الأبناء مصاب"
+        ],
+        "answer": 1,
+        "explanation": "في الجيل الثاني، نجد طفلين حاملين للمرض (نصف مظللين) وطفلين غير حاملين، لذا النسبة متساوية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__226.png"
+    },
+    {
+        "id": "IMTY_227",
+        "question": "ما الطراز الجيني المحتمل للأرنب في الشكل المجاور؟",
+        "choices": [
+            "c^ch C",
+            "ch ch",
+            "CC",
+            "cc"
+        ],
+        "answer": 4,
+        "explanation": "الأرنب أبيض اللون بالكامل (أمهق) يمثل الطراز الجيني المتنحي cc.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__227.png"
+    },
+    {
+        "id": "IMTY_228",
+        "question": "ما الاختلال الذي يظهر في الصورة التالية؟",
+        "choices": [
+            "متالزمة تيرنر",
+            "متالزمة داون",
+            "متالزمة كليفنتر",
+            "لا يوجد اختلال"
+        ],
+        "answer": 2,
+        "explanation": "يظهر المخطط الكروموسومي وجود ثلاثة كروموسومات في الزوج رقم 21، وهي حالة متلازمة داون.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__228.png"
+    },
+    {
+        "id": "IMTY_229",
+        "question": "تتحكم السيادة غير التامة في لون جذور الفجل، حيث يبين الشكل الطراز الشكلي لكل لون، ما نسب الطرز الشكلية التي تتوقعها عند تزاوج نباتات فجل غير متماثلة الجينات؟",
+        "choices": [
+            "2 أحمر، 2 أبيض",
+            "1 أحمر، 1 وردي، 1 أبيض",
+            "1 أحمر، 2 وردي، 1 أبيض",
+            "3 أحمر، 1 أبيض"
+        ],
+        "answer": 3,
+        "explanation": "عند تزاوج فردين هجينين في السيادة غير التامة، تكون النسبة دائماً 1 (صفة أولى) : 2 (صفة وسطية) : 1 (صفة ثانية).",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__229.png"
+    },
+    {
+        "id": "IMTY_230",
+        "question": "تجمع الحشرة المبينة في الصورة حبوب اللقاح والرحيق من أجل الغذاء،ولكنها في نفس الوقت تساعد على تكاثر النبات. ماذا توضح هذه العلاقة؟",
+        "choices": [
+            "تنافس",
+            "تقايض",
+            "افتراس",
+            "تعايش"
+        ],
+        "answer": 2,
+        "explanation": "علاقة التقايض هي تبادل منفعة بين مخلوقين، حيث تحصل النحلة على الغذاء ويستفيد النبات من التلقيح.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__230.png"
+    },
+    {
+        "id": "IMTY_231",
+        "question": "الشكل المجاور يمثل مجتمع حيوي، أي مما يلي يمكن إزالته لتصبح جماعة حيوية؟",
+        "choices": [
+            "البقرة أو الخروف",
+            "الماء",
+            "الأعشاب",
+            "الشمس"
+        ],
+        "answer": 1,
+        "explanation": "الجماعة الحيوية تتكون من نوع واحد فقط، لذا إزالة الأنواع الأخرى (مثل البقرة أو الخروف) يترك نوعاً واحداً ليشكل جماعة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__231.png"
+    },
+    {
+        "id": "IMTY_232",
+        "question": "يمثل الشكل المقابل التنظيم، السهم يشير الى مستوى ..",
+        "choices": [
+            "المجتمع الحيوي",
+            "الجماعة الحيوية",
+            "النظام البيئي",
+            "المناطق الحيوية"
+        ],
+        "answer": 1,
+        "explanation": "السهم يشير إلى مجموعة من الجماعات الحيوية المختلفة التي تعيش في نفس المكان، وهو ما يسمى بالمجتمع الحيوي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__232.png"
+    },
+    {
+        "id": "IMTY_233",
+        "question": "الشكل يمثل هرم بيئي..",
+        "choices": [
+            "للطاقة",
+            "الكتلة الحيوية",
+            "عددي",
+            "غذائي"
+        ],
+        "answer": 2,
+        "explanation": "الهرم الذي يوضح كمية المواد العضوية (الجرامات لكل متر مربع) في كل مستوى هو هرم الكتلة الحيوية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__233.png"
+    },
+    {
+        "id": "IMTY_234",
+        "question": "في الشكل المقابل أي مستويات الهرم البيئي تكون طاقته أقل؟",
+        "choices": [
+            "نباتات",
+            "أرنب",
+            "أسد",
+            "ذئاب"
+        ],
+        "answer": 3,
+        "explanation": "الطاقة تقل كلما ارتفعنا في الهرم الغذائي، لذا المستهلك النهائي (الأسد) يملك أقل كمية طاقة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__234.png"
+    },
+    {
+        "id": "IMTY_235",
+        "question": "يمثل الشكل المقابل جماعة حيوية، أي المخلوقات الحية التالية يضاف إليها ليشكل مجتمعاً حيويًا من المستهلكات الأولية",
+        "choices": [
+            "أبقار",
+            "أفاعي",
+            "صقور",
+            "ذئاب"
+        ],
+        "answer": 1,
+        "explanation": "المجتمع الحيوي يتكون من أنواع مختلفة؛ والأبقار مستهلكات أولية (آكلة أعشاب) يكتمل بها المجتمع في هذه البيئة.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__235.png"
+    },
+    {
+        "id": "IMTY_236",
+        "question": "أي مخلوق في الرسم التالي ذاتي التغذي؟",
+        "choices": [
+            "الضفدع",
+            "الثعلب",
+            "الأعشاب",
+            "الجراد"
+        ],
+        "answer": 3,
+        "explanation": "الأعشاب (النباتات) هي الوحيدة في الرسم القادرة على صنع غذائها بنفسها عبر البناء الضوئي.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__236.png"
+    },
+    {
+        "id": "IMTY_237",
+        "question": "ما نوع المخلوق الحي غير ذاتي التغذية الذي يصف هذه الأفعى وصفاً مناسباً؟",
+        "choices": [
+            "أكل اعشاب",
+            "أكل لحوم",
+            "قارت",
+            "كانس"
+        ],
+        "answer": 2,
+        "explanation": "الأفعى تتغذى على الحيوانات الأخرى فقط، لذا هي حيوان آكل لحوم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__237.png"
+    },
+    {
+        "id": "IMTY_238",
+        "question": "يمثل المخطط المجاور :",
+        "choices": [
+            "سلسلة غذائية",
+            "شبكة غذائية",
+            "كتلة حيوية",
+            "هرم غذائي"
+        ],
+        "answer": 2,
+        "explanation": "المخطط يظهر تداخل عدة سلاسل غذائية مع بعضها، وهو ما يسمى بالشبكة الغذائية.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__238.png"
+    },
+    {
+        "id": "IMTY_239",
+        "question": "من الشكل التالي، التسلسل الغذائي الصحيح يمثل الرقم:",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "التسلسل 3 صحيح: نبات (منتج) ← جراد (آكل أعشاب) ← ضفدع (آكل لحوم) ← ثعبان.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__239.png"
+    },
+    {
+        "id": "IMTY_240",
+        "question": "في الشكل المقابل أي التالي يقع ضمن مستوى المستهلكات الثانوية؟",
+        "choices": [
+            "الفأر",
+            "الأسد",
+            "الثعبان",
+            "النسر"
+        ],
+        "answer": 3,
+        "explanation": "الثعبان يتغذى على الفأر (المستهلك الأول)، مما يجعله مستهلكاً ثانوياً.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__240.png"
+    },
+    {
+        "id": "IMTY_241",
+        "question": "في السلسلة الغذائية النموذجية يستخدم كل مخلوق حي جزءاً من الطاقة التي يحصل عليها من المخلوق الذي تتغذى عليه، أي الأرقام التالية يمثل هذه السلسلة؟",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "السلسلة 2 تمثل انتقالاً منطقياً: منتج ← آكل أعشاب ← آكل لحوم.",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__241.png"
+    },
+    {
+        "id": "IMTY_242",
+        "question": "ما نوع الهرم البيئي في الشكل المجاور؟",
+        "choices": [
+            "غذائي",
+            "أعداد",
+            "طاقة",
+            "كتلة حيوية"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__242.png"
+    },
+    {
+        "id": "IMTY_243",
+        "question": "في الشكل المجاور هرم غذائي افتراضي، استنتج ما قد يحدث",
+        "choices": [
+            "تموت المخلوقات الحية",
+            "تقل المستهلكات الأولية",
+            "لا تتأثر المستهلكات الأولية",
+            "تزداد المنتجات الأولية"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "source": "تجميع أسئلة الصور والجداول",
+        "subject": "أحياء",
+        "lesson": "تجميع أسئلة الصور والجداول",
+        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__243.png"
     }
+
 ]
