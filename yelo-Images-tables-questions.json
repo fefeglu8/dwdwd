@@ -464,22 +464,6 @@
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__36.png"
     },
     {
-        "id": "IMTY_1",
-        "question": "يوضح الشكل التالي تأثير التركيزات الملحية على إنبات البذور في فترة زمنية معينة، فإن المتغير التابع في هذه التجربة هو:",
-        "choices": [
-            "التركيز الملحي",
-            "الفترة الزمنية",
-            "نوع البذرة",
-            "إنبات البذور"
-        ],
-        "answer": 4,
-        "explanation": "المتغير التابع هو العامل الذي تتم مراقبته لقياس مدى تأثره بالمتغير المستقل، وهنا هو نسبة الإنبات.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__1.png"
-    },
-    {
         "id": "IMTY_2",
         "question": "ما خاصية الحياة التي تشكل عنواناً مناسباً لهذا المنحنى",
         "choices": [
@@ -496,86 +480,6 @@
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__2.png"
     },
     {
-        "id": "IMTY_3",
-        "question": "ما هو المتغير المستقل في الصورة؟",
-        "choices": [
-            "نوعية التربة",
-            "كمية الماء",
-            "نمو النبات",
-            "كمية الضوء الساقط"
-        ],
-        "answer": 2,
-        "explanation": "المتغير المستقل هو العامل الذي نقوم بتغييره عمداً في التجربة لاختبار تأثيره، وهنا يظهر التحكم في كمية الماء المضافة للنباتات.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__3.png"
-    },
-    {
-        "id": "IMTY_4",
-        "question": "معلم يشرح لطلابه خصائص المخلوقات الحية، ما هي الخاصية التي يمثلها الشكل التالي؟",
-        "choices": [
-            "إظهار التنظيم",
-            "الاتزان الداخلي",
-            "التكيف",
-            "التكاثر"
-        ],
-        "answer": 1,
-        "explanation": "الشكل يظهر ترتيباً منظماً من الأجهزة والأعضاء (القلب، الكلية، المعدة)، مما يشير إلى خاصية التعضي أو إظهار التنظيم.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__4.png"
-    },
-    {
-        "id": "IMTY_5",
-        "question": "في الجدول أعلاه، عند أي مستوى انفصل القط عن الثعلب؟",
-        "choices": [
-            "الفصيلة",
-            "النوع",
-            "الرتبة",
-            "الجنس"
-        ],
-        "answer": 1,
-        "explanation": "وفقاً للجدول، ينتمي القط للفصيلة القطية بينما ينتمي الثعلب للفصيلة الكلبية، وهما يشتركان في الرتبة (أكلة لحوم) وينفصلان عند مستوى الفصيلة.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__5.png"
-    },
-    {
-        "id": "IMTY_6",
-        "question": "في الجدول أعلاه، أي الحيوانات التالية أبعد عن بقية المجموعة تصنيفاً؟",
-        "choices": [
-            "الذئب",
-            "القط المنزلي",
-            "الثعلب",
-            "الحوت الأزرق"
-        ],
-        "answer": 4,
-        "explanation": "الحوت الأزرق ينتمي لرتبة الحيتان، بينما الذئب والقط والثعلب ينتمون جميعاً لرتبة أكلة لحوم، مما يجعله الأبعد تصنيفياً.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__6.png"
-    },
-    {
-        "id": "IMTY_7",
-        "question": "في الصورة المقابلة، ما هو الوصف الصحيح للبكتيريا المبينة؟",
-        "choices": [
-            "1 عصوية، 2 كروية، 3 لولبية",
-            "1 كروية، 2 عصوية، 3 لولبية",
-            "1 عصوية، 2 لولبية، 3 كروية",
-            "1 لولبية، 2 كروية، 3 عصوية"
-        ],
-        "answer": 2,
-        "explanation": "رقم 1 تظهر بكتيريا كروية، رقم 2 بكتيريا عصوية، ورقم 3 بكتيريا حلزونية (لولبية).",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__7.png"
-    },
-    {
         "id": "IMTY_8",
         "question": "الشكل لفيروس ارتجاعي يسبب مرض...",
         "choices": [
@@ -590,118 +494,6 @@
         "subject": "أحياء",
         "lesson": "تجميع أسئلة الصور والجداول",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__8.png"
-    },
-    {
-        "id": "IMTY_9",
-        "question": "الشكل يُمثل فيروس...",
-        "choices": [
-            "غُدي",
-            "الأنفلونزا",
-            "بكتيريوفاج",
-            "نباتي"
-        ],
-        "answer": 2,
-        "explanation": "هذا الشكل الكروي المحاط بغلاف وبروتينات سطحية هو التصميم التقليدي لفيروس الأنفلونزا.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__9.png"
-    },
-    {
-        "id": "IMTY_10",
-        "question": "في الشكل المقابل، أي منحنى أصدق تمثيلاً لمعدل نمو البكتيريا في الظروف المثلى؟",
-        "choices": [
-            "المنحنى 1",
-            "المنحنى 2",
-            "المنحنى 3",
-            "المنحنى 4"
-        ],
-        "answer": 2,
-        "explanation": "المنحنى 2 يظهر نمواً أسياً سريعاً، وهو ما يحدث للبكتيريا عندما تتوفر لها الظروف البيئية والغذائية المثالية.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__10.png"
-    },
-    {
-        "id": "IMTY_11",
-        "question": "أي منحنى أصدق تمثيلاً لمعدل نمو البكتيريا تعرضت لمضاد حيوي فعال؟",
-        "choices": [
-            "المنحنى 1",
-            "المنحنى 2",
-            "المنحنى 3",
-            "المنحنى 4"
-        ],
-        "answer": 4,
-        "explanation": "المنحنى 4 يظهر هبوطاً حاداً في عدد البكتيريا، مما يشير إلى تأثير قاتل لمضاد حيوي فعال أوقف نموها.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__11.png"
-    },
-    {
-        "id": "IMTY_12",
-        "question": "في الجدول أدناه، أي الخيارات التالية صحيحة:",
-        "choices": [
-            "1",
-            "2",
-            "3",
-            "4"
-        ],
-        "answer": 1,
-        "explanation": "الخيار 1 صحيح لأن البدائيات تتبع مملكة البدائيات، وتتميز بنوع خلايا بدائية النوى وجدارها لا يحتوي على ببتيدوجلايكان (في بعض التصنيفات يتم ذكر نوع الجدار بشكل مفصل).",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__12.png"
-    },
-    {
-        "id": "IMTY_13",
-        "question": "الشكل الحلزوني يمثل:",
-        "choices": [
-            "السبيروجيرا",
-            "التربونيميا",
-            "السالمونيلا",
-            "ايكوبكتيريالم"
-        ],
-        "answer": 2,
-        "explanation": "البكتيريا اللولبية الحلزونية مثل التربونيميا المسببة للزهري تظهر بهذا الشكل الملتوي.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__13.png"
-    },
-    {
-        "id": "IMTY_14",
-        "question": "بناءً على الشكل يمكن وصفه بأنه:",
-        "choices": [
-            "ينتقل عن طريق التنفس",
-            "فيروس الأبقار",
-            "بكتيريا بدائية",
-            "فيروس ارتجاعي"
-        ],
-        "answer": 4,
-        "explanation": "الشكل يوضح تركيب فيروس نقص المناعة المكتسبة الذي يحتوي على إنزيم النسخ العكسي وغلاف ومادة RNA، وهو فيروس ارتجاعي.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__14.png"
-    },
-    {
-        "id": "IMTY_15",
-        "question": "أي أجزاء الشكل المجاور يمثل محفظة الفيروس؟",
-        "choices": [
-            "1",
-            "2",
-            "3",
-            "4"
-        ],
-        "answer": 3,
-        "explanation": "الرقم 3 يشير إلى الغلاف البروتيني الخارجي (المحفظة) التي تحمي المادة الوراثية للفيروس البكتيري.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__15.png"
     },
     {
         "id": "IMTY_16",
@@ -832,134 +624,6 @@
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__23.png"
     },
     {
-        "id": "IMTY_24",
-        "question": "ما التركيب المبين في الشكل المقابل؟",
-        "choices": [
-            "خيوط فطرية غير مجزأة",
-            "غزل فطري",
-            "بوغ",
-            "خيوط فطرية مجزأة"
-        ],
-        "answer": 4,
-        "explanation": "تظهر الخيوط الفطرية في الصورة وهي تحتوي على حواجز تفصل بين خلاياها، لذا هي خيوط مجزأة.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__24.png"
-    },
-    {
-        "id": "IMTY_25",
-        "question": "أي المخلوقات التالية يُعد عديم التناظر؟",
-        "choices": [
-            "1",
-            "2",
-            "3",
-            "4"
-        ],
-        "answer": 1,
-        "explanation": "الإسفنج (رقم 1) حيوان عديم التناظر، لا يمكن تقسيمه بمستوى واحد إلى نصفين متماثلين.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__25.png"
-    },
-    {
-        "id": "IMTY_26",
-        "question": "تناظر المخلوق الذي في الشكل:",
-        "choices": [
-            "عديم التناظر",
-            "شعاعي",
-            "عديد التناظر",
-            "جانبي"
-        ],
-        "answer": 1,
-        "explanation": "حيوان الإسفنج في الشكل ليس له محور تناظم محدد، فهو عديم التناظر.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__26.png"
-    },
-    {
-        "id": "IMTY_27",
-        "question": "ما هي الميزة الواضحة للديدان الأسطوانية في الشكل؟",
-        "choices": [
-            "التجويف الحقيقي",
-            "التجويف الكاذب",
-            "عديمة التجويف",
-            "التجويف الثنائي"
-        ],
-        "answer": 2,
-        "explanation": "الديدان الأسطوانية تمتلك تجويفاً جسمياً كاذباً، وهو فراغ مملوء بسائل بين طبقتي القناة الهضمية وجدار الجسم.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__27.png"
-    },
-    {
-        "id": "IMTY_28",
-        "question": "الشكل يمثل مرحلة النمو المبكر لأجنة الحيوانات، أي التالي يمثل طور الجاسترولا؟",
-        "choices": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
-        "answer": 2,
-        "explanation": "الجاسترولا (رقم B) هي كيس ذو طبقتين من الخلايا له فتحة في إحدى نهايتيه.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__28.png"
-    },
-    {
-        "id": "IMTY_29",
-        "question": "الشكل يمثل مرحلة الجاسترولا في التكوين الجنيني، أي التراكيب التالية الذي يشير إليه السهم؟",
-        "choices": [
-            "الطبقة الداخلية",
-            "الطبقة الوسطى",
-            "الطبقة الخارجية",
-            "فتحة الجاسترولا"
-        ],
-        "answer": 1,
-        "explanation": "السهم يشير إلى الطبقة الخلوية المبطنة للجاسترولا وهي الطبقة الداخلية التي ستكون أعضاء الهضم.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__29.png"
-    },
-    {
-        "id": "IMTY_30",
-        "question": "أي الاشكال التالية يوضح حيواناً عديم التجويف الجسمي؟",
-        "choices": [
-            "أ",
-            "ب",
-            "ج",
-            "د"
-        ],
-        "answer": 1,
-        "explanation": "الخيار أ يوضح بنية دودة مفلطحة حيث لا يوجد فراغ بين القناة الهضمية والطبقة الخارجية، مما يعني أنها عديمة التجويف.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__30.png"
-    },
-    {
-        "id": "IMTY_31",
-        "question": "ما نوع التجويف في الصورة المجاورة؟",
-        "choices": [
-            "تجويف كاذب",
-            "عديم التجويف",
-            "حقيقة التجويف",
-            "ثنائي التجويف"
-        ],
-        "answer": 3,
-        "explanation": "الشكل يظهر تجويفاً جسمياً محاطاً بالكامل من جميع الجهات بالطبقة الوسطى، وهو ما يسمى بالتجويف الحقيقي.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__31.png"
-    },
-    {
         "id": "IMTY_32",
         "question": "ما نوع تجويف المخلوق الحي الموجود في الصورة",
         "choices": [
@@ -974,38 +638,6 @@
         "subject": "أحياء",
         "lesson": "تجميع أسئلة الصور والجداول",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__32.png"
-    },
-    {
-        "id": "IMTY_33",
-        "question": "ما مرحلة هذا الجنين في التكوين الجنيني؟",
-        "choices": [
-            "الزيجوت",
-            "البويضة",
-            "الجاسترولا",
-            "البلاستيولا"
-        ],
-        "answer": 3,
-        "explanation": "الشكل يوضح كيس الجاسترولا المكون من طبقتين وبينهما تجويف وله فتحة في طرفه.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__33.png"
-    },
-    {
-        "id": "IMTY_34",
-        "question": "في أي جزء يوجد السم؟",
-        "choices": [
-            "1",
-            "2",
-            "3",
-            "4"
-        ],
-        "answer": 2,
-        "explanation": "رقم 2 يشير إلى الخلايا اللاسعة في لوامس الهيدرا، والتي تحتوي على كيس خيطي لاسع يفرز السم.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__34.png"
     },
     {
         "id": "IMTY_38",
@@ -1840,22 +1472,6 @@
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__89.png"
     },
     {
-        "id": "IMTY_90",
-        "question": "ينتمي هذا الجهاز الهضمي إلى حيوان:",
-        "choices": [
-            "آكل الحشرات",
-            "آكل الأعشاب (مجتر)",
-            "آكل اللحوم",
-            "آكل الأعشاب (غير مجتر)"
-        ],
-        "answer": 3,
-        "explanation": "وجود معدة بسيطة ومعي أعور ضخم وطويل يميز آكلات الأعشاب غير المجترة مثل الأرانب والخيول.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__90.png"
-    },
-    {
         "id": "IMTY_91",
         "question": "ينتمي هذا الجهاز الهضمي إلى حيوان :",
         "choices": [
@@ -2462,54 +2078,6 @@
         "subject": "أحياء",
         "lesson": "تجميع أسئلة الصور والجداول",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__128.png"
-    },
-    {
-        "id": "IMTY_129",
-        "question": "ما اسم الجزء المشار إليه في الشكل المجاور؟",
-        "choices": [
-            "المحور",
-            "نهايات المحور",
-            "التفرعات",
-            "النواة"
-        ],
-        "answer": 2,
-        "explanation": "السهم يشير إلى نهايات المحور العصبي التي تنقل الإشارات إلى خلايا أخرى.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__129.png"
-    },
-    {
-        "id": "IMTY_130",
-        "question": "ما اسم الجزء المشار إليه في الشكل المجاور؟",
-        "choices": [
-            "عقد",
-            "محور",
-            "نواة",
-            "زوائد"
-        ],
-        "answer": 1,
-        "explanation": "السهم يشير إلى العقد الموجودة على غمد الميالين، والمعروفة بعقد رانفييه.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__130.png"
-    },
-    {
-        "id": "IMTY_131",
-        "question": "ما اسم الجزء المشار إليه في الشكل المجاور؟",
-        "choices": [
-            "الزوائد",
-            "النواة",
-            "التفرعات الأولية",
-            "المحور"
-        ],
-        "answer": 4,
-        "explanation": "الجزء الطويل الممتد من جسم الخلية العصبية هو المحور.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__131.png"
     },
     {
         "id": "IMTY_132",
@@ -3424,22 +2992,6 @@
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__188.png"
     },
     {
-        "id": "IMTY_189",
-        "question": "في الشكل المقابل، ما نوع هذه الخلية؟",
-        "choices": [
-            "حيوانية",
-            "نباتية",
-            "بكتيريا",
-            "فطرية"
-        ],
-        "answer": 2,
-        "explanation": "الخلية لها جدار خلوي سميك وبلاستيدات خضراء وفجوة مركزية كبيرة، فهي خلية نباتية.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__189.png"
-    },
-    {
         "id": "IMTY_190",
         "question": "أي الجزيئات الكبيرة لها تركيب يشبه الشكل المقابل؟",
         "choices": [
@@ -3822,38 +3374,6 @@
         "subject": "أحياء",
         "lesson": "تجميع أسئلة الصور والجداول",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__213.png"
-    },
-    {
-        "id": "IMTY_214",
-        "question": "أي أطوار الانقسام المنصف يظهر في الشكل؟",
-        "choices": [
-            "التمهيدي",
-            "الاستوائي الأول",
-            "الانفصالي الثاني",
-            "النهائي الأول"
-        ],
-        "answer": 3,
-        "explanation": "",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__214.png"
-    },
-    {
-        "id": "IMTY_215",
-        "question": "أي أطوار الانقسام المنصف يظهر في الشكل؟",
-        "choices": [
-            "الاستوائي الأول",
-            "الاستوائي الثاني",
-            "الانفصالي الأول",
-            "الانفصالي الثاني"
-        ],
-        "answer": 1,
-        "explanation": "اصطفاف أزواج الكروموسومات المتماثلة عند خط استواء الخلية هو الطور الاستوائي الأول.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__215.png"
     },
     {
         "id": "IMTY_216",
@@ -4303,7 +3823,7 @@
         "lesson": "تجميع أسئلة الصور والجداول",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY__243.png"
     },
-     {
+    {
         "id": "IMTY_8562",
         "question": "حسب الشكل، أي مما يلي أصغر طاقة ؟",
         "choices": [
@@ -4782,22 +4302,6 @@
         "subject": "أحياء",
         "lesson": "تجميع أسئلة الصور والجداول",
         "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY_1010.png"
-    },
-    {
-        "id": "IMTY_3321",
-        "question": "إذا نُشرت المادة D.D.T في المخطط التالي، أي المخلوقات تكون نسبة السموم في جسمها أكبر؟",
-        "choices": [
-            "A",
-            "B",
-            "G",
-            "D"
-        ],
-        "answer": 1,
-        "explanation": "المفترس العلوي في المخطط (A) هو الذي تتراكم في جسمه أعلى نسبة من السموم عبر السلسلة.",
-        "source": "يلو تجميع أسئلة الصور والجداول",
-        "subject": "أحياء",
-        "lesson": "تجميع أسئلة الصور والجداول",
-        "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_IMTY_3321.png"
     },
     {
         "id": "IMTY_4487",
