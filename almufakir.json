@@ -1,0 +1,25 @@
+{
+  "trainings": [
+   
+    {
+      "title": "50 اصدار مجاني المفكر",
+      "image": "https://raw.githubusercontent.com/fefeglu8/effepdf/refs/heads/main/Screenshot_44.png",
+      "lessons": [
+        {
+          "title": "50 اصدار مجاني",
+          "quizzes": [
+            {
+              "title": "اصدار 1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "name": "50 اصدار مجاني",
+      "url": "https://drive.google.com/file/d/1aUifY3MbDjyWOSP3QbKGM5oUCRDO55hu/view?usp=sharing"
+    }
+  ]
+}
