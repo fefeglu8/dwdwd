@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "source_id": "nasser_abdulkarim_2026",
+      "source_name": "ناصر عبدالكريم 2026",
+      "content_type": "pages",
+      "subjects": [
+        {
+          "subject_id": "physics",
+          "subject_name": "الفيزياء",
+          "range": { "from": 8, "to": 91 }
+        },
+        {
+          "subject_id": "math",
+          "subject_name": "الرياضيات",
+          "range": { "from": 92, "to": 178 }
+        },
+        {
+          "subject_id": "chemistry",
+          "subject_name": "الكيمياء",
+          "range": { "from": 180, "to": 265 }
+        },
+        {
+          "subject_id": "biology",
+          "subject_name": "الأحياء",
+          "range": { "from": 266, "to": 353 }
+        }
+      ]
+    },
+
+    {
+      "source_id": "einstein_2026",
+      "source_name": "دورة أينشتاين 2026",
+      "content_type": "clips",
+      "subjects": [
+        {
+          "subject_id": "physics",
+          "subject_name": "الفيزياء",
+          "range": { "from": 1, "to": 35 }
+        }
+      ]
+    }
+  ]
+}
