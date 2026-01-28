@@ -36,7 +36,12 @@
         {
           "subject_id": "physics",
           "subject_name": "الفيزياء",
-          "range": { "from": 1, "to": 40 }
+          "range": { "from": 1, "to": 43 }
+        },
+        {
+          "subject_id": "math",
+          "subject_name": "الرياضيات",
+          "range": { "from": 1, "to": 31 }
         }
       ]
     }
